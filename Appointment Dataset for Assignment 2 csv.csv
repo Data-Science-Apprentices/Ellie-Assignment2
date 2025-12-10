@@ -1,0 +1,2268 @@
+﻿EMIS Number,Age,Gender,Appointment Date,Appointment Time,Slot Type,Session Category,Arrive Time to Send In Time,Slot Time to Send In Time,Slot Time to Arrive Time,Consultation Time
+455,70,Male,28-Nov-25,9:20,Default,Nurse: General,,,5,
+715,64,Female,28-Nov-25,9:30,Pharmacist Pt Review,Morning Session,,,,
+746,80,Female,28-Nov-25,11:53,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-22,-22,33
+1493,81,Female,28-Nov-25,9:00,Urine only,Default List Category,0,266,266,7
+2911,61,Male,28-Nov-25,11:15,Minor illness AM,Morning Session,16,3,-13,12
+3111,74,Male,28-Nov-25,13:00,Tel for follow up results ONLY,Default Non-List Category,,,,
+3112,82,Female,28-Nov-25,13:48,Flu Covid ,FLU CLINIC,0,4,3,1
+3440,84,Male,28-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+3763,38,Male,28-Nov-25,14:30,Telephone 1 week bookable ,Morning Session,,,,
+4901,77,Female,28-Nov-25,11:00,AX Face2Face same day ,Triage/Urgent Surg,1,-4,-5,20
+5304,54,Female,28-Nov-25,13:30,Flu Covid ,FLU CLINIC,0,-4,-5,1
+6280,67,Male,28-Nov-25,11:30,Default,Nurse: General,,,,
+7048,58,Male,28-Nov-25,13:33,Flu Covid ,FLU CLINIC,,,,
+8137,84,Female,28-Nov-25,14:00,AX Face2Face same day ,Default Non-List Category,8,-1,-9,12
+9969,76,Female,28-Nov-25,9:00,SMR Review,Morning Session,,,,
+10540,64,Male,28-Nov-25,9:45,AX Face2Face same day ,Default Non-List Category,23,-1,-25,37
+11242,78,Female,28-Nov-25,10:00,AX Face2Face same day ,Morning Session,44,35,-9,23
+12251,65,Female,28-Nov-25,8:45,AX Face2Face same day ,Triage/Urgent Surg,29,6,-22,16
+12506,32,Male,28-Nov-25,10:45,AX Face2Face same day ,Triage/Urgent Surg,6,0,-7,11
+12583,64,Male,28-Nov-25,10:30,Minor illness AM,Morning Session,16,13,-3,14
+13388,61,Male,28-Nov-25,15:30,Telephone 1 week bookable ,Morning Session,,,,
+16229,70,Male,28-Nov-25,11:30,AX Telephone same day,Triage/Urgent Surg,,,,
+17690,29,Female,28-Nov-25,8:00,Tel for follow up results ONLY,Triage/Urgent Surg,,,,
+19022,72,Female,28-Nov-25,10:30,Default,Nurse: General,6,5,0,9
+21837,24,Male,28-Nov-25,9:40,Face to Face 1 week bookable,Morning Session,14,13,-1,7
+23027,21,Female,28-Nov-25,10:45,Minor illness AM,Morning Session,13,13,0,8
+24715,68,Female,28-Nov-25,14:15,AX Telephone same day,Default Non-List Category,,,,
+25669,70,Male,28-Nov-25,9:15,AX Telephone same day,Default Non-List Category,,,,
+26386,19,Female,28-Nov-25,11:30,Minor illness AM,Morning Session,5,1,-4,12
+28307,35,Female,28-Nov-25,9:15,Minor illness AM,Morning Session,13,8,-4,12
+28895,46,Female,28-Nov-25,14:00,CCAS 111 Telephone Triage,Morning Session,,,,
+30385,14,Female,28-Nov-25,8:15,Minor illness AM,Morning Session,9,7,-2,6
+30886,14,Male,28-Nov-25,8:30,Minor illness AM,Morning Session,0,-1,-1,8
+31013,14,Male,28-Nov-25,10:15,Minor illness AM,Morning Session,10,10,0,17
+500552,46,Male,28-Nov-25,11:45,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,33,29,15
+501239,49,Female,28-Nov-25,14:03,Flu Covid ,FLU CLINIC,,,,
+501600,59,Female,28-Nov-25,14:09,Flu Covid ,FLU CLINIC,0,0,0,13
+502377,48,Female,28-Nov-25,8:30,AX Face2Face same day ,Triage/Urgent Surg,8,3,-4,16
+502711,40,Male,28-Nov-25,13:36,Flu Covid ,FLU CLINIC,,,,
+503303,41,Female,28-Nov-25,9:40,Smear Test,Nurse: General,1,-4,-6,17
+503519,42,Male,28-Nov-25,14:00,Flu Covid ,FLU CLINIC,,,,
+503864,14,Female,28-Nov-25,16:45,AX Face2Face same day ,Default Non-List Category,22,21,-1,21
+505130,61,Female,28-Nov-25,13:42,Flu Covid ,FLU CLINIC,3,12,8,4
+505294,35,Female,28-Nov-25,13:30,AX Face2Face same day ,Default Non-List Category,4,3,0,11
+505604,8,Male,28-Nov-25,17:50,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,21,21,18
+506295,40,Female,28-Nov-25,14:20,AX Telephone same day,Morning Session,,,,
+506506,57,Male,28-Nov-25,10:00,AX Face2Face same day ,Triage/Urgent Surg,4,0,-4,27
+506798,43,Female,28-Nov-25,14:50,AX Telephone same day,Morning Session,,,,
+507161,6,Female,28-Nov-25,14:10,AX Telephone same day,Morning Session,,,,
+507303,43,Female,28-Nov-25,9:10,Face to Face 2 week bookable,Morning Session,6,14,8,14
+508260,58,Female,28-Nov-25,10:45,Pharmacist Pt Review,Morning Session,,,,
+509263,4,Male,28-Nov-25,16:30,AX Face2Face same day ,Default Non-List Category,19,16,-3,20
+509465,35,Female,28-Nov-25,8:45,Face to Face 1 week bookable,Default Non-List Category,21,9,-11,11
+509694,33,Female,28-Nov-25,9:00,Minor illness AM,Morning Session,3,7,3,15
+509803,45,Male,28-Nov-25,13:51,Flu Covid ,FLU CLINIC,,,,
+509843,39,Female,28-Nov-25,16:00,AX Telephone same day,Default Non-List Category,,,,
+509980,47,Female,28-Nov-25,17:00,Face to Face 2 week bookable,Default Non-List Category,36,33,-3,34
+510181,43,Female,28-Nov-25,13:15,Tel for follow up results ONLY,Default Non-List Category,,,,
+510306,3,Female,28-Nov-25,10:15,AX Face2Face same day ,Default Non-List Category,32,23,-9,12
+511060,2,Female,28-Nov-25,9:00,Face to Face 1 week bookable,Default Non-List Category,11,6,-5,15
+511418,26,Female,28-Nov-25,8:00,Smear Test,Nurse: General,8,7,-1,105
+511702,1,Female,28-Nov-25,16:00,Default,Morning Session,0,44,44,18
+512361,1,Female,28-Nov-25,9:30,Minor illness AM,Morning Session,7,5,-1,26
+512496,4,Male,28-Nov-25,10:00,AX Face2Face same day ,Default Non-List Category,30,21,-9,16
+512594,33,Male,28-Nov-25,9:20,AX Face2Face same day ,Morning Session,16,19,2,10
+512866,43,Male,28-Nov-25,15:45,AX 48 hour bookable,Default Non-List Category,,,,
+512994,37,Male,28-Nov-25,13:39,Flu Covid ,FLU CLINIC,,,,
+252,63,Female,27-Nov-25,11:15,AX Telephone same day,Default Non-List Category,,,,
+256,60,Male,27-Nov-25,11:00,Multi One stop clinic,Morning Session,7,-3,-10,43
+811,62,Male,27-Nov-25,11:00,AX Face2Face same day ,Default Non-List Category,23,20,-2,18
+1479,35,Female,27-Nov-25,10:50,Default,Morning Session,13,13,0,5
+2760,64,Male,27-Nov-25,9:30,Face to Face 1 week bookable,Morning Session,15,-8,-23,19
+4118,79,Female,27-Nov-25,11:10,AX Face2Face same day ,Evening Surgery,5,5,0,9
+5867,77,Male,27-Nov-25,10:15,SMR Review,Morning Session,,,,
+6387,81,Female,27-Nov-25,11:00,Hypertension Only,Morning Session,10,9,-1,24
+7359,68,Female,27-Nov-25,8:40,Tel for follow up results ONLY,Morning Session,,,,
+7800,81,Female,27-Nov-25,11:10,Carers Health Check ,Nurse: General,14,0,-13,14
+8659,88,Female,27-Nov-25,9:50,Default,Nurse: General,3,-2,-6,14
+13635,68,Female,27-Nov-25,11:00,Face to Face 1 week bookable,Morning Session,4,4,0,14
+14386,59,Female,27-Nov-25,8:00,Default,Morning Session,3,-2,-5,19
+14741,84,Female,27-Nov-25,9:00,Home Visit for review,Morning Session,,,,
+16361,28,Female,27-Nov-25,9:30,AX 48 hour bookable,Morning Session,25,19,-6,15
+17057,56,Male,27-Nov-25,8:30,Default,Morning Session,23,-11,-35,5
+17778,88,Female,27-Nov-25,9:30,Home Visit for review,Morning Session,,,,
+20120,60,Female,27-Nov-25,9:00,Urine only,Default List Category,0,454,454,3
+22966,49,Male,27-Nov-25,9:00,Face to Face 2 week bookable,Default Non-List Category,8,1,-6,32
+24119,71,Male,27-Nov-25,9:30,Multi One stop clinic,Morning Session,3,-6,-9,136
+24186,72,Male,27-Nov-25,10:20,NHS HEALTH CHECK,Nurse: General,8,1,-6,5
+24470,64,Female,27-Nov-25,9:30,Pharmacist Pt Review,Morning Session,,,,
+24940,51,Male,27-Nov-25,8:00,Multi One stop clinic,Morning Session,6,-3,-10,26
+25671,86,Female,27-Nov-25,11:00,Home Visit for review,Morning Session,,,,
+27052,61,Female,27-Nov-25,9:30,AX Telephone same day,Default Non-List Category,,,,
+27758,62,Female,27-Nov-25,10:00,AX Face2Face same day ,Morning Session,9,1,-7,17
+28318,56,Male,27-Nov-25,9:20,AX 48 hour bookable,Morning Session,5,-7,-12,22
+502005,43,Female,27-Nov-25,10:50,AX Face2Face same day ,Morning Session,10,11,1,11
+503206,36,Female,27-Nov-25,12:00,Telephone 1 week bookable ,Evening Surgery,,,,
+503812,58,Male,27-Nov-25,9:00,Urine only,Default List Category,0,454,454,1
+503856,33,Female,27-Nov-25,9:00,Face to Face 1 week bookable,Morning Session,15,12,-3,13
+504239,34,Male,27-Nov-25,11:20,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-103,-103,3
+504540,34,Male,27-Nov-25,12:15,AX Face2Face same day ,Morning Session,4,2,-2,8
+504655,43,Female,27-Nov-25,11:20,Smear Test,Morning Session,13,14,1,13
+504701,64,Male,27-Nov-25,17:30,CCAS 111 Telephone Triage,Triage/Urgent Surg,,,,
+505894,73,Male,27-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+506325,13,Female,27-Nov-25,10:00,AX Face2Face same day ,Default Non-List Category,2,11,-6,7
+507244,72,Female,27-Nov-25,10:40,Default,Morning Session,15,49,33,14
+507476,9,Female,27-Nov-25,10:40,AX Face2Face same day ,Morning Session,15,12,-2,8
+507501,63,Female,27-Nov-25,9:45,Face to Face 2 week bookable,Default Non-List Category,9,7,-1,10
+507791,81,Female,27-Nov-25,10:00,Pharmacist Pt Review,Morning Session,,,,
+507904,41,Male,27-Nov-25,10:15,Face to Face 2 week bookable,Morning Session,5,1,-3,13
+507970,77,Female,27-Nov-25,12:10,AX Face2Face same day ,Evening Surgery,11,0,-10,16
+508268,44,Male,27-Nov-25,9:00,NHS HEALTH CHECK,Nurse: General,4,5,0,22
+508968,4,Female,27-Nov-25,9:50,AX 48 hour bookable,Morning Session,12,14,2,10
+510242,33,Female,27-Nov-25,11:15,AX Face2Face same day ,Morning Session,3,4,1,14
+510868,42,Male,27-Nov-25,10:30,Face to Face 2 week bookable,Morning Session,5,0,-4,16
+511061,2,Female,27-Nov-25,10:30,AX Face2Face same day ,Morning Session,17,12,-4,10
+512307,29,Female,27-Nov-25,9:40,Face to Face 1 week bookable,Morning Session,,,,
+512359,1,Male,27-Nov-25,10:15,AX Face2Face same day ,Default Non-List Category,11,8,-3,12
+512521,90,Female,27-Nov-25,11:30,AX Face2Face same day ,Morning Session,5,3,-2,15
+512605,24,Female,27-Nov-25,10:45,Face to Face 1 week bookable,Morning Session,5,2,-3,8
+512663,33,Male,27-Nov-25,8:30,Tel for follow up results ONLY,Morning Session,,,,
+2457,74,Female,26-Nov-25,9:40,Hypertension Only,Nurse: General,6,-4,-10,24
+2876,75,Female,26-Nov-25,14:20,Carers Health Check ,Default Non-List Category,3,1,-2,12
+3515,72,Female,26-Nov-25,11:00,AX Face2Face same day ,Default Non-List Category,20,13,-6,17
+3636,77,Male,26-Nov-25,9:00,Urine only,Default List Category,0,475,475,4
+3705,83,Female,26-Nov-25,10:40,Default,Default Non-List Category,13,6,-6,6
+4570,66,Female,26-Nov-25,15:00,AX Telephone same day,Default Non-List Category,,,,
+5368,74,Female,26-Nov-25,11:00,Pharmacist Pt Review,Morning Session,,,,
+5640,75,Female,26-Nov-25,15:20,First Contact Physio,Evening Surgery,11,4,-7,14
+5903,55,Female,26-Nov-25,14:40,Default,Nurse: General,3,4,1,7
+5941,40,Male,26-Nov-25,9:10,Face to Face 2 week bookable,Morning Session,12,11,0,12
+6981,66,Female,26-Nov-25,9:50,Drug Monitoring Blood Test,Default Non-List Category,24,10,-13,17
+7269,53,Female,26-Nov-25,14:40,Face to Face 2 week bookable,Triage/Urgent Surg,13,18,5,14
+7763,77,Female,26-Nov-25,14:10,Carers Health Check ,Nurse: General,4,-9,-14,38
+8261,76,Female,26-Nov-25,10:15,SMR Review,Morning Session,,,,
+8270,70,Female,26-Nov-25,10:00,Pharmacist Pt Review,Morning Session,,,,
+8561,83,Male,26-Nov-25,11:20,Default,Default Non-List Category,7,-5,-12,9
+8916,54,Female,26-Nov-25,14:30,AX Telephone same day,Default Non-List Category,,,,
+9884,62,Female,26-Nov-25,11:50,First Contact Physio,Morning Session,4,6,2,15
+10504,68,Female,26-Nov-25,9:00,Drug Monitoring Blood Test,Default Non-List Category,19,5,-13,9
+12860,34,Male,26-Nov-25,10:00,Learning Disabilty Review,Nurse: General,10,13,3,60
+14598,64,Male,26-Nov-25,15:20,AX telephone 48 hour bookable,Default Non-List Category,,,,
+14859,62,Male,26-Nov-25,17:10,Telephone 2 week bookable,Triage/Urgent Surg,,,,
+16153,50,Female,26-Nov-25,14:45,Pharmacist F2F Review,Morning Session,1,0,-2,14
+17524,86,Male,26-Nov-25,14:50,AX Telephone same day,Default Non-List Category,,,,
+17689,54,Female,26-Nov-25,8:30,Tel for follow up results ONLY,Morning Session,,,,
+18357,50,Female,26-Nov-25,9:30,Pharmacist Pt Review,Morning Session,,,,
+18650,71,Female,26-Nov-25,17:00,Telephone 2 week bookable,Triage/Urgent Surg,,,,
+18801,80,Male,26-Nov-25,9:10,Drug Monitoring Blood Test,Default Non-List Category,24,7,-17,218
+18882,52,Male,26-Nov-25,16:30,AX Triage,Default Non-List Category,,,,
+19480,64,Female,26-Nov-25,16:00,Default,Baby Clinic ,0,-1,-1,20
+21108,52,Female,26-Nov-25,10:20,AX Face2Face same day ,Evening Surgery,0,-2,-3,11
+21805,55,Male,26-Nov-25,11:30,PN TO BOOK,Default Non-List Category,31,-2,-34,149
+23740,49,Male,26-Nov-25,11:00,AX Face2Face same day ,Evening Surgery,6,-7,-14,16
+23985,32,Female,26-Nov-25,16:40,Telephone 2 week bookable,Triage/Urgent Surg,,,,
+24459,34,Male,26-Nov-25,9:30,Mental Health review phonecall,Morning Session,,,,
+24881,68,Male,26-Nov-25,10:10,First Contact Physio,Morning Session,21,21,0,12
+26385,27,Male,26-Nov-25,17:00,First Contact Physio,Evening Surgery,,,,
+26463,46,Female,26-Nov-25,12:30,First Contact Physio,Morning Session,15,1,-13,17
+26531,51,Female,26-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+26554,73,Male,26-Nov-25,14:40,Hypertension Only,Default Non-List Category,4,5,1,201
+26851,75,Male,26-Nov-25,10:00,COPD face to face,Morning Session,1,-30,-31,25
+500903,13,Female,26-Nov-25,10:20,AX Face2Face same day ,Morning Session,3,1,-1,12
+501212,49,Female,26-Nov-25,16:20,AX Triage,Default Non-List Category,,,,
+501837,12,Male,26-Nov-25,16:10,AX Face2Face same day ,Triage/Urgent Surg,,,,
+502467,17,Female,26-Nov-25,11:20,AX Triage,Morning Session,,,,
+502556,40,Female,26-Nov-25,11:30,First Contact Physio,Morning Session,4,0,-3,25
+502631,71,Female,26-Nov-25,9:40,Face to Face 2 week bookable,Evening Surgery,0,-7,-8,15
+503066,73,Female,26-Nov-25,10:00,Hypertension Only,Default Non-List Category,25,19,-5,203
+503204,10,Male,26-Nov-25,9:40,AX Face2Face same day ,Morning Session,7,3,-4,8
+503527,12,Male,26-Nov-25,13:00,AX Face2Face same day ,Morning Session,25,22,-3,13
+503693,23,Female,26-Nov-25,13:20,AX 48 hour bookable,Morning Session,29,33,4,21
+504473,58,Female,26-Nov-25,8:30,Tel for follow up results ONLY,Default Non-List Category,,,,
+504732,74,Male,26-Nov-25,15:30,AX telephone 48 hour bookable,Default Non-List Category,,,,
+505908,8,Male,26-Nov-25,9:30,Face to Face 1 week bookable,Morning Session,2,4,2,8
+507213,57,Male,26-Nov-25,10:00,Pharmacist Pt Review,Morning Session,,,,
+507281,32,Female,26-Nov-25,15:30,Smear Test,Nurse: General,10,1,-8,24
+507795,34,Female,26-Nov-25,11:30,AX Telephone same day,Morning Session,,,,
+508171,71,Female,26-Nov-25,14:00,Carers Health Check ,Default Non-List Category,6,1,-4,32
+508375,5,Female,26-Nov-25,12:10,Telephone 2 week bookable,Evening Surgery,,,,
+509209,46,Male,26-Nov-25,9:30,Drug Monitoring Blood Test,Default Non-List Category,22,11,-10,4
+509697,39,Male,26-Nov-25,8:50,AX 48 hour bookable,Morning Session,23,5,-17,15
+509831,4,Male,26-Nov-25,10:30,AX 48 hour bookable,Default Non-List Category,39,22,-16,21
+510213,35,Female,26-Nov-25,16:00,Default,Default Non-List Category,17,3,-14,18
+510218,36,Female,26-Nov-25,15:40,Triage Appt,Default Non-List Category,0,-69,-69,3
+510815,2,Female,26-Nov-25,9:50,AX Face2Face same day ,Morning Session,6,4,-1,13
+510944,2,Female,26-Nov-25,12:40,AX Face2Face same day ,Morning Session,5,-8,-13,15
+510972,44,Male,26-Nov-25,14:00,First Contact Physio,Evening Surgery,13,0,-12,19
+511230,2,Male,26-Nov-25,16:00,AX 48 hour bookable,Triage/Urgent Surg,6,18,11,18
+511391,47,Male,26-Nov-25,13:30,Pharmacist Pt Review,Morning Session,,,,
+511636,2,Female,26-Nov-25,10:00,AX Telephone same day,Morning Session,,,,
+511738,1,Male,26-Nov-25,9:40,AX 48 hour bookable,Morning Session,20,22,2,11
+511943,91,Female,26-Nov-25,9:00,Urine only,Default List Category,0,532,532,4
+511955,24,Female,26-Nov-25,10:50,Contraception fitting,Morning Session,16,9,-6,27
+512256,1,Male,26-Nov-25,10:15,AX 48 hour bookable,Default Non-List Category,26,24,-1,12
+512273,1,Female,26-Nov-25,9:45,AX Face2Face same day ,Default Non-List Category,20,17,-3,13
+512397,50,Female,26-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+512519,32,Female,26-Nov-25,14:40,AX Telephone same day,Default Non-List Category,,,,
+512764,36,Female,26-Nov-25,16:30,Default,Nurse: General,2,-5,-8,11
+512986,0,Female,26-Nov-25,16:10,Triage Appt,Default Non-List Category,0,-95,-95,1
+513007,76,Male,26-Nov-25,15:00,First Contact Physio,Evening Surgery,21,14,-7,9
+180,67,Male,25-Nov-25,8:00,Default,Nurse: General,1,0,-1,10
+857,71,Male,25-Nov-25,10:20,Default,Nurse: General,1,1,0,11
+1851,83,Female,25-Nov-25,16:00,AX Telephone same day,Evening Surgery,,,,
+2192,70,Female,25-Nov-25,9:00,Urine only,Default List Category,0,154,154,0
+2919,74,Male,25-Nov-25,10:30,PCN GP F2F,Default Non-List Category,31,25,-6,17
+3288,57,Female,25-Nov-25,9:30,Pharmacist Pt Review,Morning Session,,,,
+4816,59,Female,25-Nov-25,12:50,AX Face2Face same day ,Morning Session,,,,
+5833,80,Female,25-Nov-25,11:15,Minor illness AM,Morning Session,0,-7,-7,20
+6318,74,Male,25-Nov-25,9:30,AX Face2Face same day ,Morning Session,14,7,-6,16
+6513,64,Female,25-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+6893,59,Male,25-Nov-25,14:00,Minor illness AM,Morning Session,29,2,-27,9
+7978,81,Female,25-Nov-25,8:40,Default,Nurse: General,5,3,-2,46
+8134,85,Male,25-Nov-25,14:00,PCN GP F2F,Default Non-List Category,9,1,-8,8
+8766,95,Male,25-Nov-25,9:20,AX Face2Face same day ,Morning Session,16,11,-5,18
+8830,77,Male,25-Nov-25,10:30,Minor illness AM,Morning Session,0,-34,-34,8
+11266,71,Male,25-Nov-25,13:00,AX Face2Face same day ,Morning Session,7,4,-3,9
+11544,61,Female,25-Nov-25,10:00,Smear Test,Nurse: General,13,9,-4,97
+11829,70,Male,25-Nov-25,13:45,AX Face2Face same day ,Default Non-List Category,30,24,-6,13
+13658,55,Female,25-Nov-25,14:45,Minor illness AM,Morning Session,,,,
+16394,28,Female,25-Nov-25,11:20,PCN GP F2F,Default Non-List Category,33,27,-6,11
+16637,70,Female,25-Nov-25,10:15,Minor illness AM,Morning Session,32,15,-17,19
+16638,77,Male,25-Nov-25,11:10,Multi One stop clinic,Nurse: General,24,-6,-31,58
+17305,27,Female,25-Nov-25,17:10,Smear Test,Nurse: General,1,3,1,12
+17681,59,Female,25-Nov-25,10:00,Minor illness AM,Morning Session,7,6,-1,18
+18069,88,Female,25-Nov-25,16:20,AX Telephone same day,Evening Surgery,,,,
+18526,63,Male,25-Nov-25,8:00,Multi One stop clinic,Morning Session,10,0,-10,38
+19796,60,Female,25-Nov-25,12:30,Tel for follow up results ONLY,Morning Session,,,,
+19825,25,Female,25-Nov-25,10:30,AX Face2Face same day ,Default Non-List Category,9,8,-1,15
+20512,23,Female,25-Nov-25,8:45,Face to Face 2 week bookable,Morning Session,15,10,-5,22
+20972,23,Female,25-Nov-25,10:20,PCN GP F2F,Default Non-List Category,14,14,0,19
+21141,61,Female,25-Nov-25,15:15,Minor illness AM,Morning Session,0,22,-5,8
+22244,34,Female,25-Nov-25,16:10,AX Telephone same day,Evening Surgery,,,,
+23279,91,Male,25-Nov-25,9:40,Default,Nurse: General,0,4,3,75
+23312,56,Male,25-Nov-25,9:10,Face to Face 2 week bookable,Morning Session,13,-9,-22,21
+23976,24,Male,25-Nov-25,10:00,Minor illness AM,Morning Session,,,,
+24162,29,Male,25-Nov-25,16:40,AX Telephone same day,Evening Surgery,,,,
+26309,52,Female,25-Nov-25,8:10,Smear Test,Nurse: General,13,17,4,199
+26450,18,Female,25-Nov-25,13:50,AX 48 hour bookable,Morning Session,33,17,-15,14
+26779,18,Male,25-Nov-25,9:10,Default,Nurse: General,5,14,8,3
+26835,44,Male,25-Nov-25,17:20,AX Telephone same day,Evening Surgery,,,,
+27321,63,Female,25-Nov-25,9:20,Smear Test,Nurse: General,,,,
+27389,17,Female,25-Nov-25,15:30,PCN GP F2F,Default Non-List Category,40,36,-4,11
+27826,75,Male,25-Nov-25,8:30,Default,Nurse: General,9,1,-7,11
+28063,37,Female,25-Nov-25,8:00,Default,Nurse: General,0,8,7,66
+30024,15,Female,25-Nov-25,9:45,Minor illness AM,Morning Session,27,9,-17,0
+30371,22,Female,25-Nov-25,8:30,Face to Face 1 week bookable,Default Non-List Category,10,2,-7,12
+30766,59,Female,25-Nov-25,8:50,Blood appointment,Nurse: General,14,7,-7,7
+500240,59,Female,25-Nov-25,12:30,Face to Face 1 week bookable,Default Non-List Category,13,7,-5,17
+500515,46,Female,25-Nov-25,19:15,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+501530,47,Female,25-Nov-25,11:00,AX Face2Face same day ,Default Non-List Category,32,21,-10,69
+501790,81,Male,25-Nov-25,8:40,Tel for follow up results ONLY,Morning Session,,,,
+502118,59,Female,25-Nov-25,13:30,AX Face2Face same day ,Default Non-List Category,31,20,-10,18
+502150,20,Male,25-Nov-25,16:00,Face to Face 2 week bookable,Default Non-List Category,31,32,0,10
+502616,57,Male,25-Nov-25,8:45,Minor illness AM,Morning Session,4,1,-3,16
+503225,13,Female,25-Nov-25,16:10,PCN GP F2F,Default Non-List Category,,,,
+503289,44,Male,25-Nov-25,9:10,PCN GP F2F,Default Non-List Category,,,,
+503442,16,Female,25-Nov-25,13:30,AX Face2Face same day ,Morning Session,12,11,-1,14
+503505,14,Female,25-Nov-25,14:45,Pharmacist F2F Review,Morning Session,,,,
+504145,83,Male,25-Nov-25,13:45,Minor illness AM,Morning Session,0,12,12,12
+504603,9,Male,25-Nov-25,8:30,Minor illness AM,Morning Session,1,0,-1,15
+505178,84,Female,25-Nov-25,13:30,COPD face to face,Morning Session,16,0,-16,42
+505744,46,Male,25-Nov-25,14:00,AX 48 hour bookable,Morning Session,27,22,-5,14
+505797,8,Female,25-Nov-25,9:30,AX Face2Face same day ,Default Non-List Category,20,19,0,18
+505865,52,Female,25-Nov-25,8:15,Face to Face 1 week bookable,Morning Session,7,10,3,11
+505867,19,Male,25-Nov-25,10:40,PCN GP F2F,Default Non-List Category,,,,
+506093,80,Female,25-Nov-25,10:00,Multi One stop clinic,Morning Session,6,6,0,41
+506132,40,Female,25-Nov-25,8:40,Tel for follow up results ONLY,Morning Session,,,,
+506612,7,Male,25-Nov-25,12:30,Minor illness AM,Morning Session,17,9,-8,27
+506654,20,Female,25-Nov-25,12:45,Face to Face 2 week bookable,Default Non-List Category,23,10,-13,14
+506713,54,Female,25-Nov-25,9:30,Minor illness AM,Morning Session,7,4,-3,9
+506995,24,Female,25-Nov-25,9:30,Minor illness AM,Morning Session,3,-11,-14,11
+507102,31,Female,25-Nov-25,17:30,AX Telephone same day,Evening Surgery,,,,
+507198,41,Male,25-Nov-25,10:00,AX Telephone same day,Default Non-List Category,,,,
+507824,79,Male,25-Nov-25,10:00,Pharmacist Pt Review,Morning Session,,,,
+508232,56,Male,25-Nov-25,16:45,Telephone 1 week bookable ,Default Non-List Category,,,,
+508625,47,Female,25-Nov-25,8:30,Multi One stop clinic,Morning Session,12,8,-3,18
+509254,9,Male,25-Nov-25,10:45,Minor illness AM,Morning Session,3,5,1,5
+509407,49,Female,25-Nov-25,12:15,AX Telephone same day,Default Non-List Category,,,,
+509762,16,Female,25-Nov-25,9:00,Minor illness AM,Morning Session,17,5,-12,9
+509975,86,Male,25-Nov-25,13:00,AX Face2Face same day ,Baby Clinic ,28,6,-22,17
+510070,53,Female,25-Nov-25,19:30,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+510319,3,Female,25-Nov-25,15:50,Pre School Booster and 1 year ONLY,Baby Clinic ,10,7,-3,3
+510322,3,Male,25-Nov-25,16:10,Pre School Booster and 1 year ONLY,Baby Clinic ,6,13,7,2
+510330,33,Female,25-Nov-25,8:30,Minor illness AM,Morning Session,19,10,-8,14
+510362,27,Female,25-Nov-25,17:10,AX Telephone same day,Evening Surgery,,,,
+510440,3,Male,25-Nov-25,15:40,Pre School Booster and 1 year ONLY,Baby Clinic ,15,9,-6,4
+510505,56,Female,25-Nov-25,15:00,PCN GP F2F,Default Non-List Category,30,22,-7,14
+510684,36,Female,25-Nov-25,10:45,Minor illness AM,Morning Session,,,,
+510748,76,Female,25-Nov-25,10:30,SMR Review,Morning Session,,,,
+510841,23,Male,25-Nov-25,10:00,AX Telephone same day,Morning Session,,,,
+511030,63,Male,25-Nov-25,9:30,AX Face2Face same day ,Morning Session,21,19,-2,23
+511351,43,Male,25-Nov-25,16:30,AX Face2Face same day ,Default Non-List Category,5,0,-6,16
+511548,26,Female,25-Nov-25,13:00,Minor illness AM,Morning Session,19,10,-9,14
+511668,54,Female,25-Nov-25,13:20,AX Face2Face same day ,Morning Session,57,9,-47,10
+511836,45,Female,25-Nov-25,16:00,Tel for follow up results ONLY,Default Non-List Category,,,,
+512167,1,Female,25-Nov-25,9:00,Minor illness AM,Morning Session,,,,
+512188,1,Male,25-Nov-25,18:20,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-41,-41,5
+512310,1,Male,25-Nov-25,10:15,Minor illness AM,Morning Session,18,16,-1,8
+512501,18,Male,25-Nov-25,14:30,Minor illness AM,Morning Session,0,-10,-10,12
+512551,1,Male,25-Nov-25,15:20,Pre School Booster and 1 year ONLY,Baby Clinic ,9,21,11,0
+512552,25,Female,25-Nov-25,11:10,PCN GP F2F,Default Non-List Category,28,26,-2,11
+512589,1,Female,25-Nov-25,16:00,Pre School Booster and 1 year ONLY,Baby Clinic ,1,10,8,4
+512727,9,Male,25-Nov-25,12:00,AX Telephone same day,Default Non-List Category,,,,
+512744,44,Female,25-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+512757,0,Male,25-Nov-25,9:50,AX Face2Face same day ,Morning Session,15,24,-3,6
+512923,52,Male,25-Nov-25,15:20,PCN GP F2F,Default Non-List Category,27,30,2,15
+513001,0,Male,25-Nov-25,14:40,PCN GP F2F,Default Non-List Category,14,17,3,20
+513002,37,Female,25-Nov-25,9:00,Telephone 2 week bookable,Morning Session,,,,
+513073,0,Female,25-Nov-25,13:30,BABY IMMS,Baby Clinic ,30,-7,-38,26
+513154,0,Female,25-Nov-25,13:50,BABY IMMS,Baby Clinic ,8,17,8,10
+513205,0,Female,25-Nov-25,14:30,BABY IMMS,Baby Clinic ,2,3,0,12
+513260,21,Male,25-Nov-25,10:10,PCN GP F2F,Default Non-List Category,3,10,6,11
+513263,40,Female,25-Nov-25,14:30,Pharmacist F2F Review,Morning Session,12,12,0,21
+136,61,Female,24-Nov-25,16:00,AX Telephone same day,Triage/Urgent Surg,,,,
+299,45,Male,24-Nov-25,10:20,First Contact Physio,Morning Session,,,,
+452,38,Female,24-Nov-25,14:45,Minor illness AM,Morning Session,24,14,-10,14
+1736,68,Female,24-Nov-25,9:00,Minor illness AM,Morning Session,,,,
+1984,81,Male,24-Nov-25,15:20,AX Face2Face same day ,Morning Session,27,14,-13,8
+2142,37,Female,24-Nov-25,15:20,First Contact Physio,Evening Surgery,,,,
+2585,53,Female,24-Nov-25,13:30,Flu Covid ,FLU CLINIC,4,-9,-14,1
+3270,44,Male,24-Nov-25,14:40,First Contact Physio,Evening Surgery,0,1,1,6
+3601,93,Male,24-Nov-25,12:30,Care Home Visit,Morning Session,,,,
+3716,56,Female,24-Nov-25,16:00,First Contact Physio,Evening Surgery,14,-7,-21,14
+3840,50,Female,24-Nov-25,8:00,Smear Test,Nurse: General,0,17,17,62
+3841,80,Male,24-Nov-25,8:45,Minor illness AM,Morning Session,44,22,-22,13
+3891,78,Female,24-Nov-25,15:45,Paramedic Review,Evening Surgery,15,4,-10,9
+4200,92,Male,24-Nov-25,11:50,Urine Bins,Default Non-List Category,13,2,-10,66
+4263,75,Female,24-Nov-25,9:00,Minor illness AM,Morning Session,0,9,9,14
+4626,71,Female,24-Nov-25,11:30,AX Face2Face same day ,Default Non-List Category,39,23,-16,14
+4906,62,Female,24-Nov-25,16:12,Flu Covid ,FLU CLINIC,5,-8,-14,4
+5622,76,Female,24-Nov-25,14:30,Flu Covid ,FLU CLINIC,1,-4,-6,2
+5735,83,Male,24-Nov-25,9:40,Blood appointment,Nurse: General,0,-5,-5,9
+5794,80,Female,24-Nov-25,9:10,Default,Nurse: General,12,5,-7,0
+5881,66,Female,24-Nov-25,9:15,Paramedic Review,Morning Session,0,0,0,17
+7641,83,Male,24-Nov-25,9:00,Urine only,Default List Category,0,527,527,1
+7890,75,Female,24-Nov-25,15:00,Carers Health Check ,Nurse: General,14,0,-13,45
+9422,76,Male,24-Nov-25,9:40,Drug Monitoring Blood Test,Default Non-List Category,21,9,-11,7
+9488,60,Female,24-Nov-25,15:15,Minor illness AM,Morning Session,30,19,-10,11
+9972,53,Female,24-Nov-25,9:45,Minor illness AM,Morning Session,3,7,3,18
+10201,54,Female,24-Nov-25,16:24,Flu Covid ,FLU CLINIC,1,7,6,3
+10665,66,Female,24-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+10951,65,Female,24-Nov-25,11:50,PN TO BOOK,Nurse: General,0,-2,-2,70
+10992,33,Male,24-Nov-25,10:00,AX 48 hour bookable,Default Non-List Category,1,0,-1,18
+11494,43,Female,24-Nov-25,9:30,Minor illness AM,Morning Session,0,-4,-4,15
+12320,50,Male,24-Nov-25,17:20,First Contact Physio,Evening Surgery,1,-17,-19,11
+12847,66,Female,24-Nov-25,14:45,Paramedic Review,Evening Surgery,11,8,-2,9
+14493,55,Female,24-Nov-25,14:00,Flu Covid ,FLU CLINIC,11,3,-7,1
+14998,58,Female,24-Nov-25,8:20,Smear Test,Nurse: General,10,5,-5,63
+16102,28,Female,24-Nov-25,10:30,Minor illness AM,Morning Session,7,4,-3,16
+17201,27,Female,24-Nov-25,10:40,First Contact Physio,Morning Session,1,-7,-9,6
+18225,51,Male,24-Nov-25,10:00,Paramedic Review,Morning Session,4,2,-1,14
+18959,25,Male,24-Nov-25,16:45,Paramedic Review,Evening Surgery,9,8,-1,
+19229,43,Female,24-Nov-25,14:20,First Contact Physio,Evening Surgery,13,7,-5,11
+19438,44,Female,24-Nov-25,14:45,Flu Covid ,FLU CLINIC,2,-2,-5,4
+20741,23,Female,24-Nov-25,15:50,Face to Face 2 week bookable,Morning Session,,,,
+21111,66,Female,24-Nov-25,16:10,Default,Nurse: General,,,,
+24411,61,Female,24-Nov-25,16:30,AX Telephone same day,Triage/Urgent Surg,,,,
+24476,46,Male,24-Nov-25,11:20,First Contact Physio,Morning Session,2,-8,-10,7
+26832,58,Female,24-Nov-25,15:45,Minor illness AM,Morning Session,,,,
+27808,17,Male,24-Nov-25,13:10,Minor Op Procedure,Morning Session,20,13,-6,21
+27885,86,Male,24-Nov-25,10:30,SMR Review,Morning Session,,,,
+28628,68,Female,24-Nov-25,9:30,Face to Face 1 week bookable,Morning Session,,,,
+29906,15,Female,24-Nov-25,16:30,Minor illness AM,Morning Session,9,4,-4,11
+29968,15,Female,24-Nov-25,15:00,Minor illness AM,Morning Session,27,21,-5,12
+30124,57,Female,24-Nov-25,14:21,Flu Covid ,FLU CLINIC,14,-5,-20,1
+30541,77,Male,24-Nov-25,9:20,Drug Monitoring Blood Test,Default Non-List Category,17,6,-10,11
+31054,64,Male,24-Nov-25,9:50,Default,Nurse: General,19,-1,-20,48
+501638,50,Female,24-Nov-25,9:30,Tel for follow up results ONLY,Default Non-List Category,,,,
+501765,63,Female,24-Nov-25,8:45,Minor illness AM,Morning Session,0,6,6,14
+501906,12,Male,24-Nov-25,11:10,Default,Nurse: General,12,-5,-17,42
+501968,59,Female,24-Nov-25,15:30,Paramedic Review,Evening Surgery,5,3,-2,15
+502116,39,Female,24-Nov-25,15:21,Flu Covid ,FLU CLINIC,2,-11,-14,3
+502546,52,Male,24-Nov-25,9:40,AX Face2Face same day ,Morning Session,16,15,-1,9
+502569,51,Female,24-Nov-25,16:30,Paramedic Review,Evening Surgery,18,11,-6,11
+502756,50,Female,24-Nov-25,16:15,Minor illness AM,Morning Session,5,8,2,11
+502874,66,Male,24-Nov-25,16:00,Face to Face 2 week bookable,Morning Session,3,15,12,5
+503144,50,Male,24-Nov-25,11:45,Minor illness AM,Morning Session,,,10,
+503400,10,Male,24-Nov-25,16:15,Paramedic Review,Evening Surgery,11,10,-1,15
+503559,36,Female,24-Nov-25,10:45,Minor illness AM,Morning Session,19,15,-4,12
+503663,42,Female,24-Nov-25,9:00,Urine only,Default List Category,0,530,530,10
+504106,78,Female,24-Nov-25,11:00,Minor illness AM,Morning Session,29,14,-14,17
+504415,17,Male,24-Nov-25,16:15,AX Telephone same day,Triage/Urgent Surg,,,,
+504456,9,Female,24-Nov-25,16:00,Paramedic Review,Evening Surgery,0,6,5,18
+504688,55,Female,24-Nov-25,10:30,Mental Health review phonecall,Morning Session,,,,
+504726,82,Female,24-Nov-25,11:40,First Contact Physio,Morning Session,0,0,-3,13
+504834,55,Female,24-Nov-25,13:36,Flu Covid ,FLU CLINIC,,,,
+505179,31,Female,24-Nov-25,14:00,Minor illness AM,Morning Session,43,17,-26,17
+505207,9,Female,24-Nov-25,11:30,Paramedic Review,Morning Session,14,5,-8,11
+505269,57,Male,24-Nov-25,15:00,Minor illness AM,Morning Session,24,19,-5,15
+505506,17,Male,24-Nov-25,15:00,AX Face2Face same day ,Morning Session,13,12,0,14
+506010,8,Male,24-Nov-25,15:45,Minor illness AM,Morning Session,3,0,-2,12
+506360,58,Female,24-Nov-25,16:20,Default,Nurse: General,18,0,-18,5
+506439,83,Male,24-Nov-25,8:30,Default,Nurse: General,21,9,-12,4
+506544,34,Female,24-Nov-25,9:15,Minor illness AM,Morning Session,,,,
+506967,7,Female,24-Nov-25,17:45,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-31,-31,0
+507167,64,Male,24-Nov-25,16:00,Flu Covid ,FLU CLINIC,1,-12,-13,3
+507353,79,Male,24-Nov-25,9:40,First Contact Physio,Morning Session,4,-4,-8,13
+507565,52,Female,24-Nov-25,16:20,First Contact Physio,Evening Surgery,0,-5,-10,15
+507603,32,Male,24-Nov-25,19:45,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+508013,51,Male,24-Nov-25,16:21,Flu Covid ,FLU CLINIC,4,7,2,3
+508172,5,Female,24-Nov-25,13:00,Minor illness AM,Morning Session,6,4,-2,8
+508238,44,Female,24-Nov-25,15:45,AX Face2Face same day ,Triage/Urgent Surg,9,1,-8,16
+508365,41,Female,24-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+508423,71,Female,24-Nov-25,13:42,Flu Covid ,FLU CLINIC,2,-1,-4,5
+508595,61,Male,24-Nov-25,11:00,Face to Face 1 week bookable,Default Non-List Category,37,26,-11,16
+508714,5,Male,24-Nov-25,15:00,Paramedic Review,Evening Surgery,5,3,-1,14
+508744,46,Male,24-Nov-25,10:30,Minor illness AM,Morning Session,27,18,-8,11
+509203,4,Male,24-Nov-25,13:15,Minor illness AM,Morning Session,20,5,-15,9
+509258,16,Female,24-Nov-25,9:50,AX Face2Face same day ,Morning Session,25,14,-11,4
+509421,4,Female,24-Nov-25,13:45,Minor illness AM,Morning Session,15,17,1,12
+509779,4,Female,24-Nov-25,15:30,Face to Face 1 week bookable,Triage/Urgent Surg,10,2,-7,12
+509867,79,Male,24-Nov-25,14:10,Urine only,Default Non-List Category,0,37,37,0
+510006,37,Female,24-Nov-25,9:10,Face to Face 2 week bookable,Morning Session,18,9,-8,10
+510050,3,Male,24-Nov-25,16:00,Minor illness AM,Morning Session,4,5,1,17
+510134,10,Male,24-Nov-25,15:40,Face to Face 2 week bookable,Morning Session,22,21,0,11
+510222,80,Female,24-Nov-25,12:00,Care Home Visit,Morning Session,,,,
+510286,4,Male,24-Nov-25,9:00,Urine only,Default List Category,0,511,360,16
+510490,87,Female,24-Nov-25,13:10,Care Home Visit,Morning Session,,,,
+510597,8,Female,24-Nov-25,16:00,Minor illness AM,Morning Session,,,,
+510604,3,Male,24-Nov-25,10:45,Minor illness AM,Morning Session,9,10,0,7
+510621,46,Male,24-Nov-25,11:30,Face to Face 2 week bookable,Morning Session,0,9,9,14
+511354,2,Male,24-Nov-25,12:00,Paramedic Review,Morning Session,16,10,-6,52
+511633,57,Male,24-Nov-25,10:15,Paramedic Review,Morning Session,57,4,-53,17
+511678,32,Male,24-Nov-25,10:15,Pharmacist Pt Review,Morning Session,,,,
+511688,26,Female,24-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+511715,93,Male,24-Nov-25,12:50,Care Home Visit,Morning Session,,,,
+511720,22,Female,24-Nov-25,15:40,Default,Nurse: General,,,,
+511809,84,Female,24-Nov-25,13:00,Care Home Visit,Morning Session,,,,
+511868,15,Male,24-Nov-25,8:30,Minor illness AM,Morning Session,13,13,0,4
+512340,77,Female,24-Nov-25,8:15,Minor illness AM,Morning Session,22,21,0,16
+512528,83,Male,24-Nov-25,12:20,Care Home Visit,Morning Session,,,,
+512554,1,Male,24-Nov-25,15:15,Paramedic Review,Evening Surgery,9,5,-3,13
+512608,34,Female,24-Nov-25,15:30,Face to Face 2 week bookable,Morning Session,35,16,-18,11
+512758,78,Female,24-Nov-25,13:50,Care Home Visit,Morning Session,,,,
+512837,1,Male,24-Nov-25,11:45,Paramedic Review,Morning Session,6,2,-3,22
+513046,84,Female,24-Nov-25,13:20,Care Home Visit,Morning Session,,,,
+513159,36,Female,24-Nov-25,14:27,Flu Covid ,FLU CLINIC,9,13,3,2
+513264,59,Female,24-Nov-25,11:10,Hypertension Only,Default Non-List Category,0,10,9,153
+494,86,Female,21-Nov-25,16:00,AX Telephone same day,Morning Session,,,,
+659,79,Female,21-Nov-25,13:42,Flu Covid ,FLU CLINIC,9,-2,-12,3
+660,82,Male,21-Nov-25,13:39,Flu Covid ,FLU CLINIC,9,0,-9,4
+865,74,Male,21-Nov-25,14:18,Flu Covid ,FLU CLINIC,1,-4,-6,7
+1209,55,Male,21-Nov-25,13:20,AX 48 hour bookable,Morning Session,18,17,-1,12
+1824,67,Male,21-Nov-25,8:50,AX 48 hour bookable,Morning Session,15,3,-12,9
+1936,71,Female,21-Nov-25,9:00,Urine only,Default List Category,0,444,444,2
+3147,49,Female,21-Nov-25,15:20,Face to Face 2 week bookable,Morning Session,15,11,-3,13
+3617,86,Male,21-Nov-25,11:00,Default,Nurse: General,7,1,-6,19
+3760,47,Female,21-Nov-25,14:45,Flu Covid ,FLU CLINIC,10,2,-7,2
+4855,64,Male,21-Nov-25,14:00,Flu Covid ,FLU CLINIC,7,-17,-24,5
+5024,52,Male,21-Nov-25,15:00,Face to Face 1 week bookable,Morning Session,15,5,-10,15
+5171,74,Female,21-Nov-25,13:45,Pharmacist Pt Review,Evening Surgery,,,,
+6152,44,Female,21-Nov-25,14:30,Flu Covid ,FLU CLINIC,13,12,0,1
+6233,67,Female,21-Nov-25,16:00,Flu Covid ,FLU CLINIC,7,2,-4,2
+6728,79,Female,21-Nov-25,8:30,Minor illness AM,Morning Session,0,0,0,8
+6748,63,Female,21-Nov-25,15:48,Flu Covid ,FLU CLINIC,7,3,-3,1
+6804,76,Male,21-Nov-25,15:39,Flu Covid ,FLU CLINIC,11,5,-6,3
+6974,82,Female,21-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+7270,72,Female,21-Nov-25,16:21,Flu Covid ,FLU CLINIC,,,,
+7854,44,Female,21-Nov-25,9:40,Smear Test,Nurse: General,17,2,-15,14
+9896,36,Female,21-Nov-25,17:40,Message only,Triage/Urgent Surg,,,,
+10337,34,Female,21-Nov-25,12:40,AX Face2Face same day ,Morning Session,15,8,-7,8
+10371,59,Female,21-Nov-25,14:54,Flu Covid ,FLU CLINIC,14,2,-11,1
+10695,57,Male,21-Nov-25,16:06,Flu Covid ,FLU CLINIC,3,-35,-39,1
+11247,65,Female,21-Nov-25,9:20,Smear Test,Nurse: General,3,0,-4,18
+11692,64,Female,21-Nov-25,11:05,Default,Nurse: General,0,16,16,6
+12000,66,Male,21-Nov-25,11:00,Default,Nurse: General,1,0,-1,63
+13703,62,Female,21-Nov-25,16:24,Flu Covid ,FLU CLINIC,2,-11,-14,2
+14018,60,Female,21-Nov-25,15:45,Flu Covid ,FLU CLINIC,10,-3,-14,1
+14178,68,Male,21-Nov-25,9:00,Default,Nurse: General,3,-25,-29,62
+14179,66,Female,21-Nov-25,8:30,Default,Nurse: General,3,4,0,60
+15047,32,Female,21-Nov-25,13:54,Flu Covid ,FLU CLINIC,5,0,-6,3
+15211,65,Male,21-Nov-25,14:45,Pharmacist Pt Review,Evening Surgery,,,,
+15803,29,Female,21-Nov-25,11:00,Minor illness AM,Morning Session,28,23,-5,11
+16030,64,Male,21-Nov-25,16:27,Flu Covid ,FLU CLINIC,4,1,-4,5
+16337,61,Male,21-Nov-25,13:51,Flu Covid ,FLU CLINIC,4,-2,-7,4
+16989,56,Male,21-Nov-25,11:00,AX Face2Face same day ,Default Non-List Category,47,46,-1,24
+17452,27,Male,21-Nov-25,13:45,Flu Covid ,FLU CLINIC,5,10,4,1
+17543,71,Female,21-Nov-25,14:42,Flu Covid ,FLU CLINIC,13,21,8,2
+18674,25,Female,21-Nov-25,10:15,Minor illness AM,Morning Session,6,-2,-8,21
+18873,26,Female,21-Nov-25,9:00,Minor illness AM,Morning Session,1,1,0,15
+19833,75,Male,21-Nov-25,10:00,Minor illness AM,Morning Session,0,-10,-11,8
+20666,45,Male,21-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+22526,57,Male,21-Nov-25,16:15,Flu Covid ,FLU CLINIC,,,,
+23493,60,Female,21-Nov-25,14:30,AX Telephone same day,Default Non-List Category,,,,
+24475,55,Male,21-Nov-25,14:30,AX Face2Face same day ,Morning Session,6,-2,-9,16
+25123,73,Female,21-Nov-25,14:33,Flu Covid ,FLU CLINIC,3,-3,-6,13
+25124,77,Male,21-Nov-25,14:27,Flu Covid ,FLU CLINIC,3,2,0,13
+25460,52,Male,21-Nov-25,13:36,Flu Covid ,FLU CLINIC,9,-36,-45,0
+25947,63,Male,21-Nov-25,16:03,Flu Covid ,FLU CLINIC,4,-10,-15,1
+26006,89,Male,21-Nov-25,15:18,Flu Covid ,FLU CLINIC,4,0,-3,4
+26168,29,Male,21-Nov-25,9:30,Minor illness AM,Morning Session,,,,
+26218,43,Female,21-Nov-25,14:45,AX Face2Face same day ,Default Non-List Category,0,21,-3,12
+27365,51,Male,21-Nov-25,15:36,Flu Covid ,FLU CLINIC,3,-8,-12,2
+27642,17,Female,21-Nov-25,9:00,Urine only,Default List Category,0,393,393,4
+29421,37,Female,21-Nov-25,10:30,Minor illness AM,Morning Session,2,3,1,20
+30074,15,Male,21-Nov-25,10:45,Minor illness AM,Morning Session,16,12,-4,26
+30246,49,Female,21-Nov-25,15:10,AX Telephone same day,Evening Surgery,,,,
+30333,45,Male,21-Nov-25,15:30,Minor Illness PM,Baby Clinic ,4,-11,-16,16
+31132,44,Female,21-Nov-25,9:00,AX Face2Face same day ,Default Non-List Category,29,13,-16,20
+31248,15,Female,21-Nov-25,16:10,Minor Illness PM,Baby Clinic ,0,10,10,0
+500138,45,Female,21-Nov-25,14:21,Flu Covid ,FLU CLINIC,7,-22,-30,3
+500370,81,Female,21-Nov-25,13:30,Pharmacist Pt Review,Evening Surgery,,,,
+500738,76,Male,21-Nov-25,14:09,Flu Covid ,FLU CLINIC,0,-1,-2,1
+500811,63,Male,21-Nov-25,10:30,Default,Nurse: General,23,8,-14,8
+501288,45,Female,21-Nov-25,15:54,Flu Covid ,FLU CLINIC,9,-5,-14,2
+501831,17,Female,21-Nov-25,9:15,AX Face2Face same day ,Default Non-List Category,13,18,5,18
+503755,36,Female,21-Nov-25,14:40,AX Face2Face same day ,Morning Session,15,13,-1,35
+504786,60,Female,21-Nov-25,14:51,Flu Covid ,FLU CLINIC,11,-48,-60,2
+504945,56,Male,21-Nov-25,15:24,Flu Covid ,FLU CLINIC,4,-7,-11,2
+505205,55,Male,21-Nov-25,14:03,Flu Covid ,FLU CLINIC,7,24,17,2
+505312,67,Male,21-Nov-25,14:12,Flu Covid ,FLU CLINIC,7,9,1,5
+505439,11,Female,21-Nov-25,15:30,Face to Face 2 week bookable,Morning Session,14,15,1,8
+505793,72,Female,21-Nov-25,11:30,Default,Nurse: General,5,-2,-7,33
+505854,46,Female,21-Nov-25,9:00,Urine only,Default List Category,0,541,541,4
+505973,39,Female,21-Nov-25,10:45,AX Telephone same day,Default Non-List Category,,,,
+506253,40,Female,21-Nov-25,15:33,Flu Covid ,FLU CLINIC,7,3,-4,1
+506496,38,Female,21-Nov-25,15:57,Flu Covid ,FLU CLINIC,8,13,4,1
+506504,14,Female,21-Nov-25,8:45,AX 48 hour bookable,Default Non-List Category,16,12,-3,15
+507011,7,Male,21-Nov-25,16:30,Face to Face 1 week bookable,Default Non-List Category,0,24,-1,26
+507110,52,Female,21-Nov-25,15:30,AX Telephone same day,Evening Surgery,,,,
+507385,58,Female,21-Nov-25,16:50,Default,Baby Clinic ,,,,
+507407,76,Female,21-Nov-25,15:09,Flu Covid ,FLU CLINIC,,,,
+507452,63,Male,21-Nov-25,16:12,Flu Covid ,FLU CLINIC,4,-6,-10,5
+507693,35,Female,21-Nov-25,17:50,Message only,Triage/Urgent Surg,,,,
+507724,6,Male,21-Nov-25,14:20,AX Face2Face same day ,Morning Session,8,-2,-10,36
+508574,58,Female,21-Nov-25,11:10,Smear Test,Nurse: General,11,11,0,13
+509137,61,Male,21-Nov-25,15:20,AX Telephone same day,Evening Surgery,,,,
+509285,18,Male,21-Nov-25,9:45,Minor illness AM,Morning Session,,,,
+509589,43,Female,21-Nov-25,15:12,Flu Covid ,FLU CLINIC,3,2,0,1
+509696,6,Female,21-Nov-25,16:45,Face to Face 1 week bookable,Default Non-List Category,35,35,0,24
+510453,37,Female,21-Nov-25,12:20,AX Face2Face same day ,Morning Session,13,16,3,11
+510578,44,Female,21-Nov-25,10:30,Default,Morning Session,0,13,13,4
+510734,70,Female,21-Nov-25,11:30,Default,Nurse: General,9,5,-4,7
+510753,52,Male,21-Nov-25,14:15,Flu Covid ,FLU CLINIC,3,-9,-12,1
+510811,43,Female,21-Nov-25,14:50,AX Telephone same day,Morning Session,,,,
+511258,19,Female,21-Nov-25,15:40,Telephone 1 week bookable ,Evening Surgery,,,,
+511312,2,Female,21-Nov-25,12:50,AX Face2Face same day ,Morning Session,0,8,-14,10
+511510,2,Male,21-Nov-25,9:45,AX Face2Face same day ,Default Non-List Category,22,20,-2,25
+511835,13,Female,21-Nov-25,10:40,Default,Morning Session,4,8,3,3
+512168,27,Female,21-Nov-25,9:00,Face to Face 1 week bookable,Morning Session,14,3,-10,17
+512380,1,Female,21-Nov-25,9:40,AX Face2Face same day ,Morning Session,18,19,1,8
+512741,16,Female,21-Nov-25,13:33,Flu Covid ,FLU CLINIC,10,-6,-17,3
+512742,17,Female,21-Nov-25,14:06,Flu Covid ,FLU CLINIC,14,-35,-50,0
+512773,21,Female,21-Nov-25,9:30,AX Face2Face same day ,Morning Session,16,5,-10,11
+512987,83,Female,21-Nov-25,13:57,Flu Covid ,FLU CLINIC,8,-23,-32,5
+513022,0,Male,21-Nov-25,9:20,Face to Face 2 week bookable,Morning Session,23,15,-8,21
+513256,26,Female,21-Nov-25,16:00,AX Triage,Evening Surgery,,,,
+513287,0,Female,21-Nov-25,11:15,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,77,77,21
+176,71,Female,20-Nov-25,8:10,Multi One stop clinic,Morning Session,3,-1,-4,36
+1628,36,Male,20-Nov-25,11:15,Paramedic Review,Morning Session,14,-17,-32,17
+1869,39,Female,20-Nov-25,9:30,Paramedic Review,Morning Session,20,7,-12,20
+2191,56,Female,20-Nov-25,14:20,Smear Test,Nurse: General,18,11,-7,20
+3359,102,Female,20-Nov-25,15:30,Home Visit for review,Evening Surgery,0,60,60,0
+3902,69,Female,20-Nov-25,10:20,Blood appointment,Morning Session,12,2,-9,8
+5018,80,Male,20-Nov-25,9:30,Multi One stop clinic,Morning Session,16,-6,-23,36
+5198,82,Male,20-Nov-25,9:30,Pharmacist Pt Review,Morning Session,,,,
+6092,88,Female,20-Nov-25,13:30,Home Visit for review,Evening Surgery,0,179,179,0
+7241,81,Female,20-Nov-25,9:00,Default,Nurse: General,13,6,-7,22
+8382,60,Female,20-Nov-25,16:50,Smear Test,Nurse: General,2,-6,-9,18
+9621,74,Female,20-Nov-25,10:10,AX Face2Face same day ,Morning Session,38,19,-18,13
+9624,34,Female,20-Nov-25,15:40,AX Telephone same day,Morning Session,,,,
+9680,65,Female,20-Nov-25,14:15,Pharmacist Pt Review,Evening Surgery,,,,
+9764,35,Female,20-Nov-25,8:45,Paramedic Review,Morning Session,15,1,-14,19
+14121,84,Female,20-Nov-25,16:00,Home Visit for review,Evening Surgery,0,30,30,0
+14686,65,Female,20-Nov-25,8:00,Default,Nurse: General,0,0,-1,8
+15301,65,Female,20-Nov-25,15:50,Default,Nurse: General,3,4,0,10
+16013,61,Male,20-Nov-25,13:30,AX Face2Face same day ,Morning Session,47,29,-18,19
+16122,39,Male,20-Nov-25,15:30,Mental Health review phonecall,Morning Session,,,,
+16181,66,Female,20-Nov-25,10:30,Paramedic Review,Morning Session,12,13,0,14
+16373,69,Female,20-Nov-25,8:00,Default,Morning Session,3,-3,-6,3
+16548,90,Female,20-Nov-25,15:50,AX Telephone same day,Morning Session,,,,
+16979,50,Female,20-Nov-25,11:20,AX Triage,Morning Session,,,,
+20415,23,Male,20-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+21747,75,Female,20-Nov-25,10:00,Multi One stop clinic,Morning Session,9,0,-10,39
+21963,55,Female,20-Nov-25,14:00,Carers Health Check ,Nurse: General,0,0,0,29
+24238,63,Female,20-Nov-25,9:45,Paramedic Review,Morning Session,17,13,-4,15
+24848,52,Female,20-Nov-25,10:20,AX Telephone same day,Morning Session,,,,
+24965,19,Female,20-Nov-25,9:50,AX Face2Face same day ,Morning Session,14,14,0,13
+26323,18,Female,20-Nov-25,15:00,Mental Health review phonecall,Morning Session,,,,
+26377,18,Male,20-Nov-25,11:00,Paramedic Review,Morning Session,27,25,-2,42
+26678,72,Male,20-Nov-25,15:00,SMR Review,Evening Surgery,,,,
+27325,64,Male,20-Nov-25,13:30,Pharmacist Pt Review,Evening Surgery,,,,
+28560,61,Male,20-Nov-25,9:40,Default,Nurse: General,15,-8,-24,7
+30321,27,Female,20-Nov-25,12:00,Brunel Student ,Default Non-List Category,22,5,-16,15
+30795,68,Male,20-Nov-25,11:00,Multi One stop clinic,Morning Session,10,-5,-16,46
+30870,78,Female,20-Nov-25,11:40,Tel for follow up results ONLY,Evening Surgery,,,,
+500417,23,Male,20-Nov-25,8:30,Paramedic Review,Morning Session,13,7,-6,8
+501920,12,Male,20-Nov-25,9:40,AX Face2Face same day ,Morning Session,39,22,-17,12
+502488,11,Female,20-Nov-25,10:15,Paramedic Review,Morning Session,20,10,-9,17
+503187,67,Male,20-Nov-25,10:15,SMR Review,Morning Session,,,,
+505121,63,Male,20-Nov-25,11:10,NHS HEALTH CHECK,Nurse: General,9,-3,-12,17
+506395,34,Female,20-Nov-25,11:10,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-135,-136,10
+506498,44,Male,20-Nov-25,10:45,Paramedic Review,Morning Session,29,29,0,10
+506730,82,Male,20-Nov-25,12:20,AX Face2Face same day ,Morning Session,23,0,-22,32
+506978,45,Female,20-Nov-25,9:00,Face to Face 1 week bookable,Morning Session,13,18,5,11
+507307,34,Female,20-Nov-25,9:00,Urine only,Default List Category,0,301,301,7
+507383,6,Female,20-Nov-25,10:30,AX Telephone same day,Morning Session,,,,
+507710,14,Female,20-Nov-25,13:00,AX Face2Face same day ,Morning Session,16,14,-1,14
+507946,81,Female,20-Nov-25,11:00,AX 48 hour bookable,Morning Session,28,13,-15,35
+508243,27,Female,20-Nov-25,9:00,Urine only,Default List Category,0,288,288,12
+508563,44,Female,20-Nov-25,10:30,Mental Health review phonecall,Morning Session,,,,
+508748,85,Male,20-Nov-25,12:10,AX Face2Face same day ,Morning Session,15,26,2,12
+508924,4,Female,20-Nov-25,10:00,AX telephone 48 hour bookable,Evening Surgery,,,,
+509028,60,Male,20-Nov-25,8:40,Default,Morning Session,11,7,-4,11
+509494,40,Male,20-Nov-25,10:00,Mental Health review phonecall,Morning Session,,,,
+510159,81,Female,20-Nov-25,11:00,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-161,-161,5
+510839,53,Female,20-Nov-25,10:10,AX Face2Face same day ,Evening Surgery,21,12,-9,11
+510988,50,Male,20-Nov-25,9:30,Mental Health review phonecall,Morning Session,,,,
+511350,2,Male,20-Nov-25,12:50,AX Face2Face same day ,Morning Session,13,15,1,9
+511499,2,Male,20-Nov-25,10:40,AX Face2Face same day ,Morning Session,14,18,4,8
+511811,29,Female,20-Nov-25,9:10,Face to Face 2 week bookable,Morning Session,15,20,4,6
+511854,1,Male,20-Nov-25,13:10,AX Face2Face same day ,Morning Session,27,19,-7,14
+511934,26,Female,20-Nov-25,12:30,AX Telephone same day,Morning Session,,,,
+512075,30,Female,20-Nov-25,11:30,AX Face2Face same day ,Evening Surgery,2,1,-1,13
+512498,56,Female,20-Nov-25,14:00,Pharmacist Pt Review,Evening Surgery,,,,
+512755,39,Female,20-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+513183,29,Male,20-Nov-25,11:10,AX Triage,Morning Session,,,,
+121,37,Female,19-Nov-25,12:00,Telephone 1 week bookable ,Evening Surgery,,,,
+292,67,Female,19-Nov-25,8:20,Default,Nurse: General,0,0,0,8
+322,74,Male,19-Nov-25,8:30,Default,Morning Session,27,-2,-30,3
+323,72,Female,19-Nov-25,8:00,Default,Morning Session,0,0,0,27
+1294,68,Female,19-Nov-25,9:50,AX Face2Face same day ,Morning Session,24,6,-18,18
+2082,80,Male,19-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+3551,93,Male,19-Nov-25,10:10,Blood appointment,Morning Session,6,-1,-7,14
+4067,47,Male,19-Nov-25,12:20,Telephone 1 week bookable ,Evening Surgery,,,,
+5400,49,Female,19-Nov-25,11:00,AX Face2Face same day ,Evening Surgery,30,10,-19,19
+7774,83,Female,19-Nov-25,11:20,Default,Nurse: General,1,3,1,16
+9051,35,Female,19-Nov-25,9:40,Learning Disabilty Review,Nurse: General,4,2,-1,64
+9968,49,Male,19-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+10030,50,Male,19-Nov-25,14:00,AX Telephone same day,Morning Session,,,,
+11538,66,Female,19-Nov-25,8:30,Minor illness AM,Morning Session,23,21,-1,14
+12210,61,Male,19-Nov-25,14:00,Default,Baby Clinic ,6,-2,-8,58
+14838,87,Female,19-Nov-25,10:30,SMR Review,Morning Session,,,,
+16374,40,Female,19-Nov-25,12:10,Tel for follow up results ONLY,Morning Session,,,,
+16445,64,Male,19-Nov-25,11:30,PN TO BOOK,Nurse: General,14,10,-3,17
+18294,69,Female,19-Nov-25,12:30,AX Face2Face same day ,Morning Session,15,8,-7,16
+18782,25,Female,19-Nov-25,15:00,Smear Test,Nurse: General,4,-14,-18,30
+19617,50,Female,19-Nov-25,8:45,Minor illness AM,Morning Session,52,20,-31,6
+20885,73,Male,19-Nov-25,12:00,Tel for follow up results ONLY,Morning Session,,,,
+20948,89,Male,19-Nov-25,15:10,AX Face2Face same day ,Triage/Urgent Surg,17,1,-15,36
+24494,51,Female,19-Nov-25,10:20,AX Face2Face same day ,Morning Session,18,7,-11,11
+25298,45,Female,19-Nov-25,14:40,Minor illness AM,Baby Clinic ,0,0,0,153
+26379,18,Female,19-Nov-25,12:50,AX Face2Face same day ,Morning Session,,,,
+26518,18,Female,19-Nov-25,13:00,AX Face2Face same day ,Morning Session,,,,
+27008,17,Female,19-Nov-25,8:50,Default,Morning Session,0,0,0,46
+30026,15,Female,19-Nov-25,10:45,AX Face2Face same day ,Default Non-List Category,67,47,-20,23
+30598,49,Male,19-Nov-25,15:00,Minor illness AM,Morning Session,2,-2,-5,26
+31286,66,Male,19-Nov-25,8:40,Default,Nurse: General,7,0,-7,13
+500776,66,Female,19-Nov-25,16:00,AX Telephone same day,Triage/Urgent Surg,,,,
+501996,11,Female,19-Nov-25,13:50,CCAS 111 Telephone Triage,Morning Session,,,,
+502565,39,Female,19-Nov-25,9:00,Carers Health Check ,Nurse: General,7,1,-6,15
+502640,21,Male,19-Nov-25,14:20,Default,Nurse: General,3,-6,-10,32
+503308,50,Female,19-Nov-25,9:30,AX Face2Face same day ,Morning Session,1,-4,-5,30
+503363,12,Female,19-Nov-25,16:00,Default,Baby Clinic ,5,-8,-13,82
+503364,15,Female,19-Nov-25,11:00,Minor illness AM,Morning Session,25,10,-15,14
+503743,57,Female,19-Nov-25,11:50,Urine only,Nurse: General,0,-66,-66,0
+504512,52,Female,19-Nov-25,16:10,AX Telephone same day,Triage/Urgent Surg,,,,
+504998,15,Male,19-Nov-25,9:30,Minor illness AM,Morning Session,20,19,0,11
+505112,36,Female,19-Nov-25,15:20,Smear Test,Nurse: General,1,-3,-5,21
+505331,58,Male,19-Nov-25,15:20,AX Telephone same day,Triage/Urgent Surg,,,,
+506087,43,Female,19-Nov-25,17:20,Telephone 1 week bookable ,Triage/Urgent Surg,,,,
+506168,8,Male,19-Nov-25,9:10,Face to Face 2 week bookable,Morning Session,13,8,-4,5
+506207,8,Female,19-Nov-25,15:45,Minor illness AM,Morning Session,11,17,6,14
+506534,36,Female,19-Nov-25,10:00,AX Face2Face same day ,Morning Session,,,,
+506747,44,Female,19-Nov-25,12:10,Telephone 1 week bookable ,Evening Surgery,,,,
+507780,58,Female,19-Nov-25,10:30,Face to Face 1 week bookable,Morning Session,4,6,2,10
+507949,13,Male,19-Nov-25,10:10,AX Face2Face same day ,Morning Session,6,4,-1,12
+508052,39,Female,19-Nov-25,12:20,AX Face2Face same day ,Morning Session,10,4,-5,13
+508439,74,Male,19-Nov-25,11:00,Default,Morning Session,10,-1,-11,2
+508546,43,Female,19-Nov-25,9:00,Face to Face 2 week bookable,Morning Session,21,12,-9,5
+508655,80,Male,19-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+509197,21,Female,19-Nov-25,16:40,AX 48 hour bookable,Triage/Urgent Surg,2,-1,-4,17
+509695,15,Female,19-Nov-25,16:50,AX Telephone same day,Triage/Urgent Surg,,,,
+510703,35,Female,19-Nov-25,9:15,Minor illness AM,Morning Session,14,19,5,15
+510759,3,Female,19-Nov-25,9:00,Minor illness AM,Morning Session,17,14,-2,18
+510853,46,Male,19-Nov-25,10:45,Minor illness AM,Morning Session,16,12,-4,12
+510995,20,Female,19-Nov-25,9:00,AX Face2Face same day ,Default Non-List Category,23,26,3,28
+511129,2,Female,19-Nov-25,12:00,Minor illness AM,Morning Session,23,12,-10,13
+511273,2,Male,19-Nov-25,14:30,Minor illness AM,Morning Session,3,0,-3,8
+512062,16,Female,19-Nov-25,13:10,AX 48 hour bookable,Morning Session,4,2,-2,19
+512068,36,Male,19-Nov-25,11:30,Minor illness AM,Morning Session,33,18,-15,10
+513257,12,Male,19-Nov-25,15:50,AX 48 hour bookable,Triage/Urgent Surg,10,10,0,12
+193,73,Male,18-Nov-25,16:20,AX Telephone same day,Evening Surgery,,,,
+694,80,Female,18-Nov-25,13:10,AX Face2Face same day ,Morning Session,15,7,-7,7
+938,78,Male,18-Nov-25,11:00,Minor illness AM,Morning Session,1,-4,-6,9
+1644,68,Male,18-Nov-25,10:00,SMR Review,Morning Session,,,,
+2466,38,Female,18-Nov-25,11:20,Smear Test,Nurse: General,5,-1,-6,13
+2909,85,Female,18-Nov-25,12:50,AX Face2Face same day ,Baby Clinic ,6,4,-1,28
+2921,67,Male,18-Nov-25,8:30,Tel for follow up results ONLY,Morning Session,,,,
+3713,60,Female,18-Nov-25,10:30,Minor illness AM,Morning Session,6,8,1,13
+3757,61,Male,18-Nov-25,16:20,PCN GP F2F,Default Non-List Category,28,18,-10,16
+4083,81,Female,18-Nov-25,9:15,AX Telephone same day,Default Non-List Category,,,,
+4141,76,Male,18-Nov-25,11:00,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,28,28,9
+4415,95,Female,18-Nov-25,11:10,Default,Nurse: General,0,-5,-5,12
+4614,80,Male,18-Nov-25,10:10,Default,Nurse: General,23,1,-22,16
+4935,52,Female,18-Nov-25,8:45,Minor illness AM,Morning Session,0,0,0,17
+5437,56,Female,18-Nov-25,17:10,Smear Test,Nurse: General,5,-6,-11,12
+5990,79,Male,18-Nov-25,12:30,Face to Face 1 week bookable,Baby Clinic ,8,-8,-17,32
+6476,62,Female,18-Nov-25,11:30,Minor illness AM,Morning Session,5,1,-4,15
+7192,64,Female,18-Nov-25,19:45,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+8057,84,Female,18-Nov-25,16:40,AX Telephone same day,Evening Surgery,,,,
+8441,57,Male,18-Nov-25,14:30,Minor Illness PM,Morning Session,1,1,0,11
+8853,80,Female,18-Nov-25,9:00,Urine only,Default List Category,0,114,114,0
+9082,67,Male,18-Nov-25,8:45,AX Telephone same day,Default Non-List Category,,,,
+12085,52,Male,18-Nov-25,19:30,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+13261,73,Female,18-Nov-25,10:50,Flu Covid ,Nurse: General,3,-15,-19,5
+13262,76,Male,18-Nov-25,10:40,Flu Covid ,Nurse: General,3,-5,-9,4
+13638,61,Female,18-Nov-25,9:20,Face to Face 2 week bookable,Morning Session,7,7,0,18
+15602,64,Female,18-Nov-25,17:50,Default,Nurse: General,13,2,-10,10
+17229,70,Male,18-Nov-25,10:00,Blood appointment,Nurse: General,24,2,-21,8
+18095,26,Female,18-Nov-25,9:45,Face to Face 2 week bookable,Morning Session,28,22,-6,7
+18551,62,Male,18-Nov-25,9:20,PCN GP F2F,Default Non-List Category,6,4,-2,13
+18565,31,Female,18-Nov-25,10:50,AX Triage,Morning Session,,,,
+18766,88,Female,18-Nov-25,15:10,PCN GP F2F,Default Non-List Category,30,23,-7,17
+21674,64,Female,18-Nov-25,8:50,Face to Face 1 week bookable,Morning Session,6,0,-6,13
+23052,49,Female,18-Nov-25,12:30,Face to Face 2 week bookable,Default Non-List Category,5,0,-5,17
+23794,85,Female,18-Nov-25,9:10,Face to Face 2 week bookable,Morning Session,10,3,-7,14
+23974,27,Female,18-Nov-25,16:10,PCN GP F2F,Default Non-List Category,17,12,-4,13
+24037,24,Male,18-Nov-25,15:20,PCN GP F2F,Default Non-List Category,37,30,-6,7
+24295,51,Female,18-Nov-25,11:00,PCN GP F2F,Default Non-List Category,11,16,4,27
+25454,22,Male,18-Nov-25,9:30,AX Telephone same day,Default Non-List Category,,,,
+25541,75,Male,18-Nov-25,8:30,Multi One stop clinic,Nurse: General,5,-3,-9,127
+27340,41,Male,18-Nov-25,17:20,Triage Appt,Evening Surgery,0,-1,-1,0
+27486,17,Female,18-Nov-25,15:50,AX Telephone same day,Evening Surgery,,,,
+29244,60,Male,18-Nov-25,8:00,Tel for follow up results ONLY,Default Non-List Category,,,,
+29574,55,Female,18-Nov-25,16:15,Tel for follow up results ONLY,Default Non-List Category,,,,
+30248,15,Female,18-Nov-25,10:30,AX Telephone same day,Morning Session,,,,
+30265,21,Female,18-Nov-25,11:20,PCN GP F2F,Default Non-List Category,21,24,2,16
+30995,14,Female,18-Nov-25,16:00,Tel for follow up results ONLY,Default Non-List Category,,,,
+500637,42,Female,18-Nov-25,16:30,PCN GP F2F,Default Non-List Category,43,24,-18,15
+500704,59,Male,18-Nov-25,10:00,PCN GP F2F,Default Non-List Category,20,5,-15,21
+500913,39,Female,18-Nov-25,10:20,PCN GP F2F,Default Non-List Category,15,11,-4,14
+501400,69,Female,18-Nov-25,9:40,Default,Nurse: General,36,30,-5,0
+503349,14,Female,18-Nov-25,19:00,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+503499,14,Male,18-Nov-25,8:15,Minor illness AM,Morning Session,3,1,-1,11
+503595,26,Female,18-Nov-25,10:40,AX Triage,Morning Session,,,,
+503620,55,Female,18-Nov-25,8:30,Minor illness AM,Morning Session,4,-1,-6,13
+503626,10,Female,18-Nov-25,9:00,Minor illness AM,Morning Session,12,5,-6,19
+503788,33,Male,18-Nov-25,8:50,Default,Nurse: General,,,,
+503973,13,Female,18-Nov-25,16:15,Minor Illness PM,Morning Session,19,7,-11,7
+504298,27,Male,18-Nov-25,10:00,Minor illness AM,Morning Session,19,14,-4,10
+504319,10,Female,18-Nov-25,14:15,Minor illness AM,Morning Session,0,-3,-3,18
+504533,51,Female,18-Nov-25,9:40,Smear Test,Nurse: General,5,-1,-7,24
+504565,45,Female,18-Nov-25,15:40,Docman Task follow up,Evening Surgery,,,,
+504830,37,Female,18-Nov-25,12:00,Face to Face 1 week bookable,Default Non-List Category,6,0,-7,14
+505077,9,Male,18-Nov-25,9:30,AX Face2Face same day ,Morning Session,24,18,-5,11
+505670,64,Female,18-Nov-25,14:00,Minor Illness PM,Morning Session,0,0,0,7
+506265,48,Female,18-Nov-25,14:00,PCN GP F2F,Default Non-List Category,12,2,-10,14
+507570,6,Male,18-Nov-25,9:45,AX Face2Face same day ,Default Non-List Category,7,8,1,12
+507739,41,Male,18-Nov-25,13:00,AX 48 hour bookable,Default Non-List Category,6,3,-3,11
+507837,75,Female,18-Nov-25,9:10,Default,Nurse: General,43,60,16,0
+508220,28,Female,18-Nov-25,9:20,Smear Test,Nurse: General,13,0,-13,12
+508489,20,Male,18-Nov-25,10:30,PCN GP F2F,Default Non-List Category,,,,
+508603,27,Female,18-Nov-25,16:00,PCN GP F2F,Default Non-List Category,,,,
+508703,67,Female,18-Nov-25,16:00,Docman Task follow up,Evening Surgery,,,,
+508801,80,Female,18-Nov-25,13:20,Care Home Visit,Morning Session,,,,
+509078,15,Male,18-Nov-25,16:00,Minor Illness PM,Morning Session,16,11,-5,10
+509436,52,Male,18-Nov-25,8:10,Hypertension Only,Nurse: General,8,3,-4,37
+509744,43,Female,18-Nov-25,11:30,PCN GP F2F,Default Non-List Category,36,30,-6,15
+510519,3,Male,18-Nov-25,15:40,Pre School Booster and 1 year ONLY,Baby Clinic ,,,,
+510683,68,Female,18-Nov-25,14:30,PCN GP F2F,Default Non-List Category,22,16,-6,17
+510741,82,Female,18-Nov-25,12:10,Care Home Visit,Morning Session,,,,
+510854,88,Male,18-Nov-25,19:15,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+510889,43,Male,18-Nov-25,9:30,AX Face2Face same day ,Morning Session,19,16,-2,18
+511082,38,Female,18-Nov-25,9:00,Urine only,Default List Category,,,,
+511105,69,Male,18-Nov-25,11:10,PCN GP F2F,Default Non-List Category,1,-11,-13,17
+511579,26,Female,18-Nov-25,9:00,AX Face2Face same day ,Default Non-List Category,9,13,3,14
+511680,28,Female,18-Nov-25,16:10,AX Telephone same day,Evening Surgery,,,,
+511972,25,Female,18-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+512218,60,Female,18-Nov-25,11:10,Carers Health Check ,Nurse: General,,,,
+512303,1,Female,18-Nov-25,15:40,PCN GP F2F,Default Non-List Category,34,25,-8,13
+512520,1,Female,18-Nov-25,16:20,Pre School Booster and 1 year ONLY,Baby Clinic ,2,-15,-17,23
+512563,1,Male,18-Nov-25,15:50,Pre School Booster and 1 year ONLY,Baby Clinic ,5,9,3,32
+512807,64,Male,18-Nov-25,16:50,AX Telephone same day,Evening Surgery,,,,
+513056,0,Female,18-Nov-25,14:10,BABY IMMS,Baby Clinic ,2,-3,-6,26
+513173,26,Female,18-Nov-25,10:00,AX Telephone same day,Morning Session,,,,
+513220,0,Female,18-Nov-25,13:00,8 Week Baby Check,Baby Clinic ,20,23,3,187
+167,69,Female,17-Nov-25,17:00,Default,Morning Session,18,12,-5,2
+771,60,Female,17-Nov-25,10:45,Minor illness AM,Morning Session,13,15,1,18
+854,57,Male,17-Nov-25,16:50,Flu Covid ,Morning Session,0,0,0,1
+1237,75,Female,17-Nov-25,9:30,Drug Monitoring Blood Test,Default Non-List Category,21,6,-14,11
+1331,81,Male,17-Nov-25,14:45,Minor illness AM,Morning Session,8,3,-4,26
+1438,81,Male,17-Nov-25,10:00,First Contact Physio,Morning Session,17,-2,-20,12
+1930,84,Female,17-Nov-25,13:15,Minor Illness PM,Morning Session,33,16,-17,13
+3537,82,Female,17-Nov-25,10:00,Default,Default Non-List Category,16,5,-11,9
+3595,55,Female,17-Nov-25,9:20,First Contact Physio,Morning Session,3,4,0,18
+4515,76,Female,17-Nov-25,11:20,Default,Default Non-List Category,19,-11,-30,24
+4851,66,Male,17-Nov-25,15:15,Minor illness AM,Morning Session,7,2,-4,20
+5831,50,Male,17-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+5835,75,Male,17-Nov-25,8:30,Tel for follow up results ONLY,Evening Surgery,,,,
+6453,72,Female,17-Nov-25,14:00,Minor illness AM,Morning Session,6,0,-5,12
+7660,75,Female,17-Nov-25,16:00,First Contact Physio,Evening Surgery,2,3,0,14
+7719,74,Female,17-Nov-25,16:15,Paramedic Review,Evening Surgery,24,7,-17,20
+7973,72,Male,17-Nov-25,9:30,AX Face2Face same day ,Evening Surgery,22,8,-13,8
+8102,75,Female,17-Nov-25,15:00,Paramedic Review,Evening Surgery,1,3,1,16
+9503,66,Female,17-Nov-25,14:10,Pharmacist Pt Review,Evening Surgery,,,,
+10721,33,Female,17-Nov-25,13:45,Minor illness AM,Morning Session,10,10,0,17
+12796,57,Female,17-Nov-25,10:10,Carers Health Check ,Default Non-List Category,13,8,-5,222
+13282,46,Female,17-Nov-25,19:00,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+14038,60,Female,17-Nov-25,11:00,Minor illness AM,Morning Session,0,-1,-1,3
+15215,64,Female,17-Nov-25,12:30,Minor Op Procedure,Morning Session,23,17,-6,14
+15415,62,Female,17-Nov-25,16:33,Flu Covid ,Morning Session,0,0,0,0
+15416,31,Male,17-Nov-25,16:30,Flu Covid ,Morning Session,2,0,-2,1
+15892,70,Female,17-Nov-25,9:45,SMR Review,Morning Session,,,,
+16792,32,Female,17-Nov-25,13:50,Pharmacist Pt Review,Evening Surgery,,,,
+17210,82,Female,17-Nov-25,14:30,Minor illness AM,Morning Session,22,18,-3,0
+17692,59,Male,17-Nov-25,9:15,Minor illness AM,Morning Session,7,7,0,4
+18487,76,Male,17-Nov-25,10:00,Paramedic Review,Morning Session,13,8,-5,17
+19811,51,Female,17-Nov-25,15:00,First Contact Physio,Evening Surgery,0,-2,-3,8
+20802,23,Female,17-Nov-25,9:40,AX Face2Face same day ,Evening Surgery,,,,
+21323,86,Female,17-Nov-25,10:30,SMR Review,Morning Session,,,,
+21404,64,Male,17-Nov-25,9:45,Minor illness AM,Morning Session,8,7,-1,16
+22083,78,Female,17-Nov-25,14:00,First Contact Physio,Evening Surgery,0,0,-5,10
+22477,56,Female,17-Nov-25,16:20,Flu Covid ,Morning Session,4,0,-5,2
+23164,21,Male,17-Nov-25,10:30,Minor illness AM,Morning Session,42,9,-33,15
+23719,56,Male,17-Nov-25,16:55,Flu Covid ,Morning Session,6,-4,-10,0
+24355,25,Male,17-Nov-25,14:45,Minor illness AM,Morning Session,23,22,-1,17
+24551,49,Male,17-Nov-25,9:00,Mental Health review phonecall,Morning Session,,,,
+24934,82,Female,17-Nov-25,14:50,Default,Nurse: General,5,-17,-23,10
+25822,79,Male,17-Nov-25,14:40,Default,Nurse: General,13,17,4,0
+26020,54,Male,17-Nov-25,9:00,Minor Op Procedure,Morning Session,3,2,-1,4
+26042,79,Male,17-Nov-25,10:30,Paramedic Review,Morning Session,16,5,-11,16
+26075,79,Female,17-Nov-25,10:45,Paramedic Review,Morning Session,16,6,-10,22
+27332,51,Male,17-Nov-25,17:55,Default,Triage/Urgent Surg,0,-24,-24,0
+27534,22,Female,17-Nov-25,15:00,Minor illness AM,Morning Session,0,60,60,11
+27653,60,Male,17-Nov-25,10:00,AX Face2Face same day ,Evening Surgery,5,-12,-17,17
+29362,44,Female,17-Nov-25,8:45,Minor illness AM,Morning Session,31,24,-6,7
+29733,15,Male,17-Nov-25,16:00,Minor illness AM,Morning Session,28,26,-2,18
+29786,59,Female,17-Nov-25,14:40,First Contact Physio,Evening Surgery,2,0,-2,4
+30338,39,Female,17-Nov-25,15:45,Flu Covid ,Morning Session,17,0,-17,1
+500037,18,Male,17-Nov-25,15:30,Minor illness AM,Morning Session,8,8,0,4
+500277,55,Female,17-Nov-25,14:40,Hypertension Only,Default Non-List Category,14,19,4,1292
+500756,42,Female,17-Nov-25,9:30,Minor illness AM,Morning Session,6,6,0,9
+502409,11,Female,17-Nov-25,11:30,Minor illness AM,Morning Session,16,16,0,8
+502416,40,Male,17-Nov-25,16:20,AX Telephone same day,Morning Session,,,,
+502512,22,Female,17-Nov-25,15:15,Minor illness AM,Morning Session,18,22,3,22
+502597,79,Female,17-Nov-25,16:30,AX Telephone same day,Morning Session,,,,
+502697,48,Female,17-Nov-25,16:10,AX Telephone same day,Morning Session,,,,
+503029,48,Female,17-Nov-25,14:15,Minor illness AM,Morning Session,3,0,-3,17
+503614,76,Female,17-Nov-25,9:50,Default,Default Non-List Category,16,8,-8,6
+503678,61,Male,17-Nov-25,8:15,Minor illness AM,Morning Session,0,-14,-15,4
+503732,82,Male,17-Nov-25,15:40,Default,Nurse: General,5,4,-1,10
+503821,71,Female,17-Nov-25,16:40,Flu Covid ,Morning Session,3,-6,-9,0
+504238,60,Female,17-Nov-25,13:10,AX Face2Face same day ,Morning Session,17,14,-3,10
+504469,47,Male,17-Nov-25,10:45,Minor illness AM,Morning Session,0,-8,-8,13
+505100,54,Male,17-Nov-25,15:30,AX Telephone same day,Morning Session,,,,
+505771,46,Male,17-Nov-25,11:45,Paramedic Review,Morning Session,2,4,1,19
+506197,53,Male,17-Nov-25,15:00,Carers Health Check ,Nurse: General,,,,
+506316,32,Female,17-Nov-25,9:00,Drug Monitoring Blood Test,Default Non-List Category,1,4,2,5
+506464,57,Female,17-Nov-25,15:30,Paramedic Review,Evening Surgery,11,6,-4,18
+506466,53,Female,17-Nov-25,10:15,Minor illness AM,Morning Session,25,2,-22,21
+506502,52,Male,17-Nov-25,11:20,First Contact Physio,Morning Session,3,-1,-4,8
+506599,63,Male,17-Nov-25,15:00,Default,Default Non-List Category,35,22,-13,1368
+507516,20,Male,17-Nov-25,9:45,Minor illness AM,Morning Session,4,-2,-6,19
+507598,55,Male,17-Nov-25,13:20,AX Face2Face same day ,Morning Session,23,14,-8,6
+507645,48,Male,17-Nov-25,13:00,Minor Illness PM,Morning Session,11,3,-8,27
+507738,54,Female,17-Nov-25,17:20,First Contact Physio,Evening Surgery,0,-9,-10,9
+507835,53,Female,17-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+508038,40,Male,17-Nov-25,9:45,Paramedic Review,Morning Session,18,10,-8,13
+508222,48,Female,17-Nov-25,10:40,First Contact Physio,Morning Session,1,0,-1,5
+508324,70,Female,17-Nov-25,16:40,Carers Health Check ,Default Non-List Category,5,4,0,51
+508370,83,Male,17-Nov-25,14:10,Drug Monitoring Blood Test,Nurse: General,15,-1,-17,6
+508697,5,Female,17-Nov-25,10:00,Minor illness AM,Morning Session,7,5,-1,9
+508700,23,Male,17-Nov-25,10:00,Mental Health review phonecall,Morning Session,,,,
+509409,25,Female,17-Nov-25,17:40,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-23,-23,7
+509490,34,Female,17-Nov-25,10:50,Carers Health Check ,Default Non-List Category,1,1,0,163
+509586,48,Female,17-Nov-25,11:15,Minor illness AM,Morning Session,2,-1,-4,11
+509657,64,Male,17-Nov-25,15:00,Minor illness AM,Morning Session,41,24,-16,10
+509799,35,Female,17-Nov-25,16:00,AX telephone 48 hour bookable,Morning Session,,,,
+509807,4,Male,17-Nov-25,14:30,Face to Face 2 week bookable,Morning Session,18,16,-1,14
+510352,44,Male,17-Nov-25,15:15,Paramedic Review,Evening Surgery,2,5,2,16
+510420,3,Male,17-Nov-25,16:40,Default,Morning Session,0,14,14,13
+510488,38,Female,17-Nov-25,11:00,Minor illness AM,Morning Session,28,22,-6,24
+510927,78,Male,17-Nov-25,15:10,SMR Review,Evening Surgery,,,,
+511001,93,Female,17-Nov-25,14:00,AX Face2Face same day ,Morning Session,19,14,-4,16
+511220,2,Male,17-Nov-25,15:30,Minor illness AM,Morning Session,45,29,-16,9
+511330,58,Male,17-Nov-25,12:00,First Contact Physio,Morning Session,0,-6,-6,0
+511839,7,Female,17-Nov-25,8:30,Minor illness AM,Morning Session,1,-4,-5,14
+512217,34,Female,17-Nov-25,8:00,Default,Nurse: General,1,0,0,100
+512393,56,Male,17-Nov-25,16:15,Flu Covid ,Morning Session,,,,
+512417,68,Female,17-Nov-25,17:30,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-166,-166,6
+512450,3,Male,17-Nov-25,14:10,CCAS 111 Telephone Triage,Morning Session,,,,
+512512,1,Male,17-Nov-25,13:30,AX Face2Face same day ,Morning Session,7,13,6,17
+512700,73,Female,17-Nov-25,10:15,Paramedic Review,Morning Session,0,173,173,0
+512835,33,Female,17-Nov-25,11:15,Minor illness AM,Morning Session,,,,
+513091,8,Female,17-Nov-25,16:45,Paramedic Review,Evening Surgery,16,16,0,
+513095,63,Female,17-Nov-25,15:50,Flu Covid ,Morning Session,1,3,1,1
+513192,34,Female,17-Nov-25,16:00,Flu Covid ,Morning Session,3,-13,-16,1
+526,70,Female,15-Nov-25,11:12,Flu Covid ,FLU CLINIC,1,-2,-3,3
+742,78,Male,15-Nov-25,10:00,Flu Covid ,FLU CLINIC,0,-4,-4,8
+1320,70,Female,15-Nov-25,9:00,Sheepcot Medical Core Hours F2F,Extended Open Hours,11,5,-6,12
+2329,49,Female,15-Nov-25,10:36,Flu Covid ,FLU CLINIC,0,-5,-5,2
+2846,80,Male,15-Nov-25,10:15,Flu Covid ,FLU CLINIC,0,-23,-23,3
+3188,69,Male,15-Nov-25,10:27,Flu Covid ,FLU CLINIC,0,-14,-14,10
+5061,58,Female,15-Nov-25,9:36,Flu Covid ,FLU CLINIC,0,111,111,0
+5064,56,Female,15-Nov-25,9:45,Flu Covid ,FLU CLINIC,0,-14,-14,2
+5115,83,Male,15-Nov-25,10:51,Flu Covid ,FLU CLINIC,0,-3,-3,3
+7069,69,Female,15-Nov-25,11:42,Flu Covid ,FLU CLINIC,,,,
+7979,84,Male,15-Nov-25,16:00,FCP Core Hours SMC,Extended Open Hours,1,-192,-193,12
+8855,78,Male,15-Nov-25,9:42,Flu Covid ,FLU CLINIC,0,-8,-8,2
+11694,57,Male,15-Nov-25,9:27,Flu Covid ,FLU CLINIC,3,-28,-32,3
+11848,35,Female,15-Nov-25,10:33,Flu Covid ,FLU CLINIC,0,-8,-8,1
+12512,64,Male,15-Nov-25,10:42,Flu Covid ,FLU CLINIC,0,3,3,1
+12528,70,Male,15-Nov-25,9:15,Sheepcot Medical Core Hours F2F,Extended Open Hours,0,6,6,14
+13136,60,Male,15-Nov-25,9:51,Flu Covid ,FLU CLINIC,3,13,9,2
+16155,82,Male,15-Nov-25,11:24,Flu Covid ,FLU CLINIC,0,-9,-9,1
+17275,69,Male,15-Nov-25,15:20,FCP Core Hours SMC,Extended Open Hours,3,-7,-11,11
+21135,22,Female,15-Nov-25,11:09,Flu Covid ,FLU CLINIC,,,,
+22880,59,Male,15-Nov-25,10:54,Flu Covid ,FLU CLINIC,,,,
+23033,87,Male,15-Nov-25,10:09,Flu Covid ,FLU CLINIC,1,0,-1,2
+23999,20,Male,15-Nov-25,16:00,Sheepcot Medical Core Hours F2F,Extended Open Hours,0,2,2,12
+24105,58,Male,15-Nov-25,11:30,Flu Covid ,FLU CLINIC,2,-116,-119,0
+25009,19,Female,15-Nov-25,10:30,Sheepcot Medical Core Hours F2F,Extended Open Hours,,,,
+26062,43,Female,15-Nov-25,11:45,Flu Covid ,FLU CLINIC,,,,
+26680,65,Female,15-Nov-25,9:00,Flu Covid ,FLU CLINIC,0,28,28,0
+27961,81,Male,15-Nov-25,9:00,FCP Core Hours SMC,Extended Open Hours,9,5,-4,17
+28355,46,Male,15-Nov-25,9:15,Flu Covid ,FLU CLINIC,7,2,-5,0
+29734,58,Male,15-Nov-25,11:54,Flu Covid ,FLU CLINIC,,,,
+30898,83,Male,15-Nov-25,9:18,Flu Covid ,FLU CLINIC,,,,
+30963,76,Female,15-Nov-25,11:03,Flu Covid ,FLU CLINIC,0,-11,-11,5
+500829,39,Female,15-Nov-25,15:40,FCP Core Hours SMC,Extended Open Hours,16,-118,-134,13
+500902,47,Female,15-Nov-25,11:00,Flu Covid ,FLU CLINIC,,,,
+502252,68,Female,15-Nov-25,10:39,Flu Covid ,FLU CLINIC,0,1,1,3
+502657,44,Female,15-Nov-25,9:39,Flu Covid ,FLU CLINIC,0,-2,-2,1
+502766,11,Female,15-Nov-25,10:15,Sheepcot Medical Core Hours F2F,Extended Open Hours,0,9,8,9
+502887,46,Male,15-Nov-25,10:30,Flu Covid ,FLU CLINIC,,,,
+503498,14,Male,15-Nov-25,10:45,Sheepcot Medical Core Hours F2F,Extended Open Hours,1,0,-2,13
+503862,93,Male,15-Nov-25,10:21,Flu Covid ,FLU CLINIC,,,,
+504406,34,Female,15-Nov-25,11:51,Flu Covid ,FLU CLINIC,,,,
+506507,53,Female,15-Nov-25,9:45,Sheepcot Medical Core Hours F2F,Extended Open Hours,3,0,-3,15
+507133,11,Male,15-Nov-25,11:48,Flu Covid ,FLU CLINIC,0,4,4,4
+507621,48,Male,15-Nov-25,10:57,Flu Covid ,FLU CLINIC,0,0,0,8
+507642,59,Female,15-Nov-25,10:12,Flu Covid ,FLU CLINIC,5,0,-5,1
+507703,59,Male,15-Nov-25,11:15,Flu Covid ,FLU CLINIC,0,-1,-1,1
+508910,16,Female,15-Nov-25,9:57,Flu Covid ,FLU CLINIC,,,,
+509358,48,Male,15-Nov-25,11:33,Flu Covid ,FLU CLINIC,0,-2,-2,0
+509378,86,Female,15-Nov-25,11:06,Flu Covid ,FLU CLINIC,0,0,0,2
+509422,74,Female,15-Nov-25,10:14,Flu Covid ,FLU CLINIC,0,-33,-33,0
+509634,10,Female,15-Nov-25,11:39,Flu Covid ,FLU CLINIC,,,,
+509751,4,Female,15-Nov-25,10:45,Flu Covid ,FLU CLINIC,1,-24,-25,2
+510203,35,Male,15-Nov-25,9:21,Flu Covid ,FLU CLINIC,,,,
+510271,3,Female,15-Nov-25,9:30,Flu Covid ,FLU CLINIC,,,,
+510438,3,Female,15-Nov-25,10:48,Flu Covid ,FLU CLINIC,0,1,1,1
+510439,96,Female,15-Nov-25,9:06,Flu Covid ,FLU CLINIC,0,19,19,1
+510681,62,Male,15-Nov-25,10:03,Flu Covid ,FLU CLINIC,,,,
+510917,2,Male,15-Nov-25,10:00,Sheepcot Medical Core Hours F2F,Extended Open Hours,8,0,-7,13
+511022,2,Female,15-Nov-25,11:36,Flu Covid ,FLU CLINIC,,,,
+511221,2,Male,15-Nov-25,11:27,Flu Covid ,FLU CLINIC,,,,
+511316,42,Female,15-Nov-25,11:57,Flu Covid ,FLU CLINIC,0,-11,-11,4
+511865,2,Female,15-Nov-25,11:21,Flu Covid ,FLU CLINIC,,,,
+512043,88,Male,15-Nov-25,9:12,Flu Covid ,FLU CLINIC,,,,
+512092,39,Male,15-Nov-25,11:20,FCP Core Hours SMC,Extended Open Hours,,,,
+190,70,Female,14-Nov-25,13:15,Tel for follow up results ONLY,Default Non-List Category,,,,
+360,76,Female,14-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+1057,78,Male,14-Nov-25,14:15,Pharmacist Pt Review,Evening Surgery,,,,
+1155,68,Female,14-Nov-25,9:00,Urine only,Default List Category,0,139,139,0
+1753,42,Male,14-Nov-25,10:40,Default,Morning Session,4,-3,-8,3
+1846,81,Male,14-Nov-25,8:00,Drug Monitoring Blood Test,Default Non-List Category,4,5,1,10
+2600,76,Female,14-Nov-25,8:30,Drug Monitoring Blood Test,Default Non-List Category,16,5,-11,4
+2680,89,Female,14-Nov-25,13:00,CCAS 111 Telephone Triage,Morning Session,,,,
+3144,39,Female,14-Nov-25,13:20,Face to Face 1 week bookable,Morning Session,,,-9,
+3257,61,Female,14-Nov-25,8:50,Flu Covid ,Nurse: General,5,-6,-12,7
+3766,61,Male,14-Nov-25,9:40,AX telephone 48 hour bookable,Morning Session,,,,
+4068,43,Male,14-Nov-25,9:00,Telephone 1 week bookable ,Morning Session,,,,
+5788,77,Male,14-Nov-25,8:30,Flu Covid ,Nurse: General,2,5,3,2
+6632,81,Male,14-Nov-25,10:00,Telephone 1 week bookable ,Morning Session,,,,
+7029,71,Female,14-Nov-25,12:20,AX Face2Face same day ,Morning Session,4,1,-3,14
+7051,59,Male,14-Nov-25,12:40,Telephone 1 week bookable ,Morning Session,,,,
+7142,76,Male,14-Nov-25,11:15,AX Face2Face same day ,Triage/Urgent Surg,6,-3,-9,17
+7797,59,Female,14-Nov-25,10:00,Pharmacist Pt Review,Morning Session,,,,
+8401,55,Male,14-Nov-25,8:40,Flu Covid ,Nurse: General,1,-1,-3,5
+10552,62,Female,14-Nov-25,8:40,Carers Health Check ,Default Non-List Category,12,4,-8,461
+11428,58,Female,14-Nov-25,9:20,Docman Task follow up,Morning Session,,,,
+11786,78,Female,14-Nov-25,8:15,Tel for follow up results ONLY,Default Non-List Category,,,,
+12521,63,Female,14-Nov-25,15:30,AX Telephone same day,Evening Surgery,,,,
+12791,36,Female,14-Nov-25,12:30,AX Face2Face same day ,Morning Session,15,5,-9,14
+13491,66,Female,14-Nov-25,10:20,Carers Health Check ,Default Non-List Category,,,,
+15257,67,Male,14-Nov-25,10:45,AX 48 hour bookable,Default Non-List Category,47,39,-7,13
+17687,62,Male,14-Nov-25,11:30,Tel for follow up results ONLY,Morning Session,,,,
+18626,58,Female,14-Nov-25,16:15,AX Face2Face same day ,Default Non-List Category,44,11,-32,32
+18862,66,Male,14-Nov-25,9:30,AX Telephone same day,Morning Session,,,,
+19147,53,Male,14-Nov-25,10:30,AX Face2Face same day ,Triage/Urgent Surg,24,5,-19,10
+19698,57,Male,14-Nov-25,13:30,Pharmacist Pt Review,Evening Surgery,,,,
+19804,55,Male,14-Nov-25,8:30,AX Face2Face same day ,Triage/Urgent Surg,9,2,-6,11
+20127,81,Female,14-Nov-25,16:10,AX Telephone same day,Evening Surgery,,,,
+21086,64,Male,14-Nov-25,8:25,Flu Covid ,Nurse: General,,,,
+21419,22,Male,14-Nov-25,14:30,AX Face2Face same day ,Default Non-List Category,,,,
+22943,71,Female,14-Nov-25,13:45,Pharmacist Pt Review,Evening Surgery,,,,
+24946,66,Female,14-Nov-25,10:00,AX Face2Face same day ,Default Non-List Category,45,38,-6,19
+26802,26,Male,14-Nov-25,12:50,AX Face2Face same day ,Morning Session,21,8,-13,13
+27252,57,Female,14-Nov-25,8:00,Tel for follow up results ONLY,Default Non-List Category,,,,
+27385,17,Female,14-Nov-25,16:00,Telephone 2 week bookable,Evening Surgery,,,,
+27851,46,Female,14-Nov-25,9:40,Smear Test,Nurse: General,,,,
+27871,84,Male,14-Nov-25,10:40,Blood appointment,Default Non-List Category,16,7,-9,148
+27873,30,Female,14-Nov-25,12:10,AX Telephone same day,Morning Session,,,,
+29470,60,Female,14-Nov-25,8:45,AX Face2Face same day ,Triage/Urgent Surg,1,0,-2,13
+29636,58,Female,14-Nov-25,15:20,AX Face2Face same day ,Evening Surgery,12,6,-5,19
+30416,28,Female,14-Nov-25,13:00,Tel for follow up results ONLY,Default Non-List Category,,,,
+31332,45,Female,14-Nov-25,13:10,AX Face2Face same day ,Morning Session,27,20,-6,9
+500485,13,Male,14-Nov-25,16:00,AX Face2Face same day ,Default Non-List Category,0,0,0,18
+500625,51,Male,14-Nov-25,8:10,Flu Covid ,Nurse: General,,,,
+501105,43,Female,14-Nov-25,11:00,AX Face2Face same day ,Triage/Urgent Surg,4,1,-3,10
+501459,42,Female,14-Nov-25,8:35,Flu Covid ,Nurse: General,,,,
+501891,39,Female,14-Nov-25,8:30,Face to Face 1 week bookable,Default Non-List Category,20,18,-2,9
+502733,49,Male,14-Nov-25,13:40,NHS HEALTH CHECK,Default Non-List Category,5,4,-1,14
+503334,31,Female,14-Nov-25,10:00,Smear Test,Nurse: General,1,-2,-3,20
+503385,54,Female,14-Nov-25,11:50,AX Telephone same day,Morning Session,,,,
+504009,49,Male,14-Nov-25,10:10,Default,Default Non-List Category,1,-5,-7,191
+504137,64,Female,14-Nov-25,13:30,Face to Face 1 week bookable,Morning Session,17,12,-4,13
+504609,46,Female,14-Nov-25,10:45,AX Face2Face same day ,Triage/Urgent Surg,5,0,-4,15
+504681,76,Female,14-Nov-25,9:20,Default,Default Non-List Category,7,6,-1,5
+504876,73,Female,14-Nov-25,13:00,AX Face2Face same day ,Morning Session,37,11,-26,17
+504910,69,Female,14-Nov-25,8:20,Drug Monitoring Blood Test,Default Non-List Category,9,4,-5,10
+505436,65,Male,14-Nov-25,10:50,Default,Nurse: General,13,1,-12,111
+506055,66,Female,14-Nov-25,10:30,Default,Morning Session,0,1,1,4
+506925,50,Female,14-Nov-25,12:30,Telephone 1 week bookable ,Morning Session,,,,
+506992,40,Female,14-Nov-25,8:15,Flu Covid ,Nurse: General,,,,
+507792,78,Male,14-Nov-25,14:45,Pharmacist Pt Review,Evening Surgery,,,,
+508026,39,Female,14-Nov-25,10:50,Message only,Morning Session,,,,
+508236,33,Female,14-Nov-25,12:50,Telephone 2 week bookable,Morning Session,,,,
+508437,46,Female,14-Nov-25,17:40,AX Telephone same day,Triage/Urgent Surg,,,,
+509380,18,Female,14-Nov-25,14:45,AX Face2Face same day ,Default Non-List Category,2,-7,-9,15
+509708,53,Male,14-Nov-25,8:55,Flu Covid ,Nurse: General,,,,
+509954,38,Female,14-Nov-25,9:15,AX Face2Face same day ,Triage/Urgent Surg,14,-1,-16,11
+510612,3,Male,14-Nov-25,8:00,Tel for follow up results ONLY,Triage/Urgent Surg,,,,
+510890,8,Female,14-Nov-25,10:00,AX Face2Face same day ,Triage/Urgent Surg,3,4,1,13
+510943,2,Male,14-Nov-25,10:30,AX Face2Face same day ,Default Non-List Category,41,42,0,12
+511235,86,Male,14-Nov-25,14:00,Tel for follow up results ONLY,Default Non-List Category,,,,
+512816,0,Male,14-Nov-25,17:30,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,4,-4,-8,8
+512913,31,Female,14-Nov-25,15:40,AX Face2Face same day ,Evening Surgery,0,14,9,17
+512957,23,Male,14-Nov-25,9:30,AX Face2Face same day ,Default Non-List Category,25,28,2,19
+513181,0,Female,14-Nov-25,10:15,AX Face2Face same day ,Default Non-List Category,43,43,0,13
+513223,79,Female,14-Nov-25,10:40,Default,Nurse: General,0,1,1,9
+1325,77,Female,13-Nov-25,11:15,Home Visit for review,Morning Session,0,192,192,0
+1639,81,Male,13-Nov-25,10:15,Home Visit for review,Morning Session,0,252,251,0
+2421,79,Male,13-Nov-25,10:00,Hypertension Only,Nurse: General,6,-1,-8,20
+2597,77,Male,13-Nov-25,10:15,Pharmacist Pt Review,Morning Session,,,,
+2788,78,Male,13-Nov-25,9:45,Home Visit for review,Morning Session,0,282,281,0
+3225,87,Male,13-Nov-25,15:45,Default,Nurse: General,8,0,-8,8658
+3513,38,Male,13-Nov-25,16:30,Default,Baby Clinic ,0,19,19,0
+5395,69,Female,13-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+5939,75,Female,13-Nov-25,9:00,Blood appointment,Morning Session,4,5,1,7
+6309,65,Male,13-Nov-25,10:50,Default,Morning Session,4,9,4,10
+7218,56,Male,13-Nov-25,10:30,Home Visit for review,Morning Session,0,237,236,0
+7625,70,Female,13-Nov-25,14:00,Default,Baby Clinic ,7,4,-3,5
+7765,79,Male,13-Nov-25,17:15,AX Telephone same day,Triage/Urgent Surg,,,,
+7820,74,Female,13-Nov-25,11:30,AX Face2Face same day ,Morning Session,2,-1,-4,25
+9079,60,Female,13-Nov-25,10:20,Default,Morning Session,0,138,138,0
+10083,71,Male,13-Nov-25,16:30,AX Telephone same day,Triage/Urgent Surg,,,,
+10514,61,Female,13-Nov-25,10:00,Default,Morning Session,,,,
+10671,73,Male,13-Nov-25,11:00,Multi One stop clinic,Morning Session,5,-1,-6,40
+12223,66,Female,13-Nov-25,9:45,Face to Face 2 week bookable,Default Non-List Category,8,4,-4,14
+12355,67,Female,13-Nov-25,9:50,Face to Face 1 week bookable,Evening Surgery,6,24,18,19
+13897,43,Female,13-Nov-25,12:00,Contraception fitting,Morning Session,11,13,2,17
+13968,30,Female,13-Nov-25,14:10,Smear Test,Baby Clinic ,8,0,-7,12
+14468,53,Female,13-Nov-25,15:30,Paramedic Review,Evening Surgery,12,18,5,18
+14759,63,Male,13-Nov-25,9:30,Multi One stop clinic,Morning Session,4,-4,-9,34
+14862,60,Male,13-Nov-25,13:30,Tel for follow up results ONLY,Default Non-List Category,,,,
+14995,58,Female,13-Nov-25,8:50,Default,Nurse: General,1,0,-2,9
+15464,81,Female,13-Nov-25,9:50,Docman Task follow up,Morning Session,,,,
+15561,80,Female,13-Nov-25,17:30,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-6,-6,10
+16088,73,Female,13-Nov-25,14:50,Default,Baby Clinic ,1,-3,-4,2
+18119,67,Male,13-Nov-25,8:00,Default,Morning Session,2,1,-1,2
+18403,26,Female,13-Nov-25,16:00,AX Face2Face same day ,Default Non-List Category,1,-8,-10,22
+20091,50,Female,13-Nov-25,14:45,Paramedic Review,Evening Surgery,5,1,-3,17
+20128,56,Male,13-Nov-25,9:30,Multi One stop clinic,Morning Session,0,-3,-3,39
+20664,23,Female,13-Nov-25,16:15,AX Telephone same day,Triage/Urgent Surg,,,,
+21721,59,Female,13-Nov-25,9:30,Face to Face 1 week bookable,Morning Session,2,-4,-7,13
+21838,52,Female,13-Nov-25,15:30,Smear Test,Baby Clinic ,8,10,1,14
+23059,55,Female,13-Nov-25,14:00,Mental Health review phonecall,Morning Session,,,,
+23515,47,Female,13-Nov-25,9:45,Tel for follow up results ONLY,Morning Session,,,,
+24788,55,Male,13-Nov-25,15:00,AX Face2Face same day ,Default Non-List Category,3,0,-3,18
+26464,18,Male,13-Nov-25,10:30,AX Face2Face same day ,Evening Surgery,38,28,-9,9
+26861,66,Male,13-Nov-25,8:00,Multi One stop clinic,Morning Session,3,-9,-12,32
+27713,61,Female,13-Nov-25,16:45,AX Telephone same day,Triage/Urgent Surg,,,,
+30087,80,Male,13-Nov-25,10:00,Multi One stop clinic,Morning Session,15,0,-15,31
+30652,23,Female,13-Nov-25,15:30,AX Face2Face same day ,Triage/Urgent Surg,2,0,-2,13
+501174,51,Female,13-Nov-25,16:00,AX Telephone same day,Triage/Urgent Surg,,,,
+503401,45,Female,13-Nov-25,8:40,Smear Test,Morning Session,15,0,-15,13
+503545,75,Female,13-Nov-25,15:00,Default,Baby Clinic ,,,,
+503635,38,Female,13-Nov-25,11:00,AX Face2Face same day ,Evening Surgery,37,24,-12,13
+503645,75,Female,13-Nov-25,9:40,Face to Face 2 week bookable,Evening Surgery,10,-2,-13,9
+503991,20,Male,13-Nov-25,9:10,Telephone 2 week bookable,Morning Session,,,,
+504072,48,Female,13-Nov-25,14:30,AX Face2Face same day ,Default Non-List Category,7,-2,-9,16
+504175,52,Female,13-Nov-25,9:30,Tel for follow up results ONLY,Morning Session,,,,
+504317,43,Female,13-Nov-25,15:15,AX Face2Face same day ,Triage/Urgent Surg,3,5,1,10
+504326,13,Male,13-Nov-25,9:00,Face to Face 1 week bookable,Morning Session,,,,
+504494,39,Female,13-Nov-25,12:40,Contraception fitting,Morning Session,19,9,-9,18
+504704,18,Female,13-Nov-25,9:40,AX 48 hour bookable,Morning Session,16,-1,-17,13
+504821,42,Female,13-Nov-25,13:30,Mental Health review phonecall,Morning Session,,,,
+505585,92,Male,13-Nov-25,10:00,Default,Morning Session,4,23,18,15
+505725,36,Female,13-Nov-25,10:50,Smear Test,Morning Session,24,22,-1,12
+505851,9,Male,13-Nov-25,15:40,Child Nasal Flu,Nurse: General,0,1,1,2
+505914,9,Male,13-Nov-25,11:20,AX Face2Face same day ,Evening Surgery,30,18,-11,14
+506630,7,Female,13-Nov-25,14:35,Child Nasal Flu,Nurse: General,1,-12,-14,5
+506752,77,Female,13-Nov-25,9:00,Home Visit for review,Home Visit List,0,311,311,0
+507054,42,Female,13-Nov-25,14:00,AX 48 hour bookable,Default Non-List Category,3,-4,-7,16
+507132,18,Male,13-Nov-25,16:00,Paramedic Review,Evening Surgery,15,7,-8,19
+507950,6,Male,13-Nov-25,11:00,Face 2 Face,Default Non-List Category,1,34,32,11
+507995,38,Female,13-Nov-25,15:30,Mental Health review phonecall,Morning Session,,,,
+508074,6,Male,13-Nov-25,15:15,AX Face2Face same day ,Default Non-List Category,15,4,-11,11
+508139,5,Male,13-Nov-25,15:15,Paramedic Review,Evening Surgery,19,4,-15,12
+508146,8,Female,13-Nov-25,15:45,AX Face2Face same day ,Triage/Urgent Surg,4,-1,-5,11
+508393,15,Female,13-Nov-25,16:15,AX Face2Face same day ,Default Non-List Category,0,0,-1,16
+508510,43,Male,13-Nov-25,13:10,AX Face2Face same day ,Morning Session,20,8,-11,9
+508672,5,Male,13-Nov-25,14:40,Child Nasal Flu,Nurse: General,1,-17,-19,6
+509145,33,Female,13-Nov-25,9:30,Mental Health review phonecall,Morning Session,,,,
+509304,53,Female,13-Nov-25,11:20,Hypertension Only,Morning Session,33,28,-4,46
+509461,24,Female,13-Nov-25,11:10,Additional Support Telephone,Morning Session,,,,
+509471,46,Male,13-Nov-25,15:45,Paramedic Review,Evening Surgery,3,-12,-16,15
+509646,25,Female,13-Nov-25,11:50,Urine Bins,Nurse: General,0,-151,-151,0
+509910,55,Male,13-Nov-25,15:50,Default,Baby Clinic ,19,6,-13,37
+510133,48,Female,13-Nov-25,10:10,AX 48 hour bookable,Evening Surgery,23,23,0,15
+510378,43,Male,13-Nov-25,14:00,Multi One stop clinic,Nurse: General,4,-16,-20,22
+510810,2,Male,13-Nov-25,14:30,Child Nasal Flu,Nurse: General,0,0,0,2
+510875,2,Male,13-Nov-25,15:30,Child Nasal Flu,Nurse: General,0,1,0,9
+510888,39,Female,13-Nov-25,10:00,Face to Face 2 week bookable,Morning Session,1,1,0,16
+511036,40,Female,13-Nov-25,13:20,Contraception fitting,Morning Session,0,17,-2,32
+511057,21,Female,13-Nov-25,10:30,Default,Morning Session,10,12,2,7
+511328,62,Female,13-Nov-25,15:00,AX Face2Face same day ,Triage/Urgent Surg,,,,
+511511,24,Female,13-Nov-25,9:00,Face to Face 1 week bookable,Default Non-List Category,15,11,-3,14
+511719,60,Female,13-Nov-25,8:30,Tel for follow up results ONLY,Morning Session,,,,
+511912,70,Female,13-Nov-25,11:00,Face to Face 2 week bookable,Morning Session,6,1,-5,14
+511977,30,Female,13-Nov-25,11:00,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-45,-45,11
+512019,82,Female,13-Nov-25,9:00,Default,Nurse: General,,,,
+512189,11,Male,13-Nov-25,9:30,Face to Face 2 week bookable,Default Non-List Category,4,2,-1,12
+512244,1,Male,13-Nov-25,10:45,AX Face2Face same day ,Default Non-List Category,12,11,-1,13
+512629,19,Male,13-Nov-25,10:30,AX Telephone same day,Morning Session,,,,
+512754,33,Female,13-Nov-25,11:28,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,42,96,53,0
+512891,5,Male,13-Nov-25,15:00,Child Nasal Flu,Nurse: General,,,,
+513088,44,Female,13-Nov-25,13:45,Tel for follow up results ONLY,Default Non-List Category,,,,
+1007,56,Female,12-Nov-25,15:00,Minor Illness PM,Morning Session,23,20,-2,17
+1235,78,Female,12-Nov-25,9:00,Urine only,Default List Category,0,512,512,15
+1880,48,Female,12-Nov-25,16:40,Face to Face 1 week bookable,Triage/Urgent Surg,25,13,-12,17
+2035,67,Female,12-Nov-25,16:20,First Contact Physio,Evening Surgery,5,4,0,18
+2188,68,Female,12-Nov-25,13:15,Minor illness AM,Morning Session,1,-9,-10,10
+3202,41,Female,12-Nov-25,14:00,Minor illness AM,Morning Session,25,21,-4,19
+3451,68,Female,12-Nov-25,9:30,Mental Health review phonecall,Morning Session,,,,
+3495,77,Male,12-Nov-25,10:10,Face to Face 1 week bookable,Evening Surgery,10,5,-4,15
+3612,56,Female,12-Nov-25,14:00,First Contact Physio,Evening Surgery,7,0,-7,15
+4383,72,Male,12-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+4435,81,Male,12-Nov-25,10:45,AX Face2Face same day ,Default Non-List Category,,,,
+4488,88,Male,12-Nov-25,11:50,Tel for follow up results ONLY,Evening Surgery,,,,
+5166,76,Female,12-Nov-25,10:50,First Contact Physio,Morning Session,57,-1,-59,21
+5272,74,Female,12-Nov-25,9:00,Hypertension Only,Nurse: General,7,-1,-8,23
+5970,63,Female,12-Nov-25,8:40,Hypertension Only,Nurse: General,10,1,-9,16
+5992,73,Female,12-Nov-25,10:40,AX Face2Face same day ,Evening Surgery,2,3,1,11
+6130,67,Male,12-Nov-25,10:00,AX 48 hour bookable,Evening Surgery,,,,
+6243,70,Male,12-Nov-25,15:00,AX Telephone same day,Default Non-List Category,,,,
+7139,76,Male,12-Nov-25,14:20,First Contact Physio,Evening Surgery,10,0,-10,14
+7955,42,Female,12-Nov-25,15:40,AX Triage,Default Non-List Category,,,,
+8123,54,Male,12-Nov-25,11:30,AX Face2Face same day ,Evening Surgery,15,7,-7,13
+9001,72,Female,12-Nov-25,10:10,First Contact Physio,Morning Session,7,3,-3,16
+9080,63,Female,12-Nov-25,10:20,Hypertension Only,Nurse: General,28,2,-26,38
+10074,55,Male,12-Nov-25,9:40,Hypertension Only,Nurse: General,15,-2,-18,16
+10646,62,Female,12-Nov-25,9:30,First Contact Physio,Morning Session,12,7,-5,16
+11522,57,Female,12-Nov-25,15:00,First Contact Physio,Evening Surgery,5,1,-4,20
+11825,61,Female,12-Nov-25,16:00,First Contact Physio,Evening Surgery,6,3,-2,20
+12204,68,Female,12-Nov-25,9:00,Urine only,Default List Category,0,527,527,17
+12480,61,Female,12-Nov-25,16:10,AX Triage,Default Non-List Category,,,,
+13135,58,Female,12-Nov-25,16:35,Flu Covid ,Nurse: General,6,-1,-7,2
+13909,62,Male,12-Nov-25,10:30,Telephone 1 week bookable ,Default Non-List Category,,,,
+14615,76,Male,12-Nov-25,15:20,AX Face2Face same day ,Triage/Urgent Surg,28,12,-15,14
+15796,91,Male,12-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+16396,65,Female,12-Nov-25,15:00,Default,Nurse: General,1,-8,-9,8
+16573,52,Female,12-Nov-25,11:50,First Contact Physio,Morning Session,9,1,-8,21
+17369,57,Male,12-Nov-25,8:30,Tel for follow up results ONLY,Default Non-List Category,,,,
+17830,64,Male,12-Nov-25,16:30,Flu Covid ,Nurse: General,,,,
+17847,76,Male,12-Nov-25,15:10,AX Face2Face same day ,Triage/Urgent Surg,14,11,-3,11
+18293,70,Male,12-Nov-25,12:50,First Contact Physio,Morning Session,11,-1,-13,21
+21280,88,Female,12-Nov-25,11:30,First Contact Physio,Morning Session,8,3,-5,16
+21342,81,Female,12-Nov-25,10:00,Hypertension Only,Nurse: General,10,-4,-14,21
+21364,22,Female,12-Nov-25,11:15,Minor illness AM,Morning Session,1,10,8,8
+21995,22,Female,12-Nov-25,9:45,Minor illness AM,Morning Session,6,12,6,29
+22560,50,Female,12-Nov-25,17:00,First Contact Physio,Evening Surgery,5,0,-5,14
+23034,82,Female,12-Nov-25,9:30,Face to Face 1 week bookable,Morning Session,5,-3,-8,13
+23222,21,Male,12-Nov-25,15:20,Default,Nurse: General,1,8,6,11
+23804,49,Female,12-Nov-25,11:15,Tel for follow up results ONLY,Default Non-List Category,,,,
+24818,19,Female,12-Nov-25,11:30,Minor illness AM,Morning Session,6,6,0,20
+25448,19,Female,12-Nov-25,11:00,Minor illness AM,Morning Session,23,11,-11,8
+25816,86,Female,12-Nov-25,8:45,Tel for follow up results ONLY,Default Non-List Category,,,,
+27189,46,Female,12-Nov-25,17:10,Smear Test,Nurse: General,14,2,-11,18
+27779,58,Male,12-Nov-25,14:40,AX Face2Face same day ,Triage/Urgent Surg,10,8,-2,33
+27916,77,Male,12-Nov-25,15:50,Default,Nurse: General,,,,
+28232,74,Female,12-Nov-25,8:30,Minor illness AM,Morning Session,11,8,-3,22
+29729,88,Male,12-Nov-25,9:45,Telephone 2 week bookable,Default Non-List Category,,,,
+30121,15,Male,12-Nov-25,13:45,Minor illness AM,Morning Session,26,21,-5,10
+30751,36,Female,12-Nov-25,9:40,AX Face2Face same day ,Morning Session,2,3,0,13
+31340,23,Male,12-Nov-25,16:00,AX Triage,Default Non-List Category,,,,
+501120,59,Female,12-Nov-25,15:20,AX Telephone same day,Default Non-List Category,,,,
+501526,51,Male,12-Nov-25,12:10,First Contact Physio,Morning Session,11,4,-6,17
+501840,70,Female,12-Nov-25,15:30,Default,Nurse: General,12,9,-2,6
+501841,70,Male,12-Nov-25,15:40,Default,Nurse: General,11,0,-12,6
+501872,66,Female,12-Nov-25,9:00,Face to Face 2 week bookable,Default Non-List Category,14,3,-10,20
+502638,56,Male,12-Nov-25,9:50,AX 48 hour bookable,Evening Surgery,1,2,0,23
+502707,18,Female,12-Nov-25,14:30,Minor illness AM,Morning Session,15,15,0,16
+502723,45,Female,12-Nov-25,9:15,Face to Face 2 week bookable,Default Non-List Category,7,8,0,21
+503014,50,Female,12-Nov-25,10:30,First Contact Physio,Morning Session,6,0,-5,14
+503500,44,Male,12-Nov-25,16:00,AX Telephone same day,Triage/Urgent Surg,,,,
+504206,45,Female,12-Nov-25,10:15,Face to Face 2 week bookable,Default Non-List Category,9,5,-3,27
+505203,58,Male,12-Nov-25,14:45,Minor illness AM,Morning Session,25,17,-8,17
+505508,36,Female,12-Nov-25,10:00,Pharmacist Pt Review,Morning Session,,,,
+505532,46,Female,12-Nov-25,9:30,Face to Face 2 week bookable,Evening Surgery,11,11,0,10
+505674,55,Female,12-Nov-25,14:00,Smear Test,Nurse: General,10,4,-5,16
+505838,57,Female,12-Nov-25,13:00,Minor illness AM,Morning Session,8,23,15,21
+506326,42,Female,12-Nov-25,16:50,AX Telephone same day,Triage/Urgent Surg,,,,
+506332,47,Female,12-Nov-25,14:50,AX Face2Face same day ,Triage/Urgent Surg,17,12,-4,8
+506941,64,Male,12-Nov-25,14:40,Default,Nurse: General,16,0,-16,4
+507207,39,Male,12-Nov-25,19:45,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+507572,30,Female,12-Nov-25,19:30,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+507756,61,Female,12-Nov-25,11:30,AX 48 hour bookable,Default Non-List Category,19,11,-8,51
+508344,25,Male,12-Nov-25,17:00,Telephone 1 week bookable ,Triage/Urgent Surg,,,,
+508599,46,Female,12-Nov-25,14:30,AX Telephone same day,Default Non-List Category,,,,
+508602,39,Male,12-Nov-25,13:30,Minor illness AM,Morning Session,23,15,-8,17
+509070,71,Male,12-Nov-25,10:00,Face to Face 2 week bookable,Default Non-List Category,20,8,-11,11
+509315,58,Male,12-Nov-25,16:10,AX Telephone same day,Triage/Urgent Surg,,,,
+509363,28,Female,12-Nov-25,16:40,First Contact Physio,Evening Surgery,23,4,-19,15
+509496,4,Female,12-Nov-25,16:30,AX 48 hour bookable,Triage/Urgent Surg,11,8,-3,14
+510184,8,Female,12-Nov-25,11:20,AX Face2Face same day ,Evening Surgery,0,-5,-6,8
+510962,2,Male,12-Nov-25,9:50,AX Face2Face same day ,Morning Session,8,6,-1,17
+511077,45,Female,12-Nov-25,10:00,Mental Health review phonecall,Morning Session,,,,
+511078,19,Female,12-Nov-25,10:15,AX Face2Face same day ,Default Non-List Category,16,21,5,27
+511081,13,Male,12-Nov-25,17:20,Telephone 1 week bookable ,Triage/Urgent Surg,,,,
+511409,62,Male,12-Nov-25,10:00,AX Face2Face same day ,Default Non-List Category,27,19,-8,17
+511512,2,Male,12-Nov-25,10:10,AX Face2Face same day ,Morning Session,29,4,-24,11
+511662,2,Male,12-Nov-25,11:00,AX Face2Face same day ,Default Non-List Category,34,23,-10,17
+511950,51,Male,12-Nov-25,15:30,Minor illness AM,Morning Session,23,14,-9,13
+512070,1,Male,12-Nov-25,9:40,Face to Face 2 week bookable,Evening Surgery,2,-16,-19,17
+512242,82,Female,12-Nov-25,17:10,Telephone 1 week bookable ,Triage/Urgent Surg,,,,
+512302,6,Male,12-Nov-25,9:00,AX 48 hour bookable,Default Non-List Category,7,0,-7,16
+512322,29,Female,12-Nov-25,17:00,Default,Nurse: General,5,4,-1,4
+512575,51,Female,12-Nov-25,14:20,Smear Test,Nurse: General,8,2,-5,16
+512806,25,Female,12-Nov-25,14:50,AX telephone 48 hour bookable,Default Non-List Category,,,,
+512808,68,Female,12-Nov-25,10:15,Minor illness AM,Morning Session,32,11,-20,10
+513005,56,Female,12-Nov-25,15:45,Minor illness AM,Morning Session,,,,
+513013,30,Female,12-Nov-25,15:30,AX Telephone same day,Default Non-List Category,,,,
+513118,27,Female,12-Nov-25,16:40,Smear Test,Nurse: General,5,-1,-7,25
+513185,32,Female,12-Nov-25,15:50,AX Triage,Default Non-List Category,,,,
+50,70,Female,11-Nov-25,10:15,Pharmacist Pt Review,Morning Session,,,,
+1324,80,Male,11-Nov-25,10:45,SMR Review,Morning Session,,,,
+1427,67,Male,11-Nov-25,10:00,Pharmacist Pt Review,Morning Session,,,,
+2111,73,Female,11-Nov-25,15:40,Flu Covid ,Baby Clinic ,1,-20,-22,8
+2835,35,Male,11-Nov-25,10:20,Hypertension Only,Nurse: General,0,-9,-9,39
+2853,71,Female,11-Nov-25,13:15,AX 48 hour bookable,Default Non-List Category,16,7,-9,16
+3114,81,Male,11-Nov-25,17:30,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-26,-26,29
+3842,77,Female,11-Nov-25,8:30,Carers Health Check ,Nurse: General,8,-5,-14,22
+3846,87,Female,11-Nov-25,11:10,PCN GP F2F,Default Non-List Category,6,31,25,11
+4091,65,Female,11-Nov-25,9:40,Telephone 1 week bookable ,Default Non-List Category,,,,
+4419,81,Male,11-Nov-25,9:50,AX Face2Face same day ,Morning Session,26,19,-7,13
+4466,56,Female,11-Nov-25,9:50,Default,Nurse: General,1,-10,-11,8
+4989,80,Male,11-Nov-25,13:45,Pharmacist Pt Review,Morning Session,,,,
+5382,81,Male,11-Nov-25,16:00,Telephone 1 week bookable ,Default Non-List Category,,,,
+5937,47,Male,11-Nov-25,9:30,AX Telephone same day,Default Non-List Category,,,,
+5973,37,Female,11-Nov-25,10:30,AX Face2Face same day ,Default Non-List Category,0,-65,-65,4
+6161,72,Female,11-Nov-25,16:15,Flu Covid ,Baby Clinic ,6,-7,-13,6
+6187,75,Female,11-Nov-25,10:00,PCN GP Tel Appt,Default Non-List Category,,,,
+6208,69,Female,11-Nov-25,13:45,Minor illness AM,Morning Session,21,19,-2,6
+6514,39,Female,11-Nov-25,9:00,Home Visit for review,Home Visit List,,,,
+6648,78,Male,11-Nov-25,10:30,Pharmacist Pt Review,Morning Session,,,,
+6915,87,Female,11-Nov-25,13:45,Face to Face 1 week bookable,Default Non-List Category,22,13,-9,28
+7411,82,Male,11-Nov-25,9:30,Pharmacist Pt Review,Morning Session,,,,
+7479,57,Female,11-Nov-25,10:00,Default,Nurse: General,0,-4,-5,12
+7789,53,Female,11-Nov-25,15:45,Minor illness AM,Morning Session,0,-2,-3,6
+7867,90,Female,11-Nov-25,13:15,Minor illness AM,Morning Session,35,29,-5,6
+8151,62,Female,11-Nov-25,8:15,Tel for follow up results ONLY,Default Non-List Category,,,,
+8402,88,Male,11-Nov-25,16:10,AX Telephone same day,Morning Session,,,,
+8760,66,Female,11-Nov-25,10:00,AX Telephone same day,Default Non-List Category,,,,
+9767,64,Male,11-Nov-25,10:00,AX Telephone same day,Morning Session,,,,
+10294,55,Female,11-Nov-25,9:20,Smear Test,Nurse: General,7,-2,-9,15
+11120,68,Male,11-Nov-25,9:10,Face to Face 2 week bookable,Morning Session,13,4,-8,25
+12068,62,Female,11-Nov-25,15:00,PCN GP F2F,Default Non-List Category,14,4,-10,13
+12617,36,Female,11-Nov-25,9:45,AX Telephone same day,Default Non-List Category,,,,
+13345,64,Male,11-Nov-25,11:00,Hypertension Only,Nurse: General,0,-12,-12,44
+13468,31,Female,11-Nov-25,15:20,Additional Support Telephone,Morning Session,,,,
+13939,57,Male,11-Nov-25,16:30,PCN GP F2F,Default Non-List Category,,,,
+14738,30,Female,11-Nov-25,13:30,Minor illness AM,Morning Session,32,21,-10,12
+16126,65,Female,11-Nov-25,9:30,Minor illness AM,Morning Session,8,7,0,9
+16411,63,Female,11-Nov-25,16:30,AX Telephone same day,Morning Session,,,,
+16474,63,Female,11-Nov-25,16:25,Flu Covid ,Baby Clinic ,0,-6,-6,2
+17387,45,Female,11-Nov-25,14:45,Minor illness AM,Morning Session,5,5,0,9
+17593,53,Male,11-Nov-25,16:00,Flu Covid ,Baby Clinic ,,,,
+19475,80,Male,11-Nov-25,15:30,Minor illness AM,Morning Session,,,,
+19588,24,Female,11-Nov-25,9:30,Pharmacist Pt Review,Morning Session,,,,
+20359,81,Male,11-Nov-25,13:30,AX Face2Face same day ,Default Non-List Category,13,9,-4,19
+20394,23,Female,11-Nov-25,13:00,Minor illness AM,Morning Session,28,34,5,10
+20727,67,Female,11-Nov-25,14:15,AX Face2Face same day ,Baby Clinic ,7,1,-6,15
+22785,76,Male,11-Nov-25,14:00,Pharmacist Pt Review,Morning Session,,,,
+22868,69,Male,11-Nov-25,15:45,Flu Covid ,Baby Clinic ,5,-6,-11,8
+22944,39,Female,11-Nov-25,8:30,Minor illness AM,Morning Session,13,11,-2,8
+23236,68,Male,11-Nov-25,11:15,SMR Review,Morning Session,,,,
+23343,21,Male,11-Nov-25,10:45,Minor illness AM,Morning Session,19,8,-11,16
+23616,62,Female,11-Nov-25,11:00,Minor illness AM,Morning Session,14,9,-5,9
+23924,29,Male,11-Nov-25,11:00,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-36,-37,86
+24035,54,Female,11-Nov-25,14:00,Minor illness AM,Morning Session,15,10,-5,26
+25262,52,Female,11-Nov-25,9:30,Face to Face 1 week bookable,Morning Session,7,10,2,21
+25675,87,Male,11-Nov-25,11:50,Urine only,Nurse: General,0,-144,-145,0
+25783,66,Female,11-Nov-25,15:30,Face to Face 2 week bookable,Default Non-List Category,34,20,-14,16
+26204,77,Female,11-Nov-25,10:00,Face to Face 2 week bookable,Default Non-List Category,34,18,-15,18
+27256,66,Male,11-Nov-25,14:20,PCN GP F2F,Default Non-List Category,0,5,3,11
+27431,47,Male,11-Nov-25,14:30,Pharmacist Pt Review,Morning Session,,,,
+27644,38,Female,11-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+28319,55,Female,11-Nov-25,16:10,PCN GP Tel Appt,Default Non-List Category,,,,
+29134,57,Male,11-Nov-25,11:10,NHS HEALTH CHECK,Nurse: General,4,-2,-6,15
+29337,31,Female,11-Nov-25,15:15,Minor illness AM,Morning Session,8,12,3,9
+29340,46,Female,11-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+29908,15,Female,11-Nov-25,15:20,PCN GP F2F,Default Non-List Category,7,15,8,14
+30339,19,Female,11-Nov-25,14:00,PCN GP F2F,Default Non-List Category,19,4,-14,14
+30835,54,Female,11-Nov-25,10:00,Default,Nurse: General,0,-7,-8,9
+31360,80,Female,11-Nov-25,8:50,Default,Nurse: General,3,-2,-5,12
+500730,17,Female,11-Nov-25,16:20,Telephone 1 week bookable ,Default Non-List Category,,,,
+501460,42,Male,11-Nov-25,15:00,AX Triage,Morning Session,,,,
+502279,54,Female,11-Nov-25,9:40,Default,Nurse: General,1,-2,-3,4
+502703,48,Male,11-Nov-25,8:45,Minor illness AM,Morning Session,11,4,-7,15
+503058,46,Male,11-Nov-25,11:30,Minor illness AM,Morning Session,9,7,-2,12
+503189,45,Male,11-Nov-25,9:20,Telephone 1 week bookable ,Default Non-List Category,,,,
+503304,16,Female,11-Nov-25,15:00,Pharmacist F2F Review,Morning Session,4,-1,-5,12
+503709,11,Male,11-Nov-25,16:50,AX Telephone same day,Morning Session,,,,
+503784,70,Female,11-Nov-25,11:30,Default,Nurse: General,8,2,-6,12
+504122,53,Male,11-Nov-25,12:30,Face to Face 2 week bookable,Default Non-List Category,4,3,0,15
+504197,52,Female,11-Nov-25,15:50,Telephone 1 week bookable ,Morning Session,,,,
+504217,49,Female,11-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+504432,74,Female,11-Nov-25,9:00,PCN GP F2F,Default Non-List Category,3,2,0,13
+504624,35,Female,11-Nov-25,15:40,PCN GP F2F,Default Non-List Category,28,26,-1,12
+504710,53,Male,11-Nov-25,8:30,Multi One stop clinic,Nurse: General,0,-1,-1,28
+504775,42,Female,11-Nov-25,16:00,Minor illness AM,Morning Session,0,-10,-10,29
+504934,12,Male,11-Nov-25,9:00,Face to Face 1 week bookable,Morning Session,16,2,-14,11
+505052,52,Male,11-Nov-25,8:15,Face to Face 1 week bookable,Morning Session,15,2,-13,5
+505073,23,Male,11-Nov-25,17:20,Default,Nurse: General,7,-4,-12,34
+505750,56,Male,11-Nov-25,15:55,Flu Covid ,Baby Clinic ,0,-1,-1,8
+505839,14,Female,11-Nov-25,10:15,Minor illness AM,Morning Session,11,15,3,9
+506136,44,Male,11-Nov-25,15:15,Pharmacist F2F Review,Morning Session,8,-2,-11,7
+506246,59,Female,11-Nov-25,14:30,PCN GP F2F,Default Non-List Category,14,6,-8,15
+506279,32,Female,11-Nov-25,12:40,Face to Face 2 week bookable,Baby Clinic ,14,15,0,4
+506280,12,Female,11-Nov-25,15:10,Additional Support Telephone,Morning Session,,,,
+506572,47,Female,11-Nov-25,9:10,PCN GP F2F,Default Non-List Category,20,6,-13,12
+506655,19,Male,11-Nov-25,8:30,AX Face2Face same day ,Default Non-List Category,5,10,5,14
+507440,27,Female,11-Nov-25,12:30,Brunel Student ,Default Non-List Category,11,14,3,20
+507535,18,Female,11-Nov-25,10:40,PCN GP F2F,Default Non-List Category,,,,
+508460,21,Female,11-Nov-25,10:30,Minor illness AM,Morning Session,15,10,-4,12
+508515,39,Female,11-Nov-25,9:40,AX Face2Face same day ,Morning Session,18,21,3,7
+508724,91,Female,11-Nov-25,11:39,Care Home Visit,Morning Session,,,,
+508725,89,Male,11-Nov-25,10:40,Care Home Visit,Morning Session,,,,
+508730,11,Female,11-Nov-25,16:40,PCN GP F2F,Default Non-List Category,,,,
+508775,50,Female,11-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+509685,42,Female,11-Nov-25,13:30,Brunel Student ,Default Non-List Category,20,-14,-35,19
+510054,91,Female,11-Nov-25,15:30,AX Telephone same day,Morning Session,,,,
+510283,67,Female,11-Nov-25,8:40,Tel for follow up results ONLY,Morning Session,,,,
+510611,78,Male,11-Nov-25,12:10,Care Home Visit,Morning Session,,,,
+510794,97,Female,11-Nov-25,10:30,Care Home Visit,Morning Session,,,,
+511115,62,Female,11-Nov-25,9:50,Default,Nurse: General,1,-7,-9,7
+511527,15,Female,11-Nov-25,16:40,AX Telephone same day,Morning Session,,,,
+511546,2,Male,11-Nov-25,12:30,Minor illness AM,Morning Session,14,6,-8,16
+511669,52,Male,11-Nov-25,15:40,AX Telephone same day,Morning Session,,,,
+511843,1,Male,11-Nov-25,12:45,Minor illness AM,Morning Session,12,12,0,36
+511909,35,Male,11-Nov-25,16:00,AX Telephone same day,Morning Session,,,,
+512106,1,Female,11-Nov-25,11:15,Minor illness AM,Morning Session,7,10,3,12
+512124,1,Female,11-Nov-25,9:00,Minor illness AM,Morning Session,7,5,-2,10
+512128,88,Male,11-Nov-25,11:35,Care Home Visit,Morning Session,,,,
+512257,48,Female,11-Nov-25,9:30,Face to Face 2 week bookable,Default Non-List Category,21,16,-5,5
+512524,43,Female,11-Nov-25,11:20,PCN GP F2F,Default Non-List Category,17,10,-6,11
+512588,1,Male,11-Nov-25,9:15,Minor illness AM,Morning Session,1,10,9,11
+512615,60,Male,11-Nov-25,12:20,Care Home Visit,Morning Session,,,,
+512617,62,Female,11-Nov-25,9:30,Care Home Visit,Morning Session,,,,
+512711,0,Male,11-Nov-25,9:00,AX Face2Face same day ,Default Non-List Category,17,10,-7,18
+512870,21,Female,11-Nov-25,10:30,Tel for follow up results ONLY,Default Non-List Category,,,,
+512888,40,Male,11-Nov-25,15:00,Minor illness AM,Morning Session,8,2,-5,24
+512899,84,Female,11-Nov-25,9:30,Care Home Visit,Morning Session,,,,
+513041,0,Male,11-Nov-25,14:30,BABY IMMS,Baby Clinic ,2,-3,-5,33
+513110,0,Male,11-Nov-25,13:50,BABY IMMS,Baby Clinic ,9,13,3,12
+513170,0,Female,11-Nov-25,13:30,8 Week Baby Check,Baby Clinic ,16,7,-8,23
+513201,0,Male,11-Nov-25,13:00,8 Week Baby Check,Baby Clinic ,17,17,0,16
+277,64,Female,10-Nov-25,9:00,First Contact Physio,Morning Session,3,-4,-7,15
+306,66,Male,10-Nov-25,9:30,AX Face2Face same day ,Morning Session,0,3,3,11
+1547,79,Male,10-Nov-25,11:30,Face to Face 1 week bookable,Default Non-List Category,26,6,-19,12
+2241,85,Male,10-Nov-25,11:15,Minor illness AM,Morning Session,30,-24,-55,19
+2759,85,Male,10-Nov-25,14:00,Drug Monitoring Blood Test,Default Non-List Category,30,0,-31,7
+3152,74,Female,10-Nov-25,9:00,Mental Health review phonecall,Morning Session,,,,
+3200,63,Female,10-Nov-25,14:45,AX Face2Face same day ,Triage/Urgent Surg,21,11,-9,22
+3294,79,Female,10-Nov-25,8:30,Minor illness AM,Morning Session,26,20,-6,10
+3547,71,Male,10-Nov-25,11:00,Default,Default Non-List Category,13,3,-9,48
+4757,66,Female,10-Nov-25,12:00,First Contact Physio,Morning Session,3,-6,-10,10
+5281,60,Female,10-Nov-25,15:45,AX Face2Face same day ,Triage/Urgent Surg,17,3,-14,10
+5792,80,Male,10-Nov-25,16:00,First Contact Physio,Evening Surgery,18,-3,-22,17
+6539,62,Male,10-Nov-25,16:45,Paramedic Review,Evening Surgery,19,6,-12,18
+7462,66,Male,10-Nov-25,8:00,Blood appointment,Nurse: General,1,2,0,8
+8465,81,Male,10-Nov-25,11:00,Paramedic Review,Morning Session,14,0,-13,16
+9135,44,Female,10-Nov-25,12:20,First Contact Physio,Morning Session,,,,
+9617,66,Female,10-Nov-25,9:45,Tel for follow up results ONLY,Default Non-List Category,,,,
+9910,60,Male,10-Nov-25,8:30,Tel for follow up results ONLY,Morning Session,,,,
+10546,84,Female,10-Nov-25,10:00,Default,Nurse: General,17,4,-13,5
+10953,78,Female,10-Nov-25,17:00,Telephone 1 week bookable ,Triage/Urgent Surg,,,,
+11275,66,Male,10-Nov-25,8:10,Blood appointment,Nurse: General,4,1,-3,10
+12339,57,Female,10-Nov-25,10:00,Face to Face 1 week bookable,Default Non-List Category,13,1,-11,11
+12540,63,Female,10-Nov-25,16:40,First Contact Physio,Evening Surgery,11,7,-4,10
+12590,60,Female,10-Nov-25,10:20,First Contact Physio,Morning Session,4,-2,-6,5
+13159,34,Female,10-Nov-25,14:50,AX Face2Face same day ,Morning Session,6,-2,-8,9
+14082,60,Female,10-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+16275,35,Male,10-Nov-25,15:15,Face to Face 2 week bookable,Default Non-List Category,19,10,-8,9
+18161,27,Female,10-Nov-25,15:00,Face to Face 1 week bookable,Morning Session,0,-2,-3,14
+18304,53,Female,10-Nov-25,8:40,Tel for follow up results ONLY,Morning Session,,,,
+19732,81,Female,10-Nov-25,12:40,First Contact Physio,Morning Session,0,-5,-6,8
+20853,55,Male,10-Nov-25,9:30,Paramedic Review,Morning Session,8,3,-4,14
+21101,60,Male,10-Nov-25,11:20,First Contact Physio,Morning Session,7,1,-6,4
+21485,22,Female,10-Nov-25,10:30,Mental Health review phonecall,Morning Session,,,,
+21610,44,Female,10-Nov-25,17:30,Urgent Telephone Call,Triage/Urgent Surg,,,,
+21935,50,Male,10-Nov-25,9:50,AX Face2Face same day ,Morning Session,22,22,0,28
+23441,72,Female,10-Nov-25,16:20,First Contact Physio,Evening Surgery,4,-5,-9,9
+23569,28,Male,10-Nov-25,8:50,Face to Face 1 week bookable,Morning Session,0,6,6,7
+24221,65,Male,10-Nov-25,9:30,Tel for follow up results ONLY,Default Non-List Category,,,,
+24529,20,Male,10-Nov-25,9:45,Paramedic Review,Morning Session,,,,
+24535,48,Female,10-Nov-25,14:00,Minor illness AM,Morning Session,31,30,0,18
+24687,71,Male,10-Nov-25,11:15,Paramedic Review,Morning Session,12,4,-7,17
+25462,40,Female,10-Nov-25,14:00,Tel for follow up results ONLY,Morning Session,,,,
+25990,62,Female,10-Nov-25,15:10,Face to Face 1 week bookable,Morning Session,0,1,1,15
+26834,46,Female,10-Nov-25,11:00,Minor illness AM,Morning Session,11,11,0,23
+26838,49,Female,10-Nov-25,11:20,Default,Nurse: General,15,9,-6,13
+27033,49,Male,10-Nov-25,9:20,Face to Face 1 week bookable,Morning Session,9,6,-3,7
+27709,87,Female,10-Nov-25,15:30,Minor illness AM,Morning Session,41,38,-3,13
+28987,16,Male,10-Nov-25,12:15,AX Face2Face same day ,Default Non-List Category,24,16,-8,23
+29034,16,Female,10-Nov-25,15:45,Minor Illness PM,Morning Session,38,37,0,16
+29509,44,Female,10-Nov-25,10:40,Carers Health Check ,Default Non-List Category,9,7,-2,404
+29730,75,Female,10-Nov-25,9:00,Urine only,Default List Category,0,527,527,6
+30475,65,Female,10-Nov-25,9:50,Drug Monitoring Blood Test,Default Non-List Category,10,5,-4,149
+30524,43,Female,10-Nov-25,13:30,Minor illness AM,Morning Session,24,20,-4,17
+30893,76,Male,10-Nov-25,9:40,AX 48 hour bookable,Morning Session,32,6,-25,19
+30964,81,Male,10-Nov-25,11:10,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-17,-17,2
+31048,57,Female,10-Nov-25,14:10,Tel for follow up results ONLY,Morning Session,,,,
+31381,14,Male,10-Nov-25,16:30,Telephone 1 week bookable ,Triage/Urgent Surg,,,,
+500258,41,Male,10-Nov-25,9:20,Drug Monitoring Blood Test,Default Non-List Category,27,3,-24,13
+500453,39,Female,10-Nov-25,9:45,Face to Face 2 week bookable,Default Non-List Category,21,21,0,26
+500621,82,Female,10-Nov-25,10:40,First Contact Physio,Morning Session,0,6,5,12
+500681,57,Male,10-Nov-25,9:30,Drug Monitoring Blood Test,Default Non-List Category,,,,
+500983,12,Female,10-Nov-25,16:00,Minor Illness PM,Morning Session,46,40,-5,9
+501608,67,Male,10-Nov-25,9:00,Face to Face 2 week bookable,Default Non-List Category,4,-2,-6,10
+501905,64,Male,10-Nov-25,14:20,AX Face2Face same day ,Morning Session,17,2,-14,10
+502615,47,Female,10-Nov-25,14:30,AX Face2Face same day ,Triage/Urgent Surg,8,2,-5,23
+503018,79,Male,10-Nov-25,11:20,Default,Default Non-List Category,51,15,-35,15
+503285,16,Female,10-Nov-25,12:00,Minor illness AM,Morning Session,13,8,-4,15
+503392,14,Male,10-Nov-25,9:00,Urine only,Default List Category,0,517,517,0
+503440,43,Female,10-Nov-25,10:00,Paramedic Review,Morning Session,3,0,-3,14
+503561,15,Male,10-Nov-25,17:15,Telephone 1 week bookable ,Triage/Urgent Surg,,,,
+503966,42,Male,10-Nov-25,9:15,Face to Face 2 week bookable,Default Non-List Category,2,2,0,30
+504069,19,Male,10-Nov-25,11:40,First Contact Physio,Morning Session,,,,
+504133,52,Female,10-Nov-25,10:10,Default,Nurse: General,28,4,-23,22
+504866,40,Male,10-Nov-25,14:40,AX Face2Face same day ,Morning Session,,,,
+505197,66,Female,10-Nov-25,14:45,Minor Illness PM,Morning Session,26,21,-4,4
+505342,69,Male,10-Nov-25,17:00,Minor Op Procedure,Evening Surgery,4,1,-3,22
+505344,48,Female,10-Nov-25,8:30,Default,Nurse: General,1,-6,-7,6
+505471,80,Male,10-Nov-25,14:30,AX Face2Face same day ,Morning Session,7,3,-3,13
+505480,67,Male,10-Nov-25,11:00,Face to Face 2 week bookable,Default Non-List Category,10,0,-11,21
+505726,77,Male,10-Nov-25,11:45,AX Telephone same day,Default Non-List Category,,,,
+505988,30,Male,10-Nov-25,15:40,Learning Disabilty Review,Nurse: General,,,,
+506161,66,Male,10-Nov-25,10:30,SMR Review,Morning Session,,,,
+506286,42,Female,10-Nov-25,10:00,Face to Face 2 week bookable,Default Non-List Category,44,32,-11,11
+506354,15,Female,10-Nov-25,15:00,Face to Face 2 week bookable,Default Non-List Category,18,7,-10,15
+506568,21,Female,10-Nov-25,13:15,Minor illness AM,Morning Session,21,7,-13,27
+506739,7,Male,10-Nov-25,9:15,Paramedic Review,Morning Session,4,3,-1,14
+506826,18,Male,10-Nov-25,15:45,Face to Face 2 week bookable,Default Non-List Category,10,9,-1,22
+506991,74,Female,10-Nov-25,10:30,Paramedic Review,Morning Session,13,2,-11,16
+507166,64,Female,10-Nov-25,15:00,Hypertension Only,Default Non-List Category,9,4,-4,50
+507342,51,Female,10-Nov-25,9:40,Drug Monitoring Blood Test,Default Non-List Category,8,2,-5,11
+507475,67,Female,10-Nov-25,15:20,First Contact Physio,Evening Surgery,0,-5,-8,4
+507522,51,Female,10-Nov-25,9:00,Face to Face 2 week bookable,Morning Session,3,6,3,17
+507582,8,Female,10-Nov-25,19:30,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+507737,15,Male,10-Nov-25,15:20,Face to Face 2 week bookable,Morning Session,19,11,-7,16
+507830,60,Female,10-Nov-25,14:00,Learning Disabilty Review,Nurse: General,5,-1,-6,93
+507986,36,Female,10-Nov-25,10:45,Paramedic Review,Morning Session,8,3,-4,12
+508049,40,Female,10-Nov-25,16:15,AX Telephone same day,Triage/Urgent Surg,,,,
+508186,44,Male,10-Nov-25,11:10,Drug Monitoring Blood Test,Nurse: General,,,,
+508415,46,Male,10-Nov-25,9:40,First Contact Physio,Morning Session,8,17,8,10
+508596,58,Female,10-Nov-25,16:45,AX Telephone same day,Triage/Urgent Surg,,,,
+509030,41,Female,10-Nov-25,10:15,Face to Face 2 week bookable,Default Non-List Category,51,35,-16,8
+509251,43,Female,10-Nov-25,10:45,Minor illness AM,Morning Session,,,,
+509454,40,Male,10-Nov-25,19:15,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+509482,66,Male,10-Nov-25,16:30,Paramedic Review,Evening Surgery,12,11,0,9
+509532,10,Female,10-Nov-25,15:30,Face to Face 2 week bookable,Default Non-List Category,1,7,5,16
+509533,45,Male,10-Nov-25,17:20,First Contact Physio,Evening Surgery,6,4,-1,18
+509598,48,Male,10-Nov-25,11:20,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-39,-39,5
+511101,40,Male,10-Nov-25,16:15,Paramedic Review,Evening Surgery,22,8,-14,17
+511855,1,Male,10-Nov-25,10:15,Face to Face 1 week bookable,Default Non-List Category,12,-1,-13,13
+512008,42,Female,10-Nov-25,14:30,Face to Face 2 week bookable,Default Non-List Category,9,4,-4,10
+512132,2,Female,10-Nov-25,12:00,Paramedic Review,Morning Session,23,16,-7,41
+512509,16,Male,10-Nov-25,9:20,First Contact Physio,Morning Session,45,-9,-54,7
+512738,23,Female,10-Nov-25,19:00,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+512848,61,Female,10-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+513225,34,Female,10-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+941,67,Female,7-Nov-25,9:00,AX Telephone same day,Default Non-List Category,,,,
+1404,70,Female,7-Nov-25,10:00,Pharmacist Pt Review,Morning Session,,,,
+1429,75,Female,7-Nov-25,9:00,AX Face2Face same day ,Triage/Urgent Surg,11,-2,-13,16
+1804,48,Female,7-Nov-25,16:50,AX Triage,Morning Session,,,,
+2520,57,Male,7-Nov-25,14:50,Face to Face 1 week bookable,Morning Session,11,1,-10,8
+2871,82,Male,7-Nov-25,9:30,Minor illness AM,Morning Session,4,-14,-19,16
+3108,72,Female,7-Nov-25,8:30,Drug Monitoring Blood Test,Default Non-List Category,15,7,-7,18
+3383,61,Male,7-Nov-25,8:00,Drug Monitoring Blood Test,Default Non-List Category,15,7,-7,15
+3619,83,Female,7-Nov-25,11:30,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,77,77,41
+4066,71,Female,7-Nov-25,8:45,AX 48 hour bookable,Default Non-List Category,23,8,-15,20
+4338,59,Female,7-Nov-25,10:00,Hypertension Only,Nurse: General,8,1,-6,27
+4468,63,Female,7-Nov-25,10:45,Telephone 1 week bookable ,Triage/Urgent Surg,,,,
+4642,76,Male,7-Nov-25,13:15,Minor illness AM,Morning Session,26,21,-4,8
+5371,38,Female,7-Nov-25,16:10,Default,Baby Clinic ,7,5,-2,3
+5405,74,Female,7-Nov-25,10:30,SMR Review,Morning Session,,,,
+5647,52,Male,7-Nov-25,14:15,AX Face2Face same day ,Default Non-List Category,0,2,2,18
+5772,81,Male,7-Nov-25,14:50,Minor illness AM,Baby Clinic ,7,-23,-31,18
+6505,75,Female,7-Nov-25,14:45,Minor Illness PM,Morning Session,7,-8,-16,8
+7490,83,Female,7-Nov-25,13:45,Pharmacist Pt Review,Evening Surgery,,,,
+8162,94,Male,7-Nov-25,14:00,Pharmacist Pt Review,Evening Surgery,,,,
+8369,59,Female,7-Nov-25,9:00,Urine only,Default List Category,0,541,541,0
+10123,64,Male,7-Nov-25,8:15,Tel for follow up results ONLY,Default Non-List Category,,,,
+10323,37,Female,7-Nov-25,8:10,Default,Nurse: General,6,4,-2,4
+10551,69,Male,7-Nov-25,8:40,Drug Monitoring Blood Test,Default Non-List Category,19,12,-7,6
+10884,36,Male,7-Nov-25,8:50,Drug Monitoring Blood Test,Default Non-List Category,13,5,-7,7
+12262,40,Male,7-Nov-25,8:30,Minor illness AM,Morning Session,3,-7,-10,21
+13204,68,Male,7-Nov-25,13:30,AX Face2Face same day ,Default Non-List Category,5,-2,-8,19
+14988,59,Female,7-Nov-25,15:40,AX Face2Face same day ,Morning Session,33,28,-4,13
+16708,28,Female,7-Nov-25,14:00,Default,Baby Clinic ,0,-32,-32,51
+16861,28,Female,7-Nov-25,17:30,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-35,-35,0
+17848,54,Male,7-Nov-25,15:00,Face to Face 1 week bookable,Morning Session,14,4,-10,12
+19769,75,Female,7-Nov-25,9:00,Urine only,Default List Category,0,237,237,3
+19819,47,Female,7-Nov-25,9:00,Minor illness AM,Morning Session,2,1,0,11
+19988,56,Male,7-Nov-25,15:20,AX Face2Face same day ,Morning Session,7,8,1,9
+20502,50,Male,7-Nov-25,14:30,Tel for follow up results ONLY,Morning Session,,,,
+20632,82,Male,7-Nov-25,10:15,Minor illness AM,Morning Session,24,14,-9,15
+20979,23,Female,7-Nov-25,16:30,Default,Morning Session,5,7,1,7
+21184,22,Female,7-Nov-25,16:20,AX Telephone same day,Morning Session,,,,
+23445,55,Female,7-Nov-25,10:30,AX Face2Face same day ,Triage/Urgent Surg,1,2,0,18
+23642,60,Male,7-Nov-25,8:20,Blood appointment,Nurse: General,3,-1,-5,15
+23913,20,Female,7-Nov-25,8:30,Face to Face 1 week bookable,Default Non-List Category,3,7,3,16
+24412,59,Male,7-Nov-25,8:20,Drug Monitoring Blood Test,Default Non-List Category,4,3,-1,31
+24815,19,Female,7-Nov-25,10:45,AX Face2Face same day ,Default Non-List Category,25,18,-6,18
+25946,57,Female,7-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+26150,18,Female,7-Nov-25,8:45,Minor illness AM,Morning Session,4,4,0,11
+26547,50,Male,7-Nov-25,14:00,AX Telephone same day,Default Non-List Category,,,,
+26620,31,Male,7-Nov-25,9:50,Default,Nurse: General,,,,
+26816,62,Female,7-Nov-25,8:00,Tel for follow up results ONLY,Triage/Urgent Surg,,,,
+26982,71,Female,7-Nov-25,10:40,NHS HEALTH CHECK,Default Non-List Category,4,0,-3,45
+27838,48,Female,7-Nov-25,8:45,AX Face2Face same day ,Triage/Urgent Surg,4,1,-3,11
+27901,17,Female,7-Nov-25,13:45,AX Face2Face same day ,Default Non-List Category,5,2,-2,9
+27982,35,Female,7-Nov-25,9:00,Urine only,Default List Category,0,306,306,9
+28639,59,Male,7-Nov-25,16:00,Minor illness AM,Morning Session,1,-5,-6,6
+29821,58,Male,7-Nov-25,14:40,Tel for follow up results ONLY,Morning Session,,,,
+30268,80,Female,7-Nov-25,9:40,Default,Nurse: General,6,8,1,12
+30602,20,Female,7-Nov-25,16:20,Default,Baby Clinic ,3,-1,-4,20
+31197,54,Male,7-Nov-25,8:10,Flu Covid ,Morning Session,0,-13,-14,1
+31228,86,Male,7-Nov-25,11:30,Minor illness AM,Morning Session,0,93,93,13
+31330,43,Female,7-Nov-25,8:15,Flu Covid ,Morning Session,,,,
+500031,43,Male,7-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+500088,62,Female,7-Nov-25,10:15,Pharmacist Pt Review,Morning Session,,,,
+500401,46,Female,7-Nov-25,8:00,Tel for follow up results ONLY,Default Non-List Category,,,,
+500624,47,Female,7-Nov-25,15:50,AX telephone 48 hour bookable,Morning Session,,,,
+500752,44,Female,7-Nov-25,9:00,Hypertension Only,Default Non-List Category,20,7,-12,13
+500911,14,Male,7-Nov-25,15:15,Minor illness AM,Morning Session,0,-10,-11,6
+501648,32,Male,7-Nov-25,16:00,AX Telephone same day,Morning Session,,,,
+501963,62,Female,7-Nov-25,13:30,Pharmacist Pt Review,Evening Surgery,,,,
+502115,11,Male,7-Nov-25,8:15,Tel for follow up results ONLY,Triage/Urgent Surg,,,,
+502137,11,Male,7-Nov-25,9:45,AX Face2Face same day ,Triage/Urgent Surg,7,4,-2,13
+502250,11,Female,7-Nov-25,16:00,Face to Face 2 week bookable,Morning Session,25,22,-3,8
+502596,83,Male,7-Nov-25,11:30,Tel for follow up results ONLY,Triage/Urgent Surg,,,,
+502669,47,Female,7-Nov-25,15:30,AX Face2Face same day ,Morning Session,29,14,-15,11
+503057,44,Female,7-Nov-25,11:45,AX Telephone same day,Triage/Urgent Surg,,,,
+503414,39,Female,7-Nov-25,9:45,AX Face2Face same day ,Default Non-List Category,12,-3,-15,19
+503634,39,Female,7-Nov-25,14:40,Default,Default Non-List Category,2,6,3,39
+503807,41,Female,7-Nov-25,12:30,Minor illness AM,Morning Session,31,12,-18,25
+504143,77,Female,7-Nov-25,8:30,Default,Nurse: General,6,4,-2,4
+504674,9,Female,7-Nov-25,14:45,Telephone 1 week bookable ,Default Non-List Category,,,,
+504877,9,Female,7-Nov-25,15:45,Minor Illness PM,Morning Session,,,,
+505128,43,Male,7-Nov-25,13:00,Minor Illness PM,Morning Session,27,24,-2,9
+505223,45,Female,7-Nov-25,11:00,AX Face2Face same day ,Triage/Urgent Surg,4,0,-4,13
+505411,40,Female,7-Nov-25,14:30,Minor illness AM,Morning Session,0,15,-4,10
+506377,58,Female,7-Nov-25,8:25,Flu Covid ,Morning Session,,,,
+506438,84,Female,7-Nov-25,10:20,Default,Default Non-List Category,22,10,-12,131
+506983,21,Female,7-Nov-25,10:00,Minor illness AM,Morning Session,14,16,1,12
+507393,54,Male,7-Nov-25,16:10,AX Telephone same day,Morning Session,,,,
+507581,34,Female,7-Nov-25,10:30,AX Face2Face same day ,Default Non-List Category,7,10,3,23
+507755,74,Male,7-Nov-25,15:30,AX Telephone same day,Morning Session,,,,
+507923,56,Female,7-Nov-25,13:20,Default,Default Non-List Category,5,11,6,41
+508057,10,Female,7-Nov-25,15:40,AX Telephone same day,Morning Session,,,,
+508501,34,Female,7-Nov-25,8:30,Face to Face 1 week bookable,Triage/Urgent Surg,0,1,0,15
+508702,43,Female,7-Nov-25,8:40,Smear Test,Nurse: General,4,0,-3,10
+508862,41,Male,7-Nov-25,13:30,Minor Illness PM,Morning Session,24,16,-7,15
+508997,39,Female,7-Nov-25,13:45,Minor illness AM,Morning Session,,,,
+509123,74,Male,7-Nov-25,16:40,Default,Baby Clinic ,0,7,7,5
+509507,62,Female,7-Nov-25,15:10,Face to Face 2 week bookable,Morning Session,15,7,-8,6
+510113,3,Male,7-Nov-25,10:15,AX Face2Face same day ,Triage/Urgent Surg,12,0,-11,12
+510269,15,Male,7-Nov-25,15:50,AX Telephone same day,Morning Session,,56,56,
+510808,11,Female,7-Nov-25,9:45,Minor illness AM,Morning Session,16,14,-2,16
+511178,36,Male,7-Nov-25,14:00,Minor Illness PM,Morning Session,7,7,0,14
+511218,38,Male,7-Nov-25,9:15,Face to Face 2 week bookable,Triage/Urgent Surg,2,0,-3,11
+511517,21,Male,7-Nov-25,11:15,Minor illness AM,Morning Session,27,1,-25,59
+512034,2,Female,7-Nov-25,9:15,Minor illness AM,Morning Session,19,22,2,21
+512794,68,Female,7-Nov-25,12:45,Minor illness AM,Morning Session,32,22,-10,79
+512873,0,Female,7-Nov-25,9:30,AX Face2Face same day ,Triage/Urgent Surg,0,6,6,12
+512946,0,Male,7-Nov-25,16:10,Default,Morning Session,0,21,21,1
+513057,32,Female,7-Nov-25,15:10,Telephone 1 week bookable ,Morning Session,,,,
+513240,64,Male,7-Nov-25,8:00,Blood appointment,Nurse: General,0,-3,-3,16
+408,92,Male,6-Nov-25,13:40,Default,Morning Session,0,12,12,11
+837,44,Female,6-Nov-25,11:00,AX Face2Face same day ,Evening Surgery,19,20,0,10
+1162,68,Male,6-Nov-25,9:50,AX Face2Face same day ,Morning Session,43,35,-7,26
+2646,57,Female,6-Nov-25,15:45,Face to Face 2 week bookable,Triage/Urgent Surg,14,4,-9,15
+2721,84,Female,6-Nov-25,9:50,Blood appointment,Morning Session,0,-8,-8,13
+2745,77,Female,6-Nov-25,10:20,AX Face2Face same day ,Evening Surgery,32,18,-13,6
+2956,82,Female,6-Nov-25,10:30,SMR Review,Morning Session,,,,
+2980,70,Female,6-Nov-25,18:00,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-54,-54,7
+3567,66,Female,6-Nov-25,16:45,Flu Covid ,Nurse: General,,,,
+3663,86,Female,6-Nov-25,11:30,AX Face2Face same day ,Default Non-List Category,12,-3,-16,17
+4108,76,Female,6-Nov-25,9:10,Face to Face 2 week bookable,Morning Session,31,22,-9,14
+5083,85,Female,6-Nov-25,10:45,Face to Face 1 week bookable,Morning Session,15,1,-14,15
+5229,40,Female,6-Nov-25,16:00,Mental Health review phonecall,Morning Session,,,,
+5698,57,Female,6-Nov-25,9:45,Face to Face 2 week bookable,Default Non-List Category,10,8,-1,10
+6196,74,Female,6-Nov-25,13:30,Tel for follow up results ONLY,Default Non-List Category,,,,
+6717,76,Male,6-Nov-25,15:30,Flu Jab ONLY Over 65 years old,Baby Clinic ,2,-23,-26,1
+7006,84,Male,6-Nov-25,10:00,Multi One stop clinic,Morning Session,15,-2,-17,39
+7401,75,Female,6-Nov-25,15:10,RSV Vaccination ,Baby Clinic ,3,-15,-18,2
+7415,89,Female,6-Nov-25,10:50,Multi One stop clinic,Morning Session,20,10,-9,34
+7491,82,Male,6-Nov-25,10:15,Pharmacist Pt Review,Morning Session,,,,
+7576,36,Female,6-Nov-25,14:00,AX 48 hour bookable,Default Non-List Category,7,0,-7,22
+8260,52,Male,6-Nov-25,13:50,Default,Morning Session,0,13,13,6
+8669,73,Female,6-Nov-25,8:30,Tel for follow up results ONLY,Morning Session,,,,
+9137,36,Female,6-Nov-25,15:00,AX Face2Face same day ,Default Non-List Category,24,25,1,8
+9350,63,Female,6-Nov-25,10:30,Telephone 1 week bookable ,Morning Session,,,,
+9966,65,Male,6-Nov-25,10:30,Default,Morning Session,0,44,44,2
+10222,35,Male,6-Nov-25,10:40,Default,Morning Session,0,37,37,5
+10959,77,Female,6-Nov-25,8:40,Tel for follow up results ONLY,Morning Session,,,,
+11453,33,Male,6-Nov-25,12:30,AX 48 hour bookable,Morning Session,10,6,-3,16
+12877,54,Female,6-Nov-25,10:00,AX Face2Face same day ,Morning Session,19,22,3,47
+12960,63,Female,6-Nov-25,16:50,Flu Covid ,Nurse: General,,,,
+13845,65,Male,6-Nov-25,16:00,AX Telephone same day,Triage/Urgent Surg,,,,
+15117,29,Male,6-Nov-25,16:15,AX Telephone same day,Triage/Urgent Surg,,,,
+15131,54,Male,6-Nov-25,15:00,AX Face2Face same day ,Triage/Urgent Surg,9,1,-8,15
+15727,59,Female,6-Nov-25,10:00,Face to Face 2 week bookable,Morning Session,2,0,-2,44
+16087,77,Male,6-Nov-25,14:00,Default,Nurse: General,0,-12,-13,4
+16954,62,Male,6-Nov-25,14:30,AX Face2Face same day ,Triage/Urgent Surg,7,0,-7,18
+17009,27,Female,6-Nov-25,10:30,Mental Health review phonecall,Morning Session,,,,
+17878,59,Female,6-Nov-25,9:00,Urine only,Default List Category,0,498,498,6
+18872,58,Female,6-Nov-25,15:40,Default,Nurse: General,2,-4,-6,2
+19962,30,Female,6-Nov-25,8:50,Face to Face 1 week bookable,Morning Session,11,16,5,14
+20332,36,Female,6-Nov-25,15:00,Mental Health review phonecall,Morning Session,,,,
+20914,56,Female,6-Nov-25,14:15,Pharmacist Pt Review,Evening Surgery,,,,
+20995,23,Female,6-Nov-25,9:30,Tel for follow up results ONLY,Morning Session,,,,
+21354,80,Female,6-Nov-25,8:30,Multi One stop clinic,Morning Session,6,3,-3,26
+21470,22,Male,6-Nov-25,10:00,Mental Health review phonecall,Morning Session,,,,
+21648,53,Female,6-Nov-25,9:30,Multi One stop clinic,Morning Session,1,1,0,84
+21923,51,Male,6-Nov-25,10:00,Face to Face 2 week bookable,Evening Surgery,17,14,-2,10
+22102,63,Male,6-Nov-25,8:40,Default,Morning Session,25,7,-17,11
+22128,25,Male,6-Nov-25,9:20,AX Face2Face same day ,Morning Session,39,28,-11,13
+23096,51,Female,6-Nov-25,9:15,AX Face2Face same day ,Default Non-List Category,3,1,-1,19
+24418,41,Male,6-Nov-25,10:50,Default,Morning Session,0,32,32,12
+24435,21,Female,6-Nov-25,13:30,Pharmacist Pt Review,Evening Surgery,,,,
+25198,52,Female,6-Nov-25,12:30,AX Face2Face same day ,Morning Session,6,3,-3,13
+25734,45,Female,6-Nov-25,9:00,Mental Health review phonecall,Morning Session,,,,
+26307,42,Female,6-Nov-25,9:30,Smear Test,Morning Session,3,-24,-28,12
+26943,75,Female,6-Nov-25,8:30,Default,Morning Session,11,6,-4,1
+27319,21,Male,6-Nov-25,16:40,Minor Illness PM,Baby Clinic ,11,-5,-17,16
+27360,72,Male,6-Nov-25,14:45,SMR Review,Evening Surgery,,,,
+27626,17,Male,6-Nov-25,15:30,AX Face2Face same day ,Default Non-List Category,24,19,-4,37
+28286,82,Female,6-Nov-25,8:20,Default,Morning Session,20,5,-14,7
+28698,86,Female,6-Nov-25,14:45,AX Telephone same day,Default Non-List Category,,,,
+29787,67,Male,6-Nov-25,8:00,Multi One stop clinic,Morning Session,11,1,-9,31
+29882,67,Male,6-Nov-25,14:15,Flu Covid ,Baby Clinic ,5,-29,-34,0
+29883,61,Female,6-Nov-25,14:10,Flu Covid ,Baby Clinic ,3,-25,-29,1
+30407,42,Female,6-Nov-25,16:20,Default,Baby Clinic ,1,-5,-7,19
+30591,49,Female,6-Nov-25,14:15,AX 48 hour bookable,Default Non-List Category,8,6,-1,17
+30809,70,Female,6-Nov-25,11:50,Tel for follow up results ONLY,Evening Surgery,,,,
+30845,67,Female,6-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+31280,23,Female,6-Nov-25,11:00,AX Face2Face same day ,Default Non-List Category,16,13,-3,11
+31336,57,Female,6-Nov-25,12:20,AX Face2Face same day ,Morning Session,9,4,-4,8
+500455,50,Male,6-Nov-25,12:40,AX Face2Face same day ,Morning Session,11,7,-4,7
+501431,76,Male,6-Nov-25,9:30,AX 48 hour bookable,Morning Session,49,31,-17,10
+501858,86,Male,6-Nov-25,12:00,AX 48 hour bookable,Default Non-List Category,26,11,-15,14
+503022,26,Male,6-Nov-25,12:10,Tel for follow up results ONLY,Morning Session,,,,
+503163,10,Female,6-Nov-25,11:40,Tel for follow up results ONLY,Evening Surgery,,,,
+503208,47,Female,6-Nov-25,13:10,AX 48 hour bookable,Morning Session,16,7,-8,11
+503223,59,Female,6-Nov-25,14:45,AX Face2Face same day ,Triage/Urgent Surg,10,3,-7,12
+503232,37,Female,6-Nov-25,17:15,AX Telephone same day,Triage/Urgent Surg,,,,
+503329,33,Female,6-Nov-25,16:00,Default,Baby Clinic ,,,,
+504833,61,Male,6-Nov-25,11:00,Multi One stop clinic,Morning Session,11,4,-7,65
+504941,42,Female,6-Nov-25,8:00,Default,Morning Session,3,3,0,17
+505185,45,Female,6-Nov-25,10:15,Face to Face 2 week bookable,Morning Session,6,5,-1,13
+505271,55,Male,6-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+505476,64,Female,6-Nov-25,16:35,Flu Covid ,Nurse: General,3,-4,-8,6
+505634,51,Female,6-Nov-25,9:50,Face to Face 2 week bookable,Evening Surgery,7,0,-6,23
+505850,35,Female,6-Nov-25,10:45,AX Face2Face same day ,Default Non-List Category,15,10,-5,17
+506148,69,Female,6-Nov-25,11:30,AX Face2Face same day ,Evening Surgery,25,23,-2,21
+506552,7,Male,6-Nov-25,16:00,AX Face2Face same day ,Default Non-List Category,29,27,-1,10
+507144,36,Female,6-Nov-25,12:00,Tel for follow up results ONLY,Morning Session,,,,
+507358,11,Male,6-Nov-25,12:15,AX Face2Face same day ,Morning Session,15,5,-10,16
+507369,57,Female,6-Nov-25,12:00,AX Face2Face same day ,Morning Session,4,5,1,14
+507722,48,Male,6-Nov-25,14:40,Default,Nurse: General,17,9,-8,6
+508116,48,Female,6-Nov-25,15:30,AX Face2Face same day ,Triage/Urgent Surg,18,-13,-31,13
+508208,40,Female,6-Nov-25,16:55,Flu Covid ,Nurse: General,2,0,-2,7
+508901,18,Male,6-Nov-25,13:00,AX Face2Face same day ,Morning Session,,,,
+508952,89,Male,6-Nov-25,15:15,Pharmacist Pt Review,Evening Surgery,,,,
+509406,38,Male,6-Nov-25,16:30,AX Telephone same day,Triage/Urgent Surg,,,,
+509476,16,Female,6-Nov-25,15:15,AX Face2Face same day ,Default Non-List Category,23,21,-2,13
+510004,28,Male,6-Nov-25,9:30,Mental Health review phonecall,Morning Session,,,,
+510499,81,Female,6-Nov-25,11:20,AX Face2Face same day ,Evening Surgery,52,23,-29,9
+511593,28,Female,6-Nov-25,14:50,Default,Baby Clinic ,,9,9,
+511838,47,Female,6-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+512042,32,Female,6-Nov-25,10:10,AX Face2Face same day ,Evening Surgery,16,15,0,12
+512047,1,Male,6-Nov-25,13:15,AX 48 hour bookable,Default Non-List Category,22,24,2,20
+512071,1,Female,6-Nov-25,10:50,AX Face2Face same day ,Evening Surgery,18,17,0,12
+512203,1,Male,6-Nov-25,9:00,Face to Face 1 week bookable,Morning Session,31,23,-7,6
+512418,23,Female,6-Nov-25,17:00,AX Telephone same day,Triage/Urgent Surg,,,,
+512556,28,Male,6-Nov-25,9:40,Face to Face 2 week bookable,Evening Surgery,4,2,-1,8
+512625,0,Female,6-Nov-25,13:00,AX 48 hour bookable,Default Non-List Category,21,21,0,17
+512657,45,Female,6-Nov-25,11:00,Face to Face 1 week bookable,Morning Session,25,1,-24,11
+512743,59,Female,6-Nov-25,14:40,Default,Baby Clinic ,0,3,2,0
+512909,44,Male,6-Nov-25,10:00,Multi One stop clinic,Morning Session,5,6,0,49
+513011,26,Male,6-Nov-25,14:00,Mental Health review phonecall,Morning Session,,,,
+513040,1,Female,6-Nov-25,9:30,Face to Face 2 week bookable,Default Non-List Category,8,7,-1,13
+513134,56,Female,6-Nov-25,8:30,Tel for follow up results ONLY,Default Non-List Category,,,,
+513172,39,Female,6-Nov-25,16:45,AX Telephone same day,Triage/Urgent Surg,,,,
+513227,22,Female,6-Nov-25,12:50,AX Face2Face same day ,Morning Session,14,8,-6,11
+513246,0,Male,6-Nov-25,11:10,AX Face2Face same day ,Evening Surgery,27,20,-6,70
+513258,90,Female,6-Nov-25,17:45,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-127,-127,11
+316,68,Female,5-Nov-25,8:40,Default,Morning Session,,,,
+724,88,Female,5-Nov-25,9:30,Drug Monitoring Blood Test,Default Non-List Category,20,12,-8,239
+856,73,Female,5-Nov-25,11:00,AX Face2Face same day ,Evening Surgery,24,22,-1,21
+917,67,Male,5-Nov-25,11:00,AX Face2Face same day ,Default Non-List Category,61,54,-7,16
+978,77,Female,5-Nov-25,8:30,Tel for follow up results ONLY,Default Non-List Category,,,,
+1059,81,Female,5-Nov-25,10:20,Face to Face 1 week bookable,Evening Surgery,2,-12,-14,15
+1283,77,Female,5-Nov-25,14:30,Pharmacist F2F Review,Evening Surgery,15,0,-14,46
+1733,79,Male,5-Nov-25,10:00,Pharmacist Pt Review,Morning Session,,,,
+2146,64,Female,5-Nov-25,14:20,First Contact Physio,Evening Surgery,17,6,-11,22
+3614,61,Male,5-Nov-25,15:20,AX Telephone same day,Default Non-List Category,,,,
+3855,36,Male,5-Nov-25,15:15,Minor illness AM,Morning Session,7,2,-4,14
+3957,81,Male,5-Nov-25,10:45,Pharmacist Pt Review,Morning Session,,,,
+4763,75,Male,5-Nov-25,11:00,Default,Default Non-List Category,9,4,-5,8
+5000,78,Male,5-Nov-25,10:00,SMR Review,Morning Session,,,,
+5182,48,Male,5-Nov-25,8:50,Face to Face 1 week bookable,Morning Session,17,10,-7,3
+5638,78,Male,5-Nov-25,10:10,First Contact Physio,Morning Session,8,-1,-9,17
+5669,93,Female,5-Nov-25,11:10,Default,Morning Session,18,-6,-24,36
+5752,75,Male,5-Nov-25,11:30,First Contact Physio,Morning Session,10,4,-6,17
+5898,72,Female,5-Nov-25,11:30,AX 48 hour bookable,Default Non-List Category,36,41,-9,17
+6010,74,Female,5-Nov-25,12:50,First Contact Physio,Morning Session,12,2,-10,11
+6247,74,Male,5-Nov-25,13:00,Minor illness AM,Morning Session,19,11,-7,14
+6250,73,Female,5-Nov-25,9:20,Drug Monitoring Blood Test,Default Non-List Category,12,8,-4,13
+6302,83,Female,5-Nov-25,10:00,AX Face2Face same day ,Default Non-List Category,46,24,-22,27
+6324,70,Male,5-Nov-25,14:45,Flu Covid ,Nurse: General,4,-3,-7,2
+6373,54,Male,5-Nov-25,15:00,AX telephone 48 hour bookable,Default Non-List Category,,,,
+6563,63,Female,5-Nov-25,10:15,Minor illness AM,Morning Session,18,5,-13,9
+6629,38,Female,5-Nov-25,11:45,Minor illness AM,Morning Session,24,17,-6,10
+7471,81,Male,5-Nov-25,14:40,First Contact Physio,Evening Surgery,20,9,-11,25
+7680,82,Female,5-Nov-25,15:00,Default,Nurse: General,5,-7,-13,26
+7821,74,Male,5-Nov-25,10:30,PN TO BOOK,Morning Session,1,-2,-4,17
+8400,88,Female,5-Nov-25,16:10,AX Triage,Default Non-List Category,,,,
+8433,64,Male,5-Nov-25,11:20,AX Telephone same day,Evening Surgery,,,,
+8733,75,Female,5-Nov-25,11:00,AX 48 hour bookable,Morning Session,23,0,-23,25
+9255,71,Female,5-Nov-25,10:00,Face to Face 2 week bookable,Default Non-List Category,22,12,-10,16
+10020,59,Male,5-Nov-25,16:00,AX Triage,Default Non-List Category,,,,
+10145,92,Female,5-Nov-25,11:00,SMR Review,Morning Session,,,,
+10536,89,Male,5-Nov-25,15:30,Default,Baby Clinic ,5,-1,-7,106
+10823,70,Male,5-Nov-25,9:10,Face to Face 2 week bookable,Morning Session,11,-5,-16,10
+11088,33,Male,5-Nov-25,9:30,AX 48 hour bookable,Morning Session,16,0,-15,4
+11119,61,Male,5-Nov-25,16:00,First Contact Physio,Evening Surgery,24,3,-21,24
+11368,61,Female,5-Nov-25,15:50,AX Telephone same day,Default Non-List Category,,,,
+11474,84,Male,5-Nov-25,11:30,Minor illness AM,Morning Session,15,14,0,17
+11510,57,Female,5-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+11875,86,Female,5-Nov-25,8:45,Tel for follow up results ONLY,Default Non-List Category,,,,
+11913,36,Male,5-Nov-25,17:20,Face to Face 1 week bookable,Triage/Urgent Surg,10,7,-2,31
+12503,76,Female,5-Nov-25,9:00,Face to Face 1 week bookable,Morning Session,9,-17,-27,18
+12819,31,Male,5-Nov-25,10:30,First Contact Physio,Morning Session,,,,
+14331,79,Female,5-Nov-25,9:30,Multi One stop clinic,Morning Session,4,-5,-9,27
+14575,63,Female,5-Nov-25,11:40,Tel for follow up results ONLY,Evening Surgery,,,,
+14596,60,Female,5-Nov-25,8:00,Default,Morning Session,1,2,1,8
+14986,66,Female,5-Nov-25,10:00,NHS HEALTH CHECK,Default Non-List Category,10,2,-8,35
+15313,56,Male,5-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+15882,32,Female,5-Nov-25,15:50,Default,Nurse: General,3,1,-2,23
+16130,83,Female,5-Nov-25,9:00,Home Visit for review,Home Visit List,,,,
+16304,28,Female,5-Nov-25,16:20,AX Triage,Default Non-List Category,,,,
+16330,67,Male,5-Nov-25,9:30,SMR Review,Morning Session,,,,
+16401,28,Male,5-Nov-25,11:50,First Contact Physio,Morning Session,4,4,0,17
+16414,30,Female,5-Nov-25,16:20,Default,Default Non-List Category,,,,
+17359,61,Male,5-Nov-25,16:30,AX Triage,Default Non-List Category,,,,
+17385,61,Male,5-Nov-25,15:00,Hypertension Only,Default Non-List Category,21,11,-10,89
+17846,76,Female,5-Nov-25,12:30,First Contact Physio,Morning Session,7,5,-1,15
+18162,57,Male,5-Nov-25,12:00,Tel for follow up results ONLY,Morning Session,,,,
+18198,26,Female,5-Nov-25,10:30,AX Face2Face same day ,Default Non-List Category,31,23,-7,20
+18266,26,Male,5-Nov-25,16:40,AX Face2Face same day ,Triage/Urgent Surg,14,14,0,9
+18816,95,Female,5-Nov-25,15:30,AX Telephone same day,Default Non-List Category,,,,
+19259,25,Female,5-Nov-25,16:00,Pharmacist Pt Review,Evening Surgery,,,,
+20074,24,Female,5-Nov-25,9:15,AX Face2Face same day ,Default Non-List Category,13,11,-2,27
+20732,96,Male,5-Nov-25,11:55,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,51,-32,-84,16
+20981,59,Male,5-Nov-25,12:00,Minor illness AM,Morning Session,21,19,-2,34
+21205,64,Male,5-Nov-25,13:15,Minor illness AM,Morning Session,12,10,-2,13
+21566,22,Male,5-Nov-25,14:30,AX telephone 48 hour bookable,Default Non-List Category,,,,
+21642,58,Male,5-Nov-25,15:45,Flu Covid ,Nurse: General,1,2,1,2
+21660,54,Female,5-Nov-25,9:50,AX Face2Face same day ,Morning Session,4,-2,-7,10
+21771,50,Female,5-Nov-25,16:00,Default,Default Non-List Category,6,0,-5,41
+21864,65,Male,5-Nov-25,14:30,Default,Nurse: General,8,2,-6,9
+22782,32,Female,5-Nov-25,9:40,AX Face2Face same day ,Morning Session,0,-4,-4,10
+22784,73,Female,5-Nov-25,10:15,Pharmacist Pt Review,Morning Session,,,,
+22938,72,Female,5-Nov-25,10:50,AX Face2Face same day ,Evening Surgery,28,22,-5,9
+24182,39,Female,5-Nov-25,16:50,AX Face2Face same day ,Triage/Urgent Surg,27,14,-13,10
+24778,71,Male,5-Nov-25,11:50,Tel for follow up results ONLY,Evening Surgery,,,,
+24805,50,Male,5-Nov-25,10:40,NHS HEALTH CHECK,Default Non-List Category,7,0,-7,22
+25963,18,Female,5-Nov-25,9:40,Face to Face 2 week bookable,Evening Surgery,12,4,-8,9
+26621,26,Female,5-Nov-25,14:00,Minor illness AM,Morning Session,,,,
+26853,62,Male,5-Nov-25,9:30,Face to Face 2 week bookable,Default Non-List Category,2,-22,-25,20
+26910,47,Female,5-Nov-25,11:10,AX Face2Face same day ,Evening Surgery,30,31,0,14
+26955,60,Female,5-Nov-25,9:20,AX Face2Face same day ,Morning Session,0,-4,-4,13
+27616,74,Female,5-Nov-25,10:10,Default,Morning Session,2,-13,-16,9
+27942,45,Female,5-Nov-25,10:00,Mental Health review phonecall,Morning Session,,,,
+28000,50,Female,5-Nov-25,17:10,AX Telephone same day,Triage/Urgent Surg,,,,
+28536,38,Female,5-Nov-25,15:50,AX Face2Face same day ,Triage/Urgent Surg,0,-6,-6,59
+29638,62,Male,5-Nov-25,9:50,First Contact Physio,Morning Session,,,,
+30018,59,Male,5-Nov-25,11:50,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,57,-31,-89,3
+30039,65,Female,5-Nov-25,9:00,Urine only,Default List Category,0,550,550,0
+30275,49,Female,5-Nov-25,13:45,Minor illness AM,Morning Session,15,9,-5,8
+30414,73,Female,5-Nov-25,14:20,Default,Nurse: General,0,1,1,10
+30705,79,Female,5-Nov-25,9:00,SMR Review,Morning Session,,,,
+31018,20,Female,5-Nov-25,15:30,Minor illness AM,Morning Session,30,5,-24,18
+31389,58,Female,5-Nov-25,14:00,Hypertension Only,Default Non-List Category,5,6,1,232
+501569,65,Female,5-Nov-25,11:40,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,3,-75,-79,0
+501649,69,Female,5-Nov-25,14:15,Pharmacist F2F Review,Evening Surgery,6,-2,-9,18
+502112,26,Male,5-Nov-25,15:10,AX telephone 48 hour bookable,Default Non-List Category,,,,
+502318,47,Female,5-Nov-25,16:40,Default,Default Non-List Category,10,3,-7,33
+502504,72,Male,5-Nov-25,10:30,SMR Review,Morning Session,,,,
+503009,11,Female,5-Nov-25,10:15,AX Face2Face same day ,Default Non-List Category,20,59,-3,20
+503267,44,Female,5-Nov-25,9:45,Minor illness AM,Morning Session,19,16,-3,10
+503471,32,Male,5-Nov-25,14:00,First Contact Physio,Evening Surgery,0,0,0,23
+503580,53,Female,5-Nov-25,10:00,AX telephone 48 hour bookable,Evening Surgery,,,,
+503715,61,Female,5-Nov-25,16:50,Smear Test,Nurse: General,4,-5,-9,31
+503754,10,Female,5-Nov-25,8:40,Tel for follow up results ONLY,Morning Session,,,,
+503934,39,Female,5-Nov-25,16:40,Default,Baby Clinic ,22,14,-8,17
+503977,49,Male,5-Nov-25,14:40,Carers Health Check ,Default Non-List Category,21,13,-7,88
+504132,24,Female,5-Nov-25,9:00,Telephone 1 week bookable ,Default Non-List Category,,,,
+504629,79,Female,5-Nov-25,14:40,Flu Covid ,Nurse: General,0,4,3,5
+504630,39,Female,5-Nov-25,10:15,Face to Face 2 week bookable,Default Non-List Category,33,13,-20,20
+504953,28,Male,5-Nov-25,16:20,First Contact Physio,Evening Surgery,9,9,0,14
+505126,68,Female,5-Nov-25,11:15,Minor illness AM,Morning Session,31,16,-15,13
+505238,59,Male,5-Nov-25,16:40,First Contact Physio,Evening Surgery,,,,
+505514,39,Female,5-Nov-25,8:30,Minor illness AM,Morning Session,12,8,-4,7
+505677,41,Male,5-Nov-25,14:40,AX telephone 48 hour bookable,Default Non-List Category,,,,
+505696,33,Male,5-Nov-25,15:20,Triage Appt,Morning Session,0,-2,-2,2
+505722,8,Female,5-Nov-25,15:15,Pharmacist F2F Review,Evening Surgery,46,24,-21,20
+505938,43,Female,5-Nov-25,15:40,Default,Default Non-List Category,8,6,-2,26
+506409,36,Male,5-Nov-25,9:00,Drug Monitoring Blood Test,Default Non-List Category,8,7,-1,6
+506657,41,Female,5-Nov-25,15:40,Telephone 1 week bookable ,Triage/Urgent Surg,,,,
+506777,52,Female,5-Nov-25,14:00,Default,Baby Clinic ,4,6,1,6
+506861,7,Male,5-Nov-25,16:00,Minor Illness PM,Morning Session,16,7,-9,5
+506979,49,Male,5-Nov-25,9:15,Face to Face 2 week bookable,Default Non-List Category,8,12,4,22
+507371,76,Male,5-Nov-25,11:20,Default,Default Non-List Category,22,5,-17,30
+507790,81,Male,5-Nov-25,10:30,Minor illness AM,Morning Session,2,1,0,23
+507845,31,Female,5-Nov-25,15:45,Minor illness AM,Morning Session,26,9,-17,10
+508072,37,Female,5-Nov-25,11:30,AX Telephone same day,Evening Surgery,,,,
+508190,50,Female,5-Nov-25,9:45,Face to Face 2 week bookable,Default Non-List Category,2,4,2,21
+508353,39,Female,5-Nov-25,8:45,Face to Face 2 week bookable,Morning Session,19,4,-15,29
+508405,46,Female,5-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+508459,44,Female,5-Nov-25,10:30,Pharmacist Pt Review,Morning Session,,,,
+508536,27,Female,5-Nov-25,9:50,AX 48 hour bookable,Evening Surgery,,,,
+508575,21,Female,5-Nov-25,15:00,Minor illness AM,Morning Session,9,5,-3,11
+508633,69,Female,5-Nov-25,15:10,Triage Appt,Morning Session,0,2,2,4
+508637,30,Female,5-Nov-25,17:00,AX Face2Face same day ,Triage/Urgent Surg,19,14,-4,10
+509073,71,Female,5-Nov-25,15:00,First Contact Physio,Evening Surgery,32,15,-16,14
+509118,48,Female,5-Nov-25,11:30,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-78,-78,8
+509302,42,Male,5-Nov-25,9:50,Drug Monitoring Blood Test,Default Non-List Category,,,,
+509426,52,Male,5-Nov-25,14:20,Hypertension Only,Default Non-List Category,19,9,-10,185
+509681,45,Female,5-Nov-25,10:50,Default,Morning Session,0,-25,-25,0
+509840,79,Female,5-Nov-25,15:00,Default,Baby Clinic ,21,3,-18,20
+510110,38,Female,5-Nov-25,14:00,Smear Test,Nurse: General,0,2,2,14
+510598,3,Female,5-Nov-25,13:30,Minor illness AM,Morning Session,14,8,-5,11
+510708,3,Male,5-Nov-25,14:45,Minor illness AM,Morning Session,0,4,4,16
+510728,32,Female,5-Nov-25,10:30,AX Face2Face same day ,Evening Surgery,21,12,-9,16
+510756,13,Female,5-Nov-25,16:00,AX Face2Face same day ,Triage/Urgent Surg,1,4,2,12
+510910,30,Female,5-Nov-25,9:15,Face to Face 2 week bookable,Morning Session,30,19,-11,9
+510955,44,Male,5-Nov-25,16:10,AX Face2Face same day ,Triage/Urgent Surg,14,6,-8,9
+511135,39,Female,5-Nov-25,10:30,Face to Face 2 week bookable,Default Non-List Category,20,19,-1,8
+511156,2,Female,5-Nov-25,10:40,AX Face2Face same day ,Evening Surgery,23,18,-4,13
+511172,35,Female,5-Nov-25,9:30,Face to Face 2 week bookable,Evening Surgery,172,170,-2,30
+511392,28,Female,5-Nov-25,15:40,AX Telephone same day,Default Non-List Category,,,,
+511686,74,Female,5-Nov-25,10:00,AX Face2Face same day ,Morning Session,10,-1,-11,10
+511723,23,Female,5-Nov-25,15:00,Triage Appt,Morning Session,0,9,9,2
+511764,52,Female,5-Nov-25,12:10,First Contact Physio,Morning Session,15,2,-12,18
+512058,24,Female,5-Nov-25,10:10,AX 48 hour bookable,Evening Surgery,12,13,0,18
+512122,1,Male,5-Nov-25,16:30,AX Face2Face same day ,Triage/Urgent Surg,11,11,0,11
+512125,1,Female,5-Nov-25,15:30,AX Face2Face same day ,Triage/Urgent Surg,0,3,3,0
+512207,18,Female,5-Nov-25,12:10,Tel for follow up results ONLY,Morning Session,,,,
+512451,1,Female,5-Nov-25,17:30,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,6,-178,-184,21
+512480,74,Female,5-Nov-25,10:00,Default,Morning Session,,,,
+512634,89,Male,5-Nov-25,11:00,Default,Morning Session,2,-1,-4,5
+512635,79,Female,5-Nov-25,14:00,Pharmacist Pt Review,Evening Surgery,,,,
+513047,40,Female,5-Nov-25,15:20,Smear Test,Nurse: General,15,0,-16,16
+513111,72,Male,5-Nov-25,9:00,Minor illness AM,Morning Session,21,18,-2,12
+513121,48,Male,5-Nov-25,9:40,Drug Monitoring Blood Test,Default Non-List Category,13,11,-1,5
+513139,15,Female,5-Nov-25,16:10,Default,Baby Clinic ,,,,
+581,66,Female,4-Nov-25,10:45,Minor illness AM,Morning Session,0,-5,-5,4
+592,79,Female,4-Nov-25,9:20,Face to Face 2 week bookable,Morning Session,9,6,-3,7
+935,89,Male,4-Nov-25,9:50,Default,Nurse: General,0,-2,-2,13
+1445,78,Female,4-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+1944,48,Female,4-Nov-25,8:20,Default,Nurse: General,17,-1,-18,6
+2207,42,Female,4-Nov-25,9:10,PCN GP F2F,Default Non-List Category,0,-4,-4,10
+2376,80,Male,4-Nov-25,16:55,Flu Covid ,Morning Session,0,-30,-31,1
+2401,45,Female,4-Nov-25,16:15,Tel for follow up results ONLY,Default Non-List Category,,,,
+2472,55,Female,4-Nov-25,9:15,AX Face2Face same day ,Default Non-List Category,34,17,-16,15
+2770,47,Female,4-Nov-25,9:00,PCN GP F2F,Default Non-List Category,,,,
+3097,70,Male,4-Nov-25,11:40,PN TO BOOK,Nurse: General,2,-10,-12,14
+3169,88,Male,4-Nov-25,10:40,Default,Nurse: General,20,-9,-29,18
+3271,83,Male,4-Nov-25,12:00,Face to Face 1 week bookable,Default Non-List Category,,,,
+3566,35,Male,4-Nov-25,11:20,Default,Nurse: General,,,,
+3635,51,Female,4-Nov-25,11:00,Default,Nurse: General,1,0,-1,7
+3783,86,Male,4-Nov-25,10:00,Default,Nurse: General,9,1,-8,9
+4512,73,Male,4-Nov-25,16:50,Flu Covid ,Morning Session,0,-3,-4,1
+4516,80,Male,4-Nov-25,8:40,Tel for follow up results ONLY,Morning Session,,,,
+4697,76,Male,4-Nov-25,10:00,Pharmacist Pt Review,Morning Session,,,,
+5106,80,Female,4-Nov-25,14:15,Pharmacist Pt Review,Morning Session,,,,
+5134,65,Female,4-Nov-25,11:00,Tel for follow up results ONLY,Default Non-List Category,,,,
+5561,74,Male,4-Nov-25,13:45,COPD Review telephone,Morning Session,,,,
+6023,37,Female,4-Nov-25,13:45,Minor illness AM,Morning Session,5,3,-2,7
+6064,55,Male,4-Nov-25,16:35,Flu Covid ,Morning Session,2,-1,-3,0
+6912,70,Female,4-Nov-25,16:00,PCN GP F2F,Default Non-List Category,,,,
+7331,77,Male,4-Nov-25,10:15,Pharmacist Pt Review,Morning Session,,,,
+8250,69,Female,4-Nov-25,9:30,PCN GP F2F,Default Non-List Category,23,3,-19,11
+8252,68,Male,4-Nov-25,16:45,Flu Covid ,Morning Session,3,-13,-16,1
+8891,71,Female,4-Nov-25,10:45,Pharmacist Pt Review,Morning Session,,,,
+9855,78,Female,4-Nov-25,9:45,Minor illness AM,Morning Session,2,5,3,8
+9961,75,Female,4-Nov-25,9:00,Urine only,Default List Category,0,433,433,3
+10153,69,Female,4-Nov-25,8:45,AX 48 hour bookable,Default Non-List Category,25,20,-4,13
+10327,73,Male,4-Nov-25,16:30,AX Telephone same day,Evening Surgery,,,,
+10512,36,Female,4-Nov-25,14:45,Minor illness AM,Morning Session,18,12,-5,8
+10983,68,Male,4-Nov-25,13:00,AX 48 hour bookable,Default Non-List Category,0,-7,-8,17
+10995,35,Female,4-Nov-25,9:15,Face to Face 2 week bookable,Default Non-List Category,24,20,-3,21
+11189,58,Female,4-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+11573,33,Female,4-Nov-25,8:40,Smear Test,Nurse: General,1,2,0,9
+11604,43,Male,4-Nov-25,17:10,AX Telephone same day,Evening Surgery,,,,
+11844,53,Male,4-Nov-25,10:45,Minor illness AM,Morning Session,8,-6,-14,75
+11855,56,Male,4-Nov-25,15:30,PCN GP Tel Appt,Default Non-List Category,,,,
+12142,35,Female,4-Nov-25,11:30,Minor illness AM,Morning Session,2,0,-2,11
+12778,31,Female,4-Nov-25,14:00,Pharmacist F2F Review,Morning Session,4,1,-3,19
+13203,65,Female,4-Nov-25,10:10,PCN GP F2F,Default Non-List Category,6,5,0,10
+13390,67,Female,4-Nov-25,17:05,Flu Covid ,Morning Session,0,-5,-5,1
+13620,93,Female,4-Nov-25,16:40,PCN GP Tel Appt,Default Non-List Category,,,,
+14679,30,Male,4-Nov-25,15:45,Minor illness AM,Morning Session,20,7,-12,12
+14778,55,Female,4-Nov-25,14:40,PCN GP F2F,Default Non-List Category,12,9,-2,14
+15283,60,Female,4-Nov-25,11:00,Minor illness AM,Morning Session,1,-9,-10,17
+15343,72,Male,4-Nov-25,15:40,AX Telephone same day,Evening Surgery,,,,
+15562,84,Male,4-Nov-25,8:50,AX telephone 48 hour bookable,Morning Session,,,,
+16243,28,Female,4-Nov-25,11:20,PCN GP F2F,Default Non-List Category,34,24,-9,20
+16435,28,Female,4-Nov-25,11:00,PCN GP F2F,Default Non-List Category,0,33,7,0
+18060,27,Male,4-Nov-25,15:00,PCN GP F2F,Default Non-List Category,13,8,-5,16
+19587,73,Female,4-Nov-25,16:20,Flu Covid ,Morning Session,7,3,-3,1
+19764,24,Male,4-Nov-25,10:30,Pharmacist Pt Review,Morning Session,,,,
+20265,64,Male,4-Nov-25,13:30,Pharmacist F2F Review,Morning Session,8,-1,-10,9
+20855,68,Female,4-Nov-25,15:30,Minor illness AM,Morning Session,12,9,-2,12
+20944,70,Male,4-Nov-25,9:00,Minor illness AM,Morning Session,5,10,4,10
+21090,62,Female,4-Nov-25,11:00,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,3,40,37,12
+21403,60,Female,4-Nov-25,17:00,Flu Covid ,Morning Session,,,,
+21462,63,Female,4-Nov-25,11:40,PCN GP Tel Appt,Default Non-List Category,,,,
+21701,56,Female,4-Nov-25,17:10,Default,Nurse: General,6,-24,-31,7
+22027,62,Male,4-Nov-25,8:30,Tel for follow up results ONLY,Morning Session,,,,
+22047,31,Male,4-Nov-25,9:30,Face to Face 2 week bookable,Morning Session,2,3,1,15
+22243,56,Female,4-Nov-25,10:15,Docman Task follow up,Default Non-List Category,,,,
+23091,21,Female,4-Nov-25,10:45,Pharmacist Pt Review,Morning Session,,,,
+23177,54,Male,4-Nov-25,9:00,Face to Face 1 week bookable,Morning Session,16,11,-4,8
+23357,69,Female,4-Nov-25,16:20,AX Telephone same day,Evening Surgery,,,,
+23393,70,Male,4-Nov-25,11:15,Minor illness AM,Morning Session,0,54,54,20
+24124,20,Female,4-Nov-25,11:10,PCN GP F2F,Default Non-List Category,29,24,-5,9
+24128,64,Female,4-Nov-25,14:30,PCN GP F2F,Default Non-List Category,9,4,-5,14
+24584,67,Female,4-Nov-25,15:50,AX Telephone same day,Evening Surgery,,,,
+25052,52,Male,4-Nov-25,15:20,PCN GP F2F,Default Non-List Category,0,14,-18,6
+25348,20,Female,4-Nov-25,8:30,Minor illness AM,Morning Session,,,,
+26576,56,Female,4-Nov-25,10:00,Minor illness AM,Morning Session,0,-4,-4,26
+26604,18,Male,4-Nov-25,16:45,AX Face2Face same day ,Default Non-List Category,22,5,-17,9
+26706,61,Male,4-Nov-25,9:10,Face to Face 2 week bookable,Morning Session,,,,
+26956,82,Female,4-Nov-25,8:30,Default,Nurse: General,5,-1,-6,10
+27444,90,Female,4-Nov-25,10:10,Default,Nurse: General,9,2,-6,4
+27802,59,Male,4-Nov-25,16:40,Flu Covid ,Morning Session,0,-9,-10,0
+27971,65,Female,4-Nov-25,12:45,Minor illness AM,Morning Session,13,14,1,8
+28320,25,Female,4-Nov-25,10:40,PCN GP F2F,Default Non-List Category,14,18,4,19
+28715,40,Female,4-Nov-25,10:00,Pharmacist Pt Review,Morning Session,,,,
+28896,16,Female,4-Nov-25,9:15,Minor illness AM,Morning Session,0,7,7,16
+29566,46,Male,4-Nov-25,10:30,Pharmacist Pt Review,Morning Session,,,,
+29629,15,Male,4-Nov-25,15:10,Telephone 1 week bookable ,Default Non-List Category,,,,
+30582,47,Male,4-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+31139,62,Female,4-Nov-25,9:00,Urine only,Default List Category,0,543,543,9
+31175,14,Female,4-Nov-25,8:15,Tel for follow up results ONLY,Default Non-List Category,,,,
+31255,14,Female,4-Nov-25,8:00,Minor illness AM,Morning Session,0,1,0,10
+31339,24,Female,4-Nov-25,16:00,AX Telephone same day,Evening Surgery,,,,
+500881,42,Female,4-Nov-25,11:30,PCN GP F2F,Default Non-List Category,37,35,-1,19
+501627,74,Female,4-Nov-25,16:10,AX Telephone same day,Evening Surgery,,,,
+502006,44,Male,4-Nov-25,11:00,Minor illness AM,Morning Session,0,54,54,14
+502124,65,Female,4-Nov-25,9:00,Urine only,Default List Category,0,508,508,11
+502132,54,Female,4-Nov-25,10:30,Brunel Student ,Default Non-List Category,3,-5,-8,26
+502320,19,Female,4-Nov-25,8:00,Default,Nurse: General,1,0,-2,10
+502339,69,Female,4-Nov-25,16:30,Flu Covid ,Morning Session,0,-13,-14,4
+503010,39,Female,4-Nov-25,19:00,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+503020,29,Female,4-Nov-25,14:20,PCN GP F2F,Default Non-List Category,20,0,-21,12
+503313,16,Female,4-Nov-25,17:00,AX Face2Face same day ,Default Non-List Category,3,0,-3,15
+503361,66,Female,4-Nov-25,16:25,Flu Covid ,Morning Session,1,-16,-18,1
+503399,40,Female,4-Nov-25,8:30,Minor illness AM,Morning Session,15,11,-4,6
+503487,66,Female,4-Nov-25,14:30,Minor illness AM,Morning Session,1,-2,-3,17
+503544,19,Female,4-Nov-25,13:15,Minor illness AM,Morning Session,13,7,-5,8
+503602,52,Female,4-Nov-25,9:00,Face to Face 2 week bookable,Default Non-List Category,13,7,-5,20
+503684,51,Male,4-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+503840,12,Female,4-Nov-25,8:15,Minor illness AM,Morning Session,0,-2,-2,11
+503884,46,Female,4-Nov-25,19:15,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+504865,57,Female,4-Nov-25,15:15,Minor illness AM,Morning Session,29,15,-14,9
+505093,47,Female,4-Nov-25,19:30,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+505165,43,Female,4-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+505356,37,Male,4-Nov-25,10:30,PCN GP F2F,Default Non-List Category,20,14,-6,14
+505398,8,Female,4-Nov-25,8:45,Minor illness AM,Morning Session,6,10,3,13
+505728,8,Male,4-Nov-25,8:45,Minor illness AM,Morning Session,4,2,-1,15
+505879,47,Female,4-Nov-25,16:00,Tel for follow up results ONLY,Default Non-List Category,,,,
+505964,28,Female,4-Nov-25,17:20,Smear Test,Nurse: General,0,-5,-5,15
+506491,7,Female,4-Nov-25,12:30,Minor illness AM,Morning Session,29,14,-15,15
+506707,32,Female,4-Nov-25,14:00,PCN GP F2F,Default Non-List Category,,,,
+506853,38,Female,4-Nov-25,9:30,Minor illness AM,Morning Session,16,1,-15,19
+506953,7,Male,4-Nov-25,9:30,Pharmacist Pt Review,Morning Session,,,,
+507002,73,Female,4-Nov-25,9:30,Pharmacist Pt Review,Morning Session,,,,
+507243,41,Female,4-Nov-25,8:10,Default,Nurse: General,1,1,0,5
+507258,25,Female,4-Nov-25,12:30,Face to Face 2 week bookable,Default Non-List Category,0,-2,-2,12
+507278,49,Female,4-Nov-25,9:50,Docman Task follow up,Morning Session,,,,
+507680,51,Male,4-Nov-25,17:10,Flu Covid ,Morning Session,4,-13,-18,2
+508036,71,Female,4-Nov-25,8:00,Multi One stop clinic,Morning Session,0,7,-5,52
+508431,92,Female,4-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+508499,6,Male,4-Nov-25,15:45,Minor illness AM,Morning Session,8,2,-6,18
+508643,9,Male,4-Nov-25,9:30,Face to Face 2 week bookable,Default Non-List Category,38,27,-11,12
+508745,43,Female,4-Nov-25,10:00,AX Telephone same day,Default Non-List Category,,,,
+508772,60,Male,4-Nov-25,17:40,AX Telephone same day,Evening Surgery,,,,
+508861,43,Female,4-Nov-25,10:00,Smear Test,Morning Session,13,3,-10,16
+509131,21,Female,4-Nov-25,13:45,AX Face2Face same day ,Default Non-List Category,9,4,-4,14
+509133,43,Female,4-Nov-25,15:00,Minor illness AM,Morning Session,0,10,4,11
+509272,4,Male,4-Nov-25,9:45,Face to Face 2 week bookable,Default Non-List Category,29,24,-5,18
+509707,31,Female,4-Nov-25,16:30,PCN GP F2F,Default Non-List Category,8,20,11,12
+509952,8,Male,4-Nov-25,8:30,AX 48 hour bookable,Default Non-List Category,6,9,3,26
+510044,19,Female,4-Nov-25,14:10,PCN GP F2F,Default Non-List Category,1,-5,-7,15
+510085,40,Female,4-Nov-25,8:00,Tel for follow up results ONLY,Default Non-List Category,,,,
+510267,69,Male,4-Nov-25,10:00,PCN GP F2F,Default Non-List Category,15,4,-11,10
+510346,77,Male,4-Nov-25,14:15,Minor illness AM,Morning Session,12,1,-11,5
+510376,51,Female,4-Nov-25,12:45,Face to Face 2 week bookable,Default Non-List Category,,,,
+510410,3,Male,4-Nov-25,15:20,Pre School Booster and 1 year ONLY,Baby Clinic ,9,-3,-12,6
+510434,11,Female,4-Nov-25,14:45,Minor illness AM,Morning Session,11,6,-4,7
+510538,12,Female,4-Nov-25,9:30,Default,Nurse: General,,,,
+511035,42,Male,4-Nov-25,10:00,AX Telephone same day,Morning Session,,,,
+511102,2,Female,4-Nov-25,9:30,Minor illness AM,Morning Session,14,9,-5,13
+511408,52,Female,4-Nov-25,10:20,PCN GP F2F,Default Non-List Category,14,7,-6,16
+511417,40,Female,4-Nov-25,14:00,Minor illness AM,Morning Session,2,-4,-6,15
+511439,59,Female,4-Nov-25,14:30,Minor illness AM,Morning Session,24,0,-24,26
+511577,56,Female,4-Nov-25,9:40,PCN GP F2F,Default Non-List Category,7,5,-2,18
+511772,1,Male,4-Nov-25,13:30,AX Face2Face same day ,Default Non-List Category,17,3,-14,16
+511872,24,Female,4-Nov-25,10:15,Minor illness AM,Morning Session,16,5,-10,16
+511914,36,Female,4-Nov-25,10:15,Pharmacist Pt Review,Morning Session,,,,
+511946,33,Female,4-Nov-25,17:00,AX Telephone same day,Evening Surgery,,,,
+512069,4,Female,4-Nov-25,15:00,Minor illness AM,Morning Session,16,0,-16,9
+512202,38,Female,4-Nov-25,10:00,Face to Face 2 week bookable,Default Non-List Category,,,,
+512269,67,Female,4-Nov-25,8:15,Minor illness AM,Morning Session,2,-2,-5,28
+512324,58,Male,4-Nov-25,8:30,Multi One stop clinic,Morning Session,7,6,0,45
+512476,1,Male,4-Nov-25,14:50,BABY IMMS,Baby Clinic ,27,22,-4,1
+512478,1,Male,4-Nov-25,9:30,AX Face2Face same day ,Default Non-List Category,15,17,1,12
+512523,31,Female,4-Nov-25,19:45,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+512598,1,Male,4-Nov-25,16:20,PCN GP F2F,Default Non-List Category,26,14,-11,15
+512838,0,Female,4-Nov-25,13:15,AX 48 hour bookable,Default Non-List Category,1,2,1,15
+512889,33,Female,4-Nov-25,9:30,Multi One stop clinic,Morning Session,8,4,-4,36
+512942,57,Female,4-Nov-25,16:50,AX Telephone same day,Evening Surgery,,,,
+513024,0,Male,4-Nov-25,14:10,BABY IMMS,Baby Clinic ,7,7,0,5
+513031,0,Male,4-Nov-25,13:30,BABY IMMS,Baby Clinic ,8,-10,-18,10
+513066,0,Male,4-Nov-25,14:30,BABY IMMS,Baby Clinic ,2,-21,-35,5
+513127,0,Male,4-Nov-25,15:40,PCN GP F2F,Default Non-List Category,9,14,4,17
+513151,43,Female,4-Nov-25,16:10,PCN GP F2F,Default Non-List Category,13,5,-7,18
+513193,0,Female,4-Nov-25,12:15,Face to Face 1 week bookable,Default Non-List Category,9,-10,-20,21
+513218,64,Female,4-Nov-25,17:40,Default,Nurse: General,11,-6,-18,30
+359,78,Male,3-Nov-25,14:00,Minor illness AM,Morning Session,0,-3,-4,9
+553,59,Male,3-Nov-25,9:20,Drug Monitoring Blood Test,Default Non-List Category,12,8,-3,32
+864,71,Female,3-Nov-25,12:00,Minor illness AM,Morning Session,32,23,-8,8
+1154,69,Male,3-Nov-25,9:00,Urine only,Default List Category,0,559,559,8
+1206,86,Female,3-Nov-25,9:30,AX Telephone same day,Morning Session,,,,
+1330,47,Female,3-Nov-25,14:30,AX Face2Face same day ,Triage/Urgent Surg,18,4,-14,20
+1798,84,Female,3-Nov-25,9:00,Multi One stop clinic,Nurse: General,21,11,-9,31
+1886,68,Female,3-Nov-25,8:45,Minor illness AM,Morning Session,9,3,-5,7
+2067,36,Male,3-Nov-25,14:40,Default,Default Non-List Category,3,0,-3,150
+2403,74,Female,3-Nov-25,15:00,Minor illness AM,Morning Session,23,10,-13,22
+2823,68,Female,3-Nov-25,10:45,Minor illness AM,Morning Session,23,17,-5,12
+3343,58,Female,3-Nov-25,16:15,Minor illness AM,Morning Session,18,4,-13,8
+3591,80,Female,3-Nov-25,11:00,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-35,-35,5
+3720,40,Female,3-Nov-25,16:00,AX Telephone same day,Triage/Urgent Surg,,,,
+3762,71,Male,3-Nov-25,10:00,Hypertension Only,Default Non-List Category,13,4,-9,35
+4052,85,Female,3-Nov-25,9:30,Pharmacist Pt Review,Morning Session,,,,
+4308,66,Male,3-Nov-25,11:40,PN TO BOOK,Nurse: General,,,,
+4372,87,Male,3-Nov-25,16:40,AX Telephone same day,Morning Session,,,,
+5282,66,Male,3-Nov-25,9:00,Urine only,Default List Category,0,546,546,7
+5433,38,Female,3-Nov-25,9:10,Face to Face 2 week bookable,Morning Session,20,11,-8,7
+5657,81,Female,3-Nov-25,10:30,Pharmacist Pt Review,Morning Session,,,,
+6506,84,Male,3-Nov-25,14:45,AX Face2Face same day ,Triage/Urgent Surg,27,10,-17,20
+7108,83,Male,3-Nov-25,11:15,Minor illness AM,Morning Session,6,5,0,14
+7169,77,Female,3-Nov-25,13:10,Face to Face 1 week bookable,Morning Session,42,33,-8,10
+7226,89,Female,3-Nov-25,9:00,Urine only,Default List Category,,,,
+7361,70,Male,3-Nov-25,12:20,First Contact Physio,Morning Session,3,-9,-13,11
+7520,90,Female,3-Nov-25,9:50,Default,Nurse: General,9,-1,-10,37
+7643,68,Female,3-Nov-25,10:20,First Contact Physio,Morning Session,0,1,-11,10
+7724,81,Female,3-Nov-25,14:20,Default,Default Non-List Category,,,,
+8128,73,Male,3-Nov-25,11:40,PN TO BOOK,Default Non-List Category,29,14,-14,28
+8321,70,Female,3-Nov-25,9:40,Drug Monitoring Blood Test,Default Non-List Category,15,8,-7,14
+8370,80,Female,3-Nov-25,10:00,AX Face2Face same day ,Morning Session,0,6,6,3
+8552,60,Male,3-Nov-25,10:30,AX Face2Face same day ,Default Non-List Category,2,3,0,25
+8612,50,Female,3-Nov-25,9:00,Urine only,Default List Category,0,553,553,3
+8654,70,Male,3-Nov-25,11:00,Hypertension Only,Default Non-List Category,19,6,-13,95
+8705,90,Female,3-Nov-25,9:00,Drug Monitoring Blood Test,Default Non-List Category,7,-14,-22,8
+9091,86,Male,3-Nov-25,10:15,Minor illness AM,Morning Session,7,1,-6,10
+9144,61,Male,3-Nov-25,16:00,Minor illness AM,Morning Session,15,10,-4,8
+9326,42,Female,3-Nov-25,16:15,AX Telephone same day,Triage/Urgent Surg,,,,
+9579,64,Female,3-Nov-25,10:00,First Contact Physio,Morning Session,4,7,3,10
+10392,64,Female,3-Nov-25,9:20,First Contact Physio,Morning Session,13,4,-8,14
+10616,62,Male,3-Nov-25,11:45,Minor illness AM,Morning Session,21,18,-3,13
+10673,81,Male,3-Nov-25,10:30,Minor illness AM,Morning Session,0,-10,-11,20
+10674,80,Female,3-Nov-25,14:20,First Contact Physio,Evening Surgery,2,-4,-7,21
+10772,56,Female,3-Nov-25,16:40,First Contact Physio,Evening Surgery,,,,
+11118,66,Female,3-Nov-25,9:10,Drug Monitoring Blood Test,Default Non-List Category,11,0,-11,16
+11159,65,Female,3-Nov-25,8:00,Face to Face 1 week bookable,Morning Session,9,8,0,0
+11173,61,Male,3-Nov-25,8:15,Face to Face 2 week bookable,Morning Session,6,-4,-11,12
+11475,81,Female,3-Nov-25,15:20,AX Face2Face same day ,Morning Session,19,7,-11,7
+11563,83,Male,3-Nov-25,10:00,Default,Nurse: General,2,27,25,14
+11672,67,Female,3-Nov-25,17:53,Urgent Telephone Call,Triage/Urgent Surg,,,,
+12205,65,Male,3-Nov-25,8:40,Tel for follow up results ONLY,Morning Session,,,,
+12596,77,Female,3-Nov-25,8:30,Tel for follow up results ONLY,Morning Session,,,,
+12626,67,Male,3-Nov-25,11:20,Default,Default Non-List Category,19,1,-18,21
+13382,75,Female,3-Nov-25,9:45,Tel for follow up results ONLY,Default Non-List Category,,,,
+13572,55,Female,3-Nov-25,9:30,Drug Monitoring Blood Test,Default Non-List Category,20,10,-9,5
+13760,87,Female,3-Nov-25,15:45,AX Telephone same day,Triage/Urgent Surg,,,,
+14535,46,Female,3-Nov-25,10:15,Face to Face 1 week bookable,Default Non-List Category,2,-3,-5,20
+14549,89,Female,3-Nov-25,10:30,Default,Nurse: General,,,,
+15023,58,Female,3-Nov-25,10:45,Minor illness AM,Morning Session,2,-4,-6,24
+15883,56,Female,3-Nov-25,16:50,Default,Morning Session,0,35,35,2
+16751,60,Female,3-Nov-25,17:30,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-215,-215,39
+17120,27,Female,3-Nov-25,9:30,Minor illness AM,Morning Session,14,5,-9,16
+17216,27,Female,3-Nov-25,16:30,Minor illness AM,Morning Session,7,-1,-9,10
+17508,27,Female,3-Nov-25,9:00,Pharmacist Pt Review,Morning Session,,,,
+17613,82,Female,3-Nov-25,13:47,Care Home Visit,Morning Session,,,,
+18364,63,Male,3-Nov-25,11:20,First Contact Physio,Morning Session,6,-2,-9,13
+19106,75,Male,3-Nov-25,10:15,Pharmacist Admin DO NOT Book,Morning Session,,,,
+19696,28,Male,3-Nov-25,16:20,First Contact Physio,Evening Surgery,12,-7,-19,13
+19700,28,Female,3-Nov-25,15:50,AX Face2Face same day ,Morning Session,17,13,-4,24
+20068,76,Male,3-Nov-25,15:00,First Contact Physio,Evening Surgery,11,2,-8,11
+20627,51,Female,3-Nov-25,17:00,Default,Morning Session,,27,25,
+20889,86,Female,3-Nov-25,11:30,Default,Nurse: General,22,-6,-28,25
+21296,60,Female,3-Nov-25,9:00,Face to Face 2 week bookable,Default Non-List Category,2,-3,-6,34
+21609,22,Female,3-Nov-25,16:45,AX Telephone same day,Triage/Urgent Surg,,,,
+21891,52,Female,3-Nov-25,15:40,Default,Default Non-List Category,24,16,-7,93
+22336,61,Male,3-Nov-25,19:15,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+23483,63,Female,3-Nov-25,9:30,Tel for follow up results ONLY,Default Non-List Category,,,,
+23860,61,Male,3-Nov-25,11:30,PN TO BOOK,Default Non-List Category,25,13,-11,48
+25322,56,Female,3-Nov-25,9:45,Pharmacist Pt Review,Morning Session,,,,
+25484,57,Female,3-Nov-25,19:30,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+27244,72,Male,3-Nov-25,12:00,Tel for follow up results ONLY,Morning Session,,,,
+27314,69,Female,3-Nov-25,12:20,Care Home Visit,Morning Session,,,,
+27317,55,Female,3-Nov-25,16:20,Face to Face 2 week bookable,Morning Session,37,34,-3,11
+27420,64,Male,3-Nov-25,11:00,Multi One stop clinic,Nurse: General,7,2,-4,172
+27471,18,Female,3-Nov-25,8:45,Face to Face 2 week bookable,Morning Session,10,6,-4,22
+28674,68,Male,3-Nov-25,11:55,PN TO BOOK,Nurse: General,,,,
+29103,59,Female,3-Nov-25,10:00,Face to Face 1 week bookable,Default Non-List Category,13,0,-13,10
+29756,20,Female,3-Nov-25,16:30,AX Telephone same day,Triage/Urgent Surg,,,,
+30526,15,Female,3-Nov-25,14:00,Minor illness AM,Morning Session,3,0,-3,15
+31128,41,Male,3-Nov-25,9:00,Mental Health review phonecall,Morning Session,,,,
+31260,31,Female,3-Nov-25,13:30,Minor illness AM,Morning Session,,,,
+500036,47,Female,3-Nov-25,14:40,First Contact Physio,Evening Surgery,5,4,0,12
+500085,41,Male,3-Nov-25,9:00,Minor illness AM,Morning Session,0,1,1,18
+500108,42,Female,3-Nov-25,15:30,AX Face2Face same day ,Morning Session,10,5,-4,14
+500159,56,Female,3-Nov-25,15:15,Minor illness AM,Morning Session,,,,
+500311,50,Male,3-Nov-25,12:10,Tel for follow up results ONLY,Morning Session,,,,
+500371,73,Male,3-Nov-25,10:20,Default,Nurse: General,,,,
+500609,40,Female,3-Nov-25,15:15,Minor illness AM,Morning Session,3,-2,-6,12
+501076,61,Male,3-Nov-25,10:40,Hypertension Only,Default Non-List Category,14,4,-9,191
+501356,21,Male,3-Nov-25,16:10,Face to Face 1 week bookable,Morning Session,33,28,-5,15
+501669,63,Male,3-Nov-25,11:15,Minor illness AM,Morning Session,0,11,11,75
+501830,50,Female,3-Nov-25,14:00,First Contact Physio,Evening Surgery,4,-1,-5,16
+501988,11,Male,3-Nov-25,15:40,AX Face2Face same day ,Morning Session,24,9,-14,13
+502570,41,Female,3-Nov-25,13:30,AX 48 hour bookable,Morning Session,26,24,-2,12
+502632,75,Male,3-Nov-25,15:00,Default,Default Non-List Category,9,-14,-23,157
+503041,38,Female,3-Nov-25,8:50,Default,Nurse: General,,,,
+503218,73,Male,3-Nov-25,11:00,Minor illness AM,Morning Session,14,5,-9,12
+503325,10,Female,3-Nov-25,11:00,Face to Face 2 week bookable,Default Non-List Category,15,9,-5,13
+503753,33,Female,3-Nov-25,16:00,Minor illness AM,Morning Session,12,7,-5,13
+503877,61,Male,3-Nov-25,8:40,Default,Nurse: General,,,,
+503990,50,Male,3-Nov-25,19:00,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+504033,28,Male,3-Nov-25,13:00,Minor illness AM,Morning Session,3,0,-2,11
+504383,84,Male,3-Nov-25,11:10,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,0,-50,-50,4
+504416,47,Female,3-Nov-25,17:20,First Contact Physio,Evening Surgery,4,-1,-5,16
+504442,17,Female,3-Nov-25,14:45,Minor illness AM,Morning Session,5,39,34,24
+504527,46,Female,3-Nov-25,9:20,Face to Face 1 week bookable,Morning Session,7,9,2,5
+504558,54,Female,3-Nov-25,12:20,AX Face2Face same day ,Morning Session,16,15,-1,6
+504912,60,Male,3-Nov-25,8:00,Default,Nurse: General,3,2,0,51
+504943,12,Female,3-Nov-25,17:00,Minor Illness PM,Morning Session,0,2,2,6
+504988,41,Female,3-Nov-25,9:15,Minor illness AM,Morning Session,8,8,0,11
+505035,15,Female,3-Nov-25,9:45,Minor illness AM,Morning Session,0,7,6,9
+505553,59,Female,3-Nov-25,12:15,AX Face2Face same day ,Default Non-List Category,25,8,-16,28
+505665,42,Male,3-Nov-25,10:00,Mental Health review phonecall,Morning Session,,,,
+505704,66,Female,3-Nov-25,10:45,Pharmacist Pt Review,Morning Session,,,,
+505761,69,Male,3-Nov-25,15:45,Minor illness AM,Morning Session,18,3,-14,15
+505889,79,Female,3-Nov-25,13:35,Care Home Visit,Morning Session,,,,
+505913,33,Female,3-Nov-25,9:30,Mental Health review phonecall,Morning Session,,,,
+506521,40,Female,3-Nov-25,16:00,Face to Face 1 week bookable,Morning Session,27,27,0,8
+506694,43,Female,3-Nov-25,11:30,Minor illness AM,Morning Session,32,15,-17,18
+506719,7,Male,3-Nov-25,9:30,Minor illness AM,Morning Session,25,10,-14,5
+506799,66,Male,3-Nov-25,9:00,Face to Face 1 week bookable,Morning Session,14,10,-4,10
+506997,56,Male,3-Nov-25,9:45,Minor illness AM,Morning Session,9,1,-7,9
+507260,6,Male,3-Nov-25,12:00,AX Face2Face same day ,Default Non-List Category,14,12,-1,9
+507298,27,Female,3-Nov-25,8:20,Smear Test,Nurse: General,,,,
+507320,48,Female,3-Nov-25,14:30,Minor illness AM,Morning Session,5,1,-3,21
+507458,41,Female,3-Nov-25,11:00,Tel for follow up results ONLY,Default Non-List Category,,,,
+507556,65,Male,3-Nov-25,14:45,Minor illness AM,Morning Session,24,8,-16,16
+507575,6,Female,3-Nov-25,15:15,AX Face2Face same day ,Triage/Urgent Surg,23,17,-5,6
+507649,75,Female,3-Nov-25,11:15,AX Face2Face same day ,Default Non-List Category,14,8,-5,12
+507666,78,Female,3-Nov-25,16:00,First Contact Physio,Evening Surgery,2,2,0,9
+507695,35,Female,3-Nov-25,10:15,Minor illness AM,Morning Session,19,24,4,16
+507731,28,Female,3-Nov-25,9:45,Face to Face 2 week bookable,Default Non-List Category,12,4,-7,17
+507746,60,Male,3-Nov-25,9:00,Minor Op Procedure,Morning Session,10,7,-2,5
+507774,41,Male,3-Nov-25,10:30,Mental Health review phonecall,Morning Session,,,,
+507797,6,Male,3-Nov-25,12:30,AX Face2Face same day ,Morning Session,14,12,-1,11
+507838,72,Male,3-Nov-25,8:50,Face to Face 1 week bookable,Morning Session,18,7,-10,12
+507846,30,Male,3-Nov-25,10:00,Minor illness AM,Morning Session,4,0,-5,9
+507849,50,Male,3-Nov-25,18:00,URGENT DOCTOR ONLY TO BOOK,Triage/Urgent Surg,,-32,-32,
+507856,61,Female,3-Nov-25,10:40,First Contact Physio,Morning Session,5,-6,-12,21
+508150,57,Male,3-Nov-25,9:15,Minor illness AM,Morning Session,14,5,-9,9
+508394,58,Female,3-Nov-25,10:30,Home Visit for review,Default Non-List Category,0,87,87,0
+508613,5,Male,3-Nov-25,11:00,Minor illness AM,Morning Session,14,17,2,9
+508709,82,Female,3-Nov-25,13:50,Care Home Visit,Morning Session,,,,
+508806,87,Female,3-Nov-25,13:00,Care Home Visit,Morning Session,,,,
+508872,79,Female,3-Nov-25,15:00,AX Face2Face same day ,Triage/Urgent Surg,18,16,-2,16
+508916,29,Female,3-Nov-25,13:20,Telephone 1 week bookable ,Morning Session,,,,
+509020,67,Female,3-Nov-25,10:00,Pharmacist Pt Review,Morning Session,,,,
+509119,18,Male,3-Nov-25,13:00,AX Face2Face same day ,Morning Session,28,31,2,12
+509200,47,Female,3-Nov-25,12:00,First Contact Physio,Morning Session,17,-2,-20,4
+509244,49,Female,3-Nov-25,16:30,Face to Face 2 week bookable,Morning Session,38,36,-2,15
+509442,46,Female,3-Nov-25,15:00,Tel for follow up results ONLY,Morning Session,,,,
+509451,56,Female,3-Nov-25,9:30,Face to Face 2 week bookable,Default Non-List Category,7,5,-1,12
+509594,59,Male,3-Nov-25,9:15,Pharmacist Pt Review,Morning Session,,,,
+509780,46,Female,3-Nov-25,11:40,First Contact Physio,Morning Session,5,7,1,10
+509806,6,Female,3-Nov-25,13:40,CCAS 111 Telephone Triage,Morning Session,,,,
+509983,18,Female,3-Nov-25,10:00,Face to Face 2 week bookable,Default Non-List Category,15,17,2,17
+510164,30,Female,3-Nov-25,15:00,Minor illness AM,Morning Session,0,-9,-9,21
+510483,79,Female,3-Nov-25,13:42,Care Home Visit,Morning Session,,,,
+510498,29,Male,3-Nov-25,16:45,Minor illness AM,Morning Session,5,-3,-8,9
+510831,50,Female,3-Nov-25,17:00,First Contact Physio,Evening Surgery,0,0,0,11
+510907,2,Male,3-Nov-25,10:45,Face to Face 1 week bookable,Default Non-List Category,8,15,7,7
+510908,64,Female,3-Nov-25,9:40,AX Face2Face same day ,Morning Session,24,4,-20,10
+510916,22,Female,3-Nov-25,15:45,Minor illness AM,Morning Session,15,10,-5,14
+510929,35,Female,3-Nov-25,19:45,Sheepcot Medical Core Hours,Extended Open Hours,,,,
+510977,71,Male,3-Nov-25,9:50,Face to Face 1 week bookable,Morning Session,11,7,-3,8
+511336,36,Male,3-Nov-25,15:20,First Contact Physio,Evening Surgery,,,,
+511338,30,Female,3-Nov-25,14:15,Minor illness AM,Morning Session,7,0,-6,10
+511356,37,Female,3-Nov-25,9:00,Urine only,Default List Category,,,,
+511466,32,Male,3-Nov-25,12:40,AX Face2Face same day ,Morning Session,23,17,-5,12
+511712,6,Female,3-Nov-25,11:30,Face to Face 2 week bookable,Morning Session,4,7,2,11
+511782,6,Male,3-Nov-25,15:30,Minor illness AM,Morning Session,0,3,3,10
+511798,38,Female,3-Nov-25,17:15,AX Telephone same day,Triage/Urgent Surg,,,,
+511817,27,Male,3-Nov-25,12:40,First Contact Physio,Morning Session,3,0,-3,5
+511821,24,Female,3-Nov-25,9:00,Minor illness AM,Morning Session,23,14,-9,7
+511829,74,Female,3-Nov-25,13:46,Care Home Visit,Morning Session,,,,
+511969,61,Male,3-Nov-25,13:15,Minor illness AM,Morning Session,2,1,0,14
+512014,48,Male,3-Nov-25,11:50,PN TO BOOK,Nurse: General,19,0,-20,125
+512088,36,Male,3-Nov-25,9:40,First Contact Physio,Morning Session,2,4,1,12
+512231,79,Male,3-Nov-25,12:40,Care Home Visit,Morning Session,,,,
+512252,85,Female,3-Nov-25,13:48,Care Home Visit,Morning Session,,,,
+512259,30,Female,3-Nov-25,14:30,Minor illness AM,Morning Session,6,-1,-7,7
+512384,1,Female,3-Nov-25,11:45,AX Face2Face same day ,Default Non-List Category,11,13,2,14
+512549,73,Female,3-Nov-25,12:00,Care Home Visit,Morning Session,,,,
+512631,37,Male,3-Nov-25,11:30,AX Face2Face same day ,Default Non-List Category,6,7,0,18
+512654,82,Female,3-Nov-25,13:41,Care Home Visit,Morning Session,,,,
+512656,47,Male,3-Nov-25,13:45,Minor illness AM,Morning Session,12,-8,-21,11
+512699,30,Male,3-Nov-25,17:00,Telephone 1 week bookable ,Triage/Urgent Surg,,,,
+512798,95,Female,3-Nov-25,13:38,Care Home Visit,Morning Session,,,,
+512823,73,Female,3-Nov-25,12:10,Care Home Visit,Morning Session,,,,
+513023,90,Female,3-Nov-25,12:50,Care Home Visit,Morning Session,,,,
+513061,78,Male,3-Nov-25,13:30,Care Home Visit,Morning Session,,,,
+513086,81,Female,3-Nov-25,13:20,Care Home Visit,Morning Session,,,,
+513174,90,Female,3-Nov-25,13:10,Care Home Visit,Morning Session,,,,
+513203,81,Female,3-Nov-25,13:39,Care Home Visit,Morning Session,,,,
+513211,64,Male,3-Nov-25,13:44,Care Home Visit,Morning Session,,,,
+513226,93,Male,3-Nov-25,13:40,Care Home Visit,Morning Session,,,,
